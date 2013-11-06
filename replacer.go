@@ -250,7 +250,7 @@ func (r *Replacer) WriteString(w io.Writer, s string) (n int, err error) {
 		val, keylen, match := r.lookup(s[i:], prevMatchEmpty)
 		prevMatchEmpty = match && keylen == 0
         
-        fmt.Println(val)
+        //fmt.Println(val)
 		// first, let's make sure this thing ends on a word boundary. If it doesn't, then
 		// screw it.
 		if !isIsolatedWord(s, i, keylen) {
