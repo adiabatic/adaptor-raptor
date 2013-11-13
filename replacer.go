@@ -1,16 +1,73 @@
 package main
 
 import (
+	"bytes"
+	"fmt"
 	"io"
 	"strings"
 	"unicode"
-	"fmt"
 	"unicode/utf8"
 )
 
+type Warning struct {
+	Haystack string
+	At       int
+	Length   int
+	Message  string
+}
+
+type Notices struct {
+	error
+	Warnings []Warning
+}
+
+func (e *Notices) Error() string {
+	var buffer bytes.Buffer
+	for _, w := range e.Warnings {
+		ctx := w.Haystack[w.At-10 : w.Length+10]
+		msgPrefix := "ambiguous choice: «"
+		msgSuffix := "»\n"
+		buffer.WriteString(msgPrefix + ctx + msgSuffix)
+		buffer.WriteString(strings.Repeat(" ", utf8.RuneCountInString(msgPrefix)+10) + "^\n\n")
+	}
+
+	return buffer.String()
+}
+
+func (e *Notices) AddWarning(w Warning) {
+	if e.Warnings == nil {
+		e.Warnings = make([]Warning, 1)
+	}
+	e.Warnings = append(e.Warnings, w)
+}
+
+type Entry struct {
+	// The word written in Latin script.
+	From string `yaml:"f"`
+
+	// The word in Quikscript, assuming there’s only one spelling.
+	// For strings of Latin text with multiple possible pronunciations (“use”, “arithmetic”, etc.),
+	// this will be "", and you’ll need to look in .Possibilities.
+	To string `yaml:"t"`
+
+	// The Junior Quikscript expansion, if there is one. There’s about five.
+	Junior string
+	// The Senior Quikscript abbreviation, if there is one.
+	Senior string
+
+	// Some strings like "use" in Latin have multiple pronunciations depending on what part
+	// of speech it’s supposed to be. For these words, Possibilities lists all the different
+	// things it could be.
+	Possibilities []string
+
+	// True only if
+	CaseSensitive bool `yaml:"case-sensitive"`
+	Warning       string
+}
+
 type trieNode struct {
 	// The value of the node’s key/value pair. Empty if this node isn’t a complete key.
-	value string
+	value Entry
 
 	// Priority of the pair; keys aren’t necessarily matched longest- or shortest-first.
 	// This number is positive if this node is a complete key, and 0 otherwise.
@@ -27,7 +84,7 @@ type trieNode struct {
 	table  []*trieNode
 }
 
-func (t *trieNode) add(key, val string, priority int /*, caseSensitive bool*/, r *Replacer) {
+func (t *trieNode) add(key string, val Entry, priority int, r *Replacer) {
 	// fail if someone tries to stuff nothing in as a key
 	if key == "" {
 		if t.priority == 0 {
@@ -93,7 +150,7 @@ func (t *trieNode) add(key, val string, priority int /*, caseSensitive bool*/, r
 	}
 }
 
-func (r *Replacer) lookup(s string, ignoreRoot bool) (val string, keylen int, found bool) {
+func (r *Replacer) lookup(s string, ignoreRoot bool) (val Entry, keylen int, found bool) {
 	// go down the trie to the end, and grab the val/keylen with the highest priority.
 	bestPriority := 0
 	node := &r.root
@@ -136,19 +193,15 @@ type Replacer struct {
 	mapping   [256]byte
 }
 
-func New(oldnew ...string) *Replacer {
-
-	if len(oldnew)%2 == 1 {
-		panic("replacer.New: odd argument count")
-	}
-
+func New(oldnew []Entry) *Replacer {
 	r := new(Replacer)
 
 	// go through all the keys…
 	//  and for every different byte in the keys…
 	//      put a 1 in that byte’s index in the mapping.
-	for i := 0; i < len(oldnew); i += 2 {
-		key := oldnew[i]
+
+	for i := 0; i < len(oldnew); i++ {
+		key := oldnew[i].From
 		for j := 0; j < len(key); j++ {
 			r.mapping[key[j]] = 1
 		}
@@ -179,9 +232,9 @@ func New(oldnew ...string) *Replacer {
 	r.root.table = make([]*trieNode, r.tableSize)
 
 	// finally, add ’em all in.
-	for i := 0; i < len(oldnew); i += 2 {
-		//                                 add things highest-priority first
-		r.root.add(oldnew[i], oldnew[i+1], len(oldnew)-i, r)
+	for i := 0; i < len(oldnew); i++ {
+		//                                    add things highest-priority first
+		r.root.add(oldnew[i].From, oldnew[i], len(oldnew)-i, r)
 	}
 	return r
 }
@@ -219,29 +272,30 @@ func getStringWriter(w io.Writer) stringWriterIface {
 	return sw
 }
 
-func (r *Replacer) Replace(s string) string {
+func (r *Replacer) Replace(s string) (string, error) {
 	buf := make(appendSliceWriter, 0, len(s))
-	r.WriteString(&buf, s)
-	return string(buf)
+	_, err := r.WriteString(&buf, s)
+	return string(buf), err
 }
 
 // Returns true if a string starting at index i and length l is surrounded by non-letters.
 // The beginning and end of strings are considered non-letters.
 func isIsolatedWord(haystack string, i, l int) bool {
-    alpha := rune(' ')
-    if i > 0 {
-        alpha, _ = utf8.DecodeRuneInString(haystack[i-1:])
-    }
-    omega, _ := utf8.DecodeRuneInString(haystack[i+l:])
-    
-    isolatedBeginning := unicode.IsSpace(alpha) || unicode.IsPunct(alpha)
-    isolatedEnd := unicode.IsSpace(omega) || unicode.IsPunct(omega)
+	alpha := rune(' ')
+	if i > 0 {
+		alpha, _ = utf8.DecodeRuneInString(haystack[i-1:])
+	}
+	omega, _ := utf8.DecodeRuneInString(haystack[i+l:])
 
-    return isolatedBeginning && isolatedEnd
+	isolatedBeginning := unicode.IsSpace(alpha) || unicode.IsPunct(alpha)
+	isolatedEnd := unicode.IsSpace(omega) || unicode.IsPunct(omega)
+
+	return isolatedBeginning && isolatedEnd
 }
 
 func (r *Replacer) WriteString(w io.Writer, s string) (n int, err error) {
 	sw := getStringWriter(w)
+	err = &Notices{}
 	var last, wn int
 	var prevMatchEmpty bool
 
@@ -249,13 +303,13 @@ func (r *Replacer) WriteString(w io.Writer, s string) (n int, err error) {
 		// ignore the empty match iff the previous loop found the empty match
 		val, keylen, match := r.lookup(s[i:], prevMatchEmpty)
 		prevMatchEmpty = match && keylen == 0
-        
-        //fmt.Println(val)
+
+		//fmt.Println(val)
 		// first, let's make sure this thing ends on a word boundary. If it doesn't, then
 		// screw it.
 		if !isIsolatedWord(s, i, keylen) {
-            i++
-            continue
+			i++
+			continue
 		}
 
 		if match {
@@ -265,7 +319,7 @@ func (r *Replacer) WriteString(w io.Writer, s string) (n int, err error) {
 				return
 			}
 
-			wn, err = sw.WriteString(val)
+			wn, err = sw.WriteString(val.To)
 			n += wn
 			if err != nil {
 				return

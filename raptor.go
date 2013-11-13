@@ -1,54 +1,61 @@
 package main
 
 import (
-    "bytes"
-    "fmt"
-    "io/ioutil"
-    "launchpad.net/goyaml"
-
-//    "strings"
+	//	"bytes"
+	"fmt"
+	"io/ioutil"
+	"launchpad.net/goyaml"
+	"strings"
 )
 
-type Entry struct {
-    From          string `yaml:"f"`
-    To            string `yaml:"t"`
-    CaseSensitive bool   `yaml:"case-sensitive"`
-    Warning       string
-}
-
 func main() {
-    corpus, err := ioutil.ReadFile("en-Latn2en-Qaas.yaml")
-    if err != nil {
-        panic("couldn’t read corpus")
-    }
 
-    document, err := ioutil.ReadFile("source.markdown")
-    if err != nil {
-        panic("couldn’t read source markdown text")
-    }
+	overrides, err := ioutil.ReadFile("00.yaml")
+	if err != nil {
+		panic("couldn’t read overrides file")
+	}
 
-    // This will work OK as long as there isn't a "---" anywhere in the file
-    // other than in document separators.
-    sep := []byte("---")
-    corpus_split := bytes.Split(corpus, sep)
+	normal_words, err := ioutil.ReadFile("50.yaml")
+	if err != nil {
+		panic("couldn’t read the large chunk of normal words")
+	}
 
-    replacements := make([]string, 0, 1024)
+	corpus := strings.Join([]string{string(overrides), string(normal_words)}, "")
 
-    for _, entry := range corpus_split {
-//        fmt.Printf("%v", string(entry))
+	document, err := ioutil.ReadFile("source.markdown")
+	if err != nil {
+		panic("couldn’t read source markdown text")
+	}
 
-        e := Entry{}
-        err := goyaml.Unmarshal(entry, &e)
-        if err != nil {
-            panic(err)
-        }
+	// This will work OK as long as there isn't a "---" anywhere in the file
+	// other than in document separators.
+	sep := "---"
+	corpus_split := strings.Split(corpus, sep)
 
-        replacements = append(replacements, e.From, e.To)
-//        fmt.Printf("%#v\n", e)
-    }
+	replacements := make([]Entry, 0, 1024)
 
-    replacer := New(replacements...)
-    s := replacer.Replace(string(document))
-    fmt.Println(s)
+	for _, entry := range corpus_split {
+		//        fmt.Printf("%v", string(entry))
+
+		e := Entry{}
+		err := goyaml.Unmarshal([]byte(entry), &e)
+		if err != nil {
+			panic(err)
+		}
+
+		// filter out purely informative “entries” and entries with one-to-many mappings
+		if e.From == "" || e.To == "" {
+			continue
+		}
+
+		replacements = append(replacements, e)
+	}
+
+	replacer := New(replacements)
+	s, err := replacer.Replace(string(document))
+	fmt.Println(s)
+	if err != nil {
+
+	}
 
 }
