@@ -8,19 +8,21 @@ import (
 	"strings"
 )
 
+func assemble_corpus(files ...string) string {
+	ss := make([]string, 0, 3)
+	for _, fn := range files {
+		contents, err := ioutil.ReadFile(fn)
+		if err != nil {
+			panic("couldn’t read dictionary file: " + fn)
+		}
+		ss = append(ss, string(contents))
+	}
+
+	return strings.Join(ss, "")
+}
+
 func main() {
-
-	overrides, err := ioutil.ReadFile("00.yaml")
-	if err != nil {
-		panic("couldn’t read overrides file")
-	}
-
-	normal_words, err := ioutil.ReadFile("50.yaml")
-	if err != nil {
-		panic("couldn’t read the large chunk of normal words")
-	}
-
-	corpus := strings.Join([]string{string(overrides), string(normal_words)}, "")
+	corpus := assemble_corpus("00.yaml", "25.yaml", "50.yaml")
 
 	document, err := ioutil.ReadFile("source.markdown")
 	if err != nil {
