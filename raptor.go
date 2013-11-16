@@ -51,6 +51,12 @@ func main() {
 		}
 
 		replacements = append(replacements, e)
+
+		if !e.CaseSensitive {
+			f := e
+			f.From = strings.Title(f.From)
+			replacements = append(replacements, f)
+		}
 	}
 
 	replacer := New(replacements)
