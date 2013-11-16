@@ -22,7 +22,7 @@ func assemble_corpus(files ...string) string {
 }
 
 func main() {
-	corpus := assemble_corpus("00.yaml", "25.yaml", "50.yaml")
+	corpus := assemble_corpus("00.yaml", "04.yaml", "25.yaml", "50.yaml")
 
 	document, err := ioutil.ReadFile("source.markdown")
 	if err != nil {

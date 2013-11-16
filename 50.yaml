@@ -308,3 +308,10 @@ junior:  # erroneously un-happy-tensed?
 ---
 f: omnilingual
 t: 
+---
+f: Terra
+t: ·
+case-sensitive: true
+---
+f: editor’s
+t:  
