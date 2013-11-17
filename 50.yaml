@@ -23,6 +23,10 @@ t: 
 f: word
 t: 
 ---
+f: with
+t: 
+senior: 
+---
 f: why
 t: 
 ---
@@ -31,6 +35,9 @@ t: 
 ---
 f: who
 t: 
+---
+f: while
+t: 
 ---
 f: which
 t: 
@@ -72,6 +79,9 @@ f: use
 possibilities:
 - 
 - 
+---
+f: up
+t: 
 ---
 f: unless
 t: 
@@ -132,6 +142,9 @@ t: 
 f: take
 t: 
 ---
+f: supplemental
+t: 
+---
 f: story
 t: 
 ---
@@ -143,6 +156,9 @@ t: 
 ---
 f: some
 t: 
+---
+f: smokes
+t: 
 ---
 f: science
 t: 
@@ -156,11 +172,20 @@ t: 
 f: said
 t: 
 ---
+f: rooted
+t: 
+---
 f: professor
 t: 
 ---
 f: planet’s
 t: 
+---
+f: particulars
+t: 
+---
+f: oxygen
+t: 
 ---
 f: over
 t: 
@@ -188,6 +213,9 @@ t: 
 ---
 f: once
 t: 
+---
+f: 'on'
+t: 
 ---
 f: omnilingual
 t: 
@@ -238,14 +266,26 @@ t: 
 f: might
 t: 
 ---
+f: meat
+t: 
+---
 f: may
 t: 
+---
+f: marvelously
+t: 
 ---
 f: long
 t: 
 ---
 f: linguistic
 t: 
+---
+f: like
+t: 
+---
+f: later
+t: 
 ---
 f: last
 t: 
@@ -290,6 +330,9 @@ warning: Could also be a roman numeral.
 f: how
 t: 
 ---
+f: holds
+t: 
+---
 f: hers
 t: 
 ---
@@ -309,11 +352,20 @@ junior: 
 f: first
 t: 
 ---
+f: firmly
+t: 
+---
+f: fifty
+t: 
+---
 f: fiction
 t: 
 ---
 f: few
 t: 
+---
+f: everyone
+t: 
 ---
 f: even
 t: 
@@ -339,6 +391,9 @@ t: 
 f: common
 t: 
 ---
+f: chimney
+t: 
+---
 f: by
 t: 
 ---
@@ -356,6 +411,9 @@ t: 
 f: are
 t: 
 senior: 
+---
+f: archaeology
+t: 
 ---
 f: and
 t: 
@@ -378,3 +436,6 @@ t: 
 ---
 f: a
 t: 
+---
+f: 1950s
+t: 1950
