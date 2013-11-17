@@ -41,8 +41,16 @@ t: 
 f: when
 t: 
 ---
+f: we’ use
+t:  
+senior:   
+---
 f: were
 t: 
+---
+f: we use
+t:  
+senior:  
 ---
 f: we
 t: 
@@ -76,6 +84,9 @@ t: 
 ---
 f: too
 t: 
+---
+f: to use
+t:  
 ---
 f: to
 t: 
@@ -233,6 +244,9 @@ t: 
 f: long
 t: 
 ---
+f: linguistic
+t: 
+---
 f: last
 t: 
 ---
@@ -259,6 +273,9 @@ junior: 
 ---
 f: introduction
 t: 
+---
+f: in use
+t:  
 ---
 f: in
 t: 
