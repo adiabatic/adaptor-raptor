@@ -1,8 +1,14 @@
 # coding: UTF-8
 
+# usage: sort.py [infile] [outfile]
+# 
+# infile and outfile can be the same file. Of course, there may be bugs.
+# You’ve got infile in a version-control system, right? Then you’re good to go.
+
 import yaml
 import itertools
 import codecs, locale, sys
+import StringIO
 
 #sys.stdout = codecs.getwriter('UTF-8')(sys.stdout)
 
@@ -27,10 +33,15 @@ def quote_maybe(s):
 def chomp(s):
     if s[-1] == '\n': return s[:-1]
     return s
-    
+
+if len(sys.argv) < 3:
+    sys.stderr.write("sort.py infile outfile\n")
+    sys.exit(1)
 
 l = None
-with open("50.yaml") as f:
+outs = StringIO.StringIO()
+outsu = codecs.getwriter('UTF-8')(outs)
+with open(sys.argv[1]) as f:
     l = list(yaml.load_all(f.read()))
     l.sort(cmp=cmp_weird, key=lambda e: e['f'])
     for lhs, rhs in itertools.combinations(l, 2):
@@ -38,13 +49,16 @@ with open("50.yaml") as f:
             print "we got a duplicate:", lhs['f'], lhs
 
 for e in l:
-    print "---"
+    outsu.write(u"---\n")
     if 'f' in e:
-        pr(u"f: {}".format(quote_maybe(e['f'])))
+        outsu.write(u"f: {}\n".format(quote_maybe(e['f'])))
         del e['f']
     if 't' in e:
-        pr(u"t: {}".format(quote_maybe(e['t'])))
+        outsu.write(u"t: {}\n".format(quote_maybe(e['t'])))
         del e['t']
     if len(e):
-        sys.stdout.write(chomp(yaml.dump(e, encoding='UTF8', allow_unicode=True, default_flow_style=False))+'\n')
+        outs.write(yaml.dump(e, encoding='UTF8', allow_unicode=True, default_flow_style=False))
     
+with open(sys.argv[2], 'w') as f:
+    x = outsu.getvalue()
+    f.write(x)
