@@ -32,6 +32,9 @@ t: 
 f: who
 t: 
 ---
+f: which
+t: 
+---
 f: where
 t: 
 ---
@@ -121,8 +124,17 @@ t: 
 f: story
 t: 
 ---
+f: stories
+t: 
+---
+f: still
+t: 
+---
 f: some
 t: 
+---
+f: science
+t: 
 ---
 f: says
 t: 
@@ -277,6 +289,9 @@ junior: 
 f: first
 t: 
 ---
+f: fiction
+t: 
+---
 f: few
 t: 
 ---
@@ -306,6 +321,9 @@ t: 
 ---
 f: by
 t: 
+---
+f: best
+t: 
 ---
 f: be
 t: 
