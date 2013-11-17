@@ -2,11 +2,19 @@
 f: this
 t: 
 ---
-f: a
-t: 
+f: and
+t: 
+junior: 
+---
+f: are
+t: 
+senior: 
 ---
 f: an
 t: 
+---
+f: a
+t: 
 ---
 f: after
 t: 
@@ -66,6 +74,9 @@ warning: Could also be a roman numeral.
 f: if
 t: 
 ---
+f: introduction
+t: 
+---
 f: in
 t: 
 ---
@@ -108,16 +119,16 @@ t: 
 f: news
 t: 
 ---
-f: no
+f: 'no'
 t: 
 ---
-f: none
+f: 'none'
 t: 
 ---
 f: not
 t: 
 ---
-f: off
+f: 'off'
 t: 
 ---
 f: one
@@ -286,10 +297,6 @@ f: of
 t: 
 junior: 
 ---
-f: and
-t: 
-junior: 
----
 f: to
 t: 
 junior: 
@@ -304,7 +311,8 @@ junior: 
 ---
 f: be
 t: 
-junior:  # erroneously un-happy-tensed?
+junior: 
+note: erroneously un-happy-tensed?
 ---
 f: omnilingual
 t: 
@@ -312,6 +320,19 @@ t: 
 f: Terra
 t: ·
 case-sensitive: true
+note: Will screw up silently if used like "Terra firma. Finally."
 ---
 f: editor’s
-t:  
+t: 
+---
+f: naïve
+t: 
+---
+f: edited
+t: 
+---
+f: story
+t: 
+---
+f: few
+t: 
