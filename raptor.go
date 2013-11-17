@@ -59,7 +59,7 @@ func main() {
 		}
 	}
 
-	replacer := New(replacements)
+	replacer := NewReplacer(true, replacements)
 	s, err := replacer.Replace(string(document))
 	fmt.Println(s)
 	if err != nil {

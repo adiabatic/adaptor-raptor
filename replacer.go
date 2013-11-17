@@ -188,13 +188,15 @@ func (r *Replacer) lookup(s string, ignoreRoot bool) (val Entry, keylen int, fou
 }
 
 type Replacer struct {
-	root      trieNode
-	tableSize int
-	mapping   [256]byte
+	root       trieNode
+	tableSize  int
+	mapping    [256]byte
+	ignoreHTML bool
 }
 
-func New(oldnew []Entry) *Replacer {
+func NewReplacer(ignoreHTML bool, oldnew []Entry) *Replacer {
 	r := new(Replacer)
+	r.ignoreHTML = ignoreHTML
 
 	// go through all the keys…
 	//  and for every different byte in the keys…
@@ -293,10 +295,23 @@ func isIsolatedWord(haystack string, i, l int) bool {
 func (r *Replacer) WriteString(w io.Writer, s string) (n int, err error) {
 	sw := getStringWriter(w)
 	err = &Notices{}
-	var last, wn int
+	var last int // where the next copy-to should start from in s
+	var wn int // freshly-written (to w) n
 	var prevMatchEmpty bool
 
 	for i := 0; i <= len(s); {
+		if r.ignoreHTML && i < len(s) {
+
+			if s[i] == '<' {
+				closingAngleBracketIndex := strings.IndexRune(s[i:], '>')
+				if closingAngleBracketIndex != -1 {
+					delta := closingAngleBracketIndex
+					i += delta
+					continue
+				}
+			}
+		}
+
 		// ignore the empty match iff the previous loop found the empty match
 		val, keylen, match := r.lookup(s[i:], prevMatchEmpty)
 		prevMatchEmpty = match && keylen == 0
