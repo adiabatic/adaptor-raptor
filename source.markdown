@@ -667,8 +667,8 @@ On Earth, her back and his knife would be out of her watchfulness.
 
 ***
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/3.0/us/88x31.pn g)](http://creativecommons.org/licenses/by/3.0/us/)
+[![Creative Commons License](http://i.creativecommons.org/l/by/3.0/us/88x31.png)](http://creativecommons.org/licenses/by/3.0/us/)
 
 Omnilingual by [H. Beam Piper (John Cowan, editor)](http://www.ccil.org/~cowan/omnilingual.html) is licensed under a [Creative Commons Attribution 3.0 United States License](http://creativecommons.org/licenses/by/3.0/us/).
 
-Based on a work at [www.gutenberg.org](http://www.gutenberg.org/etext/19445).
+Based on [a work at gutenberg.org](http://www.gutenberg.org/etext/19445).
