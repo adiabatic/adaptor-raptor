@@ -1,135 +1,161 @@
 ---
+f: years
+t: 
+---
+f: year
+t: 
+---
+f: world’s
+t: 
+---
+f: world
+t: 
+---
+f: works
+t: 
+---
+f: work
+t: 
+---
+f: words
+t: 
+---
+f: word
+t: 
+---
+f: why
+t: 
+---
+f: whose
+t: 
+---
+f: who
+t: 
+---
+f: where
+t: 
+---
+f: when
+t: 
+---
+f: were
+t: 
+---
+f: we
+t: 
+senior: 
+---
+f: ways
+t: 
+---
+f: way
+t: 
+---
+f: was
+t: 
+---
+f: used
+t: 
+---
+f: use
+possibilities:
+- 
+- 
+---
+f: unless
+t: 
+---
+f: under
+t: 
+---
+f: two
+t: 
+---
+f: too
+t: 
+---
+f: to
+t: 
+junior: 
+---
+f: those
+t: 
+---
 f: this
 t: 
 ---
-f: and
-t: 
-junior: 
+f: they
+t: 
 ---
-f: are
-t: 
-senior: 
+f: there
+t: 
 ---
-f: an
-t: 
+f: then
+t: 
 ---
-f: a
-t: 
+f: theirs
+t: 
 ---
-f: after
-t: 
+f: their
+t: 
 ---
-f: all
-t: 
+f: the
+t: 
+junior: 
 ---
-f: always
-t: 
+f: that
+t: 
+warning: could be the nondemonstrative form — .
 ---
-f: am
-t: 
+f: Terra
+t: ·
+case-sensitive: true
+note: Will screw up silently if used like "Terra firma. Finally."
 ---
-f: at
-t: 
+f: taken
+t: 
 ---
-f: by
-t: 
+f: take
+t: 
 ---
-f: day
-t: 
+f: story
+t: 
 ---
-f: days
-t: 
+f: some
+t: 
 ---
-f: does
-t: 
+f: says
+t: 
 ---
-f: done
-t: 
+f: say
+t: 
 ---
-f: even
-t: 
+f: said
+t: 
 ---
-f: first
-t: 
+f: professor
+t: 
 ---
-f: had
-t: 
+f: over
+t: 
 ---
-f: has
-t: 
+f: outré
+t: 
 ---
-f: her
-t: 
+f: our
+t: 
 ---
-f: hers
-t: 
+f: others
+t: 
 ---
-f: how
-t: 
+f: other
+t: 
 ---
-f: I
-t: 
-warning: Could also be a roman numeral.
+f: or
+t: 
 ---
-f: if
-t: 
----
-f: introduction
-t: 
----
-f: in
-t: 
----
-f: know
-t: 
----
-f: known
-t: 
----
-f: last
-t: 
----
-f: long
-t: 
----
-f: may
-t: 
----
-f: might
-t: 
----
-f: more
-t: 
----
-f: most
-t: 
----
-f: must
-t: 
----
-f: mine
-t: 
----
-f: my
-t: 
----
-f: new
-t: 
----
-f: news
-t: 
----
-f: 'no'
-t: 
----
-f: 'none'
-t: 
----
-f: not
-t: 
----
-f: 'off'
-t: 
+f: ones
+t: 
 ---
 f: one
 t: 
@@ -137,202 +163,180 @@ t: 
 f: once
 t: 
 ---
-f: or
-t: 
----
-f: other
-t: 
----
-f: others
-t: 
----
-f: our
-t: 
----
-f: over
-t: 
----
-f: said
-t: 
----
-f: say
-t: 
----
-f: says
-t: 
----
-f: some
-t: 
----
-f: take
-t: 
----
-f: taken
-t: 
----
-f: that
-t: 
-warning: could be the nondemonstrative form — .
----
-f: their
-t: 
----
-f: theirs
-t: 
----
-f: then
-t: 
----
-f: there
-t: 
----
-f: they
-t: 
----
-f: those
-t: 
----
-f: too
-t: 
----
-f: two
-t: 
----
-f: under
-t: 
----
-f: unless
-t: 
----
-f: used
-t: 
----
-f: was
-t: 
----
-f: way
-t: 
----
-f: ways
-t: 
----
-f: were
-t: 
----
-f: when
-t: 
----
-f: where
-t: 
----
-f: who
-t: 
----
-f: whose
-t: 
----
-f: why
-t: 
----
-f: word
-t: 
----
-f: words
-t: 
----
-f: work
-t: 
----
-f: works
-t: 
----
-f: world
-t: 
----
-f: world’s
-t: 
----
-f: year
-t: 
----
-f: years
-t: 
----
-f: outré
-t: 
----
-f: I’ve
-t: 
----
-f: common
-t: 
----
-f: is
-t: 
-junior: 
+f: omnilingual
+t: 
 ---
 f: old
 t: 
 ---
-f: ones
-t: 
----
-f: use
-possibilities:
- - 
- - 
----
-f: professor
-t: 
----
-f: we
-t: 
-senior: 
----
-f: the
-t: 
-junior: 
+f: 'off'
+t: 
 ---
 f: of
 t: 
 junior: 
 ---
-f: to
-t: 
-junior: 
+f: not
+t: 
+---
+f: none
+t: 
+---
+f: 'no'
+t: 
+---
+f: news
+t: 
+---
+f: new
+t: 
+---
+f: naïve
+t: 
+---
+f: my
+t: 
+---
+f: must
+t: 
+---
+f: most
+t: 
+---
+f: more
+t: 
+---
+f: mine
+t: 
+---
+f: might
+t: 
+---
+f: may
+t: 
+---
+f: long
+t: 
+---
+f: last
+t: 
+---
+f: known
+t: 
+---
+f: know
+t: 
+---
+f: I’ve
+t: 
+---
+f: it’s
+t: 
+senior: 
 ---
 f: it
 t: 
 junior: 
 ---
+f: is
+t: 
+junior: 
+---
+f: introduction
+t: 
+---
+f: in
+t: 
+---
+f: if
+t: 
+---
+f: I
+t: 
+warning: Could also be a roman numeral.
+---
+f: how
+t: 
+---
+f: hers
+t: 
+---
+f: her
+t: 
+---
+f: has
+t: 
+---
+f: had
+t: 
+---
 f: for
 t: 
 junior: 
+---
+f: first
+t: 
+---
+f: few
+t: 
+---
+f: even
+t: 
+---
+f: editor’s
+t: 
+---
+f: edited
+t: 
+---
+f: done
+t: 
+---
+f: does
+t: 
+---
+f: days
+t: 
+---
+f: day
+t: 
+---
+f: common
+t: 
+---
+f: by
+t: 
 ---
 f: be
 t: 
 junior: 
 note: erroneously un-happy-tensed?
 ---
-f: omnilingual
-t: 
+f: at
+t: 
 ---
-f: Terra
-t: ·
-case-sensitive: true
-note: Will screw up silently if used like "Terra firma. Finally."
+f: are
+t: 
+senior: 
 ---
-f: editor’s
-t: 
+f: and
+t: 
+junior: 
 ---
-f: naïve
-t: 
+f: an
+t: 
 ---
-f: edited
-t: 
+f: am
+t: 
 ---
-f: story
-t: 
+f: always
+t: 
 ---
-f: few
-t: 
+f: all
+t: 
+---
+f: after
+t: 
+---
+f: a
+t: 
