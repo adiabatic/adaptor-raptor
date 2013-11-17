@@ -287,10 +287,7 @@ func isIsolatedWord(haystack string, i, l int) bool {
 	}
 	omega, _ := utf8.DecodeRuneInString(haystack[i+l:])
 
-	isolatedBeginning := unicode.IsSpace(alpha) || unicode.IsPunct(alpha)
-	isolatedEnd := unicode.IsSpace(omega) || unicode.IsPunct(omega)
-
-	return isolatedBeginning && isolatedEnd
+	return !unicode.IsLetter(alpha) && !unicode.IsLetter(omega)
 }
 
 func (r *Replacer) WriteString(w io.Writer, s string) (n int, err error) {
