@@ -265,7 +265,7 @@ His reputation as the dean of Hittitologists was solid and secure, too, she adde
 
 “All I came for was to get the work started,” he was continuing. “The U.N. felt that an old hand should do that. Well, it’s started, now; you and Tony and whoever come out on the <i>Schiaparelli</i> must carry it on. You said it, yourself; you have a whole new world. This is only one city, of the last Arean civilization. Behind this, you have the Late Upland Culture, and the Canal Builders, and all the civilizations and races and empires before them, clear back to the Arean Stone Age.” He hesitated for a moment. “You have no idea what all you have to learn, Martha. This isn’t the time to start specializing too narrowly.”
 
-* * *
+***
 
 They all got out of the truck and stretched their legs and looked up the road to the tall building with the queer conical cap askew on its top. The four little figures that had been busy against its wall climbed into the jeep and started back slowly, the smallest of them, Sachiko Koremitsu, paying out an electric cable behind. When it pulled up beside the truck, they climbed out; Sachiko attached the free end of the cable to a radioisotope thermoelectric generator. At once, dirty gray smoke and orange dust puffed out from the wall of the building, and, a second later, the multiple explosion banged.
 
@@ -471,7 +471,7 @@ Lattimer was shocked. “You’re nuts!” he cried. “You mean you’re going 
 
 Maybe his feelings were too much for him. Maybe he realized, as Martha did, what he had betrayed. She sat, avoiding the eyes of the others, looking at the ceiling, as embarrassed as though Lattimer had flung something dirty on the table in front of them. Tony Lattimer had, desperately, wanted Selim to go home on the <i>Cyrano</i>. Areology was a new field; if Selim entered it, he would bring with him the reputation he had already built in Hittitology, automatically stepping into the leading role that Lattimer had coveted for himself. Ivan Fitzgerald’s words echoed back to her—when you want to be a big shot, you can’t bear the possibility of anybody else being a bigger big shot. His derision of her own efforts became comprehensible, too. It wasn’t that he was convinced that she would never learn to read the Arean language. He had been afraid that she would.
 
-* * *
+***
 
 Ivan Fitzgerald finally isolated the germ that had caused Finchley’s undiagnosed illness. Shortly afterward, the malady turned into a mild fever, from which she recovered. Nobody else seemed to have caught it. Fitzgerald was still trying to find out how the germ had been transmitted.
 
