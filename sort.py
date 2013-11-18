@@ -7,19 +7,13 @@
 
 import yaml
 import itertools
-import codecs, locale, sys
+import codecs
+import sys
 import StringIO
 
-#sys.stdout = codecs.getwriter('UTF-8')(sys.stdout)
-
-def pr(s):
-    sys.stdout.write(s.encode('u8')+'\n')
 
 def cmp_weird(lhs, rhs):
     return -cmp(lhs.lower(), rhs.lower())
-
-def by_to(lhs, rhs):
-    return cmp
 
 def quote_maybe(s):
     if s in "yes no on off true false null .nan .inf".split():
@@ -28,10 +22,6 @@ def quote_maybe(s):
         return '{}'.format(s)
     elif "'" in s:
         return "{}".format(s)
-    return s
-
-def chomp(s):
-    if s[-1] == '\n': return s[:-1]
     return s
 
 if len(sys.argv) < 3:
