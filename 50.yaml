@@ -23,6 +23,10 @@ t: 
 f: word
 t: 
 ---
+f: women
+t: 
+note: Terminals -en, on. Written invariably as ; no contraction, no alternatives.
+---
 f: with
 t: 
 senior: 
@@ -160,6 +164,9 @@ t: 
 f: smokes
 t: 
 ---
+f: sketching
+t: 
+---
 f: science
 t: 
 ---
@@ -181,8 +188,14 @@ t: 
 f: planet’s
 t: 
 ---
+f: pencil
+t: 
+---
 f: particulars
 t: 
+---
+f: paper
+t: 
 ---
 f: oxygen
 t: 
@@ -204,6 +217,9 @@ t: 
 ---
 f: or
 t: 
+---
+f: opportunity
+t: 
 ---
 f: ones
 t: 
@@ -229,6 +245,9 @@ t: 
 f: of
 t: 
 junior: 
+---
+f: notebooks
+t: 
 ---
 f: not
 t: 
@@ -266,6 +285,12 @@ t: 
 f: might
 t: 
 ---
+f: mentioned
+t: 
+---
+f: mention
+t: 
+---
 f: meat
 t: 
 ---
@@ -274,6 +299,9 @@ t: 
 ---
 f: marvelously
 t: 
+---
+f: looseleaf
+t: 
 ---
 f: long
 t: 
@@ -345,6 +373,15 @@ t: 
 f: had
 t: 
 ---
+f: girls
+t: 
+---
+f: girl
+t: 
+---
+f: gender
+t: 
+---
 f: for
 t: 
 junior: 
@@ -367,6 +404,9 @@ t: 
 f: everyone
 t: 
 ---
+f: every
+t: 
+---
 f: even
 t: 
 ---
@@ -388,14 +428,23 @@ t: 
 f: day
 t: 
 ---
+f: conceivable
+t: 
+---
 f: common
 t: 
 ---
 f: chimney
 t: 
 ---
+f: called
+t: 
+---
 f: by
 t: 
+---
+f: boards
+t: 
 ---
 f: best
 t: 
