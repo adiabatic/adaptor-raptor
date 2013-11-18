@@ -182,6 +182,10 @@ t: 
 f: sketchbooks
 t: 
 ---
+f: shall
+t: 
+senior: 
+---
 f: science
 t: 
 ---
@@ -208,6 +212,14 @@ t: 
 ---
 f: planet’s
 t: 
+---
+f: perhaps
+t: 
+senior: 
+---
+f: people
+t: 
+senior: 
 ---
 f: pencil
 t: 
@@ -242,6 +254,10 @@ t: 
 f: opportunity
 t: 
 ---
+f: only
+t: 
+senior: 
+---
 f: ones
 t: 
 ---
@@ -253,12 +269,17 @@ t: 
 ---
 f: 'on'
 t: 
+senior: 
 ---
 f: omnilingual
 t: 
 ---
 f: old
 t: 
+---
+f: often
+t: 
+senior: 
 ---
 f: 'off'
 t: 
@@ -285,6 +306,10 @@ t: 
 f: new
 t: 
 ---
+f: never
+t: 
+senior: 
+---
 f: naïve
 t: 
 ---
@@ -293,6 +318,10 @@ t: 
 ---
 f: must
 t: 
+---
+f: much
+t: 
+senior: 
 ---
 f: most
 t: 
@@ -321,17 +350,37 @@ t: 
 f: meat
 t: 
 ---
+f: me
+t: 
+senior: 
+---
 f: may
 t: 
 ---
 f: marvelously
 t: 
 ---
+f: making
+t: 
+senior: 
+---
+f: make
+t: 
+senior: 
+---
+f: made
+t: 
+senior: 
+---
 f: looseleaf
 t: 
 ---
 f: long
 t: 
+---
+f: little
+t: 
+senior: 
 ---
 f: linguistic
 t: 
@@ -372,6 +421,10 @@ junior: 
 f: introduction
 t: 
 ---
+f: into
+t: 
+senior: 
+---
 f: intended
 t: 
 ---
@@ -394,6 +447,14 @@ t: 
 f: holds
 t: 
 ---
+f: his
+t: 
+senior: 
+---
+f: him
+t: 
+senior: 
+---
 f: hers
 t: 
 ---
@@ -402,6 +463,14 @@ t: 
 ---
 f: help
 t: 
+---
+f: he
+t: 
+senior: 
+---
+f: haven’t
+t: 
+senior: 
 ---
 f: have
 t: 
@@ -413,6 +482,22 @@ t: 
 f: had
 t: 
 ---
+f: good
+t: 
+senior: 
+---
+f: gone
+t: 
+senior: 
+---
+f: going
+t: 
+senior: 
+---
+f: go
+t: 
+senior: 
+---
 f: girls
 t: 
 ---
@@ -421,6 +506,10 @@ t: 
 ---
 f: gender
 t: 
+---
+f: from
+t: 
+senior: 
 ---
 f: for
 t: 
@@ -446,6 +535,11 @@ t: 
 ---
 f: every
 t: 
+senior: 
+---
+f: ever
+t: 
+senior: 
 ---
 f: even
 t: 
@@ -462,11 +556,27 @@ t: 
 f: edited
 t: 
 ---
+f: don’t
+t: 
+senior: 
+---
 f: done
 t: 
 ---
 f: does
 t: 
+---
+f: do
+t: 
+senior: 
+---
+f: didn’t
+t: 
+senior: 
+---
+f: did
+t: 
+senior: 
 ---
 f: details
 t: 
@@ -476,6 +586,14 @@ t: 
 ---
 f: day
 t: 
+---
+f: couldn’t
+t: 
+senior: 
+---
+f: could
+t: 
+senior: 
 ---
 f: conceivable
 t: 
