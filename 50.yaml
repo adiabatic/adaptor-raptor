@@ -146,8 +146,17 @@ t: 
 f: take
 t: 
 ---
+f: tablets
+t: 
+---
+f: system
+t: 
+---
 f: supplemental
 t: 
+---
+f: stumble
+t: 
 ---
 f: story
 t: 
@@ -161,11 +170,17 @@ t: 
 f: some
 t: 
 ---
+f: smoking
+t: 
+---
 f: smokes
 t: 
 ---
 f: sketching
 t: 
+---
+f: sketchbooks
+t: 
 ---
 f: science
 t: 
@@ -181,6 +196,12 @@ t: 
 ---
 f: rooted
 t: 
+---
+f: replaced
+t: 
+---
+f: reader
+t: 
 ---
 f: professor
 t: 
@@ -279,11 +300,17 @@ t: 
 f: more
 t: 
 ---
+f: modernize
+t: 
+---
 f: mine
 t: 
 ---
 f: might
 t: 
+---
+f: metric
+t: 
 ---
 f: mentioned
 t: 
@@ -335,12 +362,18 @@ f: it
 t: 
 junior: 
 ---
+f: isn’t
+t: 
+---
 f: is
 t: 
 junior: 
 ---
 f: introduction
 t: 
+---
+f: intended
+t: 
 ---
 f: in use
 t:  
@@ -366,6 +399,13 @@ t: 
 ---
 f: her
 t: 
+---
+f: help
+t: 
+---
+f: have
+t: 
+senior: 
 ---
 f: has
 t: 
@@ -410,6 +450,12 @@ t: 
 f: even
 t: 
 ---
+f: equality
+t: 
+---
+f: edits
+t: 
+---
 f: editor’s
 t: 
 ---
@@ -422,6 +468,9 @@ t: 
 f: does
 t: 
 ---
+f: details
+t: 
+---
 f: days
 t: 
 ---
@@ -431,11 +480,37 @@ t: 
 f: conceivable
 t: 
 ---
+f: computerized
+t: 
+---
 f: common
 t: 
 ---
+f: coming
+t: 
+senior: 
+---
+f: comes
+t: 
+senior: 
+---
+f: come
+t: 
+senior: 
+---
 f: chimney
 t: 
+---
+f: can’t
+t: 
+senior: 
+---
+f: cannot
+t: 
+---
+f: can
+t: 
+senior: 
 ---
 f: called
 t: 
@@ -443,11 +518,31 @@ t: 
 f: by
 t: 
 ---
+f: but
+t: 
+senior: 
+---
 f: boards
 t: 
 ---
 f: best
 t: 
+---
+f: being
+t: 
+senior: 
+---
+f: before
+t: 
+senior: 
+---
+f: been
+t: 
+senior: 
+---
+f: because
+t: 
+senior: 
 ---
 f: be
 t: 
@@ -456,6 +551,10 @@ note: erroneously un-happy-tensed?
 ---
 f: at
 t: 
+---
+f: as
+t: 
+senior: 
 ---
 f: are
 t: 
