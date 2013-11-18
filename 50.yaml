@@ -127,6 +127,9 @@ f: very
 t: 
 senior: 
 ---
+f: using
+t: 
+---
 f: used
 t: 
 ---
@@ -140,6 +143,9 @@ t: 
 ---
 f: unless
 t: 
+---
+f: underlying
+t: 
 ---
 f: under
 t: 
@@ -233,10 +239,16 @@ f: than
 t: 
 senior: 
 ---
+f: text
+t: 
+---
 f: Terra
 t: ·
 case-sensitive: true
 note: Will screw up silently if used like "Terra firma. Finally."
+---
+f: taste
+t: 
 ---
 f: taken
 t: 
@@ -317,6 +329,9 @@ senior: 
 f: set
 t: 
 ---
+f: seemed
+t: 
+---
 f: science
 t: 
 ---
@@ -325,6 +340,9 @@ t: 
 ---
 f: say
 t: 
+---
+f: same
+t: 
 ---
 f: said
 t: 
@@ -336,11 +354,23 @@ f: Roman
 t: 
 case-sensitive: true
 ---
+f: right
+t: 
+---
+f: revision
+t: 
+---
+f: revised
+t: 
+---
 f: replaced
 t: 
 ---
 f: remains
 t: 
+---
+f: remain
+t: 
 ---
 f: reader
 t: 
@@ -351,11 +381,25 @@ t: -
 f: rather
 t: 
 ---
+f: public
+t: 
+---
+f: provided
+t: 
+---
+f: project
+possibilities:
+- 
+- 
+---
 f: professor
 t: 
 ---
 f: presence
 t: 
+---
+f: prefer
+t: 
 ---
 f: plenty
 t: 
@@ -400,6 +444,9 @@ t: 
 ---
 f: other
 t: 
+---
+f: original
+t: 
 ---
 f: or
 t: 
@@ -497,6 +544,9 @@ t: 
 f: modernize
 t: 
 ---
+f: modern
+t: 
+---
 f: mine
 t: 
 ---
@@ -543,8 +593,14 @@ t: 
 f: looseleaf
 t: 
 ---
+f: longer
+t: 
+---
 f: long
 t: 
+---
+f: logic
+t: 
 ---
 f: little
 t: 
@@ -636,8 +692,14 @@ t: 
 f: human
 t: 
 ---
+f: however
+t: 
+---
 f: how
 t: 
+---
+f: hopefully
+t: 
 ---
 f: holds
 t: 
@@ -729,6 +791,9 @@ t: 
 f: forms
 t: 
 ---
+f: form
+t: 
+---
 f: for
 t: 
 junior: 
@@ -736,11 +801,17 @@ junior: 
 f: flags
 t: 
 ---
+f: fit
+t: 
+---
 f: first
 t: 
 ---
 f: firmly
 t: 
+---
+f: find
+t: 
 ---
 f: fifty
 t: 
@@ -753,6 +824,9 @@ t: 
 ---
 f: few
 t: 
+---
+f: feel
+t: 
 ---
 f: everyone
 t: 
@@ -780,9 +854,15 @@ t: 
 f: edited
 t: 
 ---
+f: easily
+t: 
+---
 f: earth
 t: 
 case-sensitive: true
+---
+f: drawings
+t: 
 ---
 f: don’t
 t: 
@@ -790,6 +870,9 @@ senior: 
 ---
 f: done
 t: 
+---
+f: domain
+t: 
 ---
 f: does
 t: 
@@ -829,6 +912,9 @@ t: 
 ---
 f: day
 t: 
+---
+f: damaged
+t: 
 ---
 f: counterexample
 t: 
@@ -934,6 +1020,9 @@ note: erroneously un-happy-tensed?
 f: based
 t: 
 ---
+f: base
+t: 
+---
 f: atmosphere
 t: 
 ---
@@ -970,11 +1059,21 @@ t: 
 f: always
 t: 
 ---
+f: also
+t: 
+senior: 
+---
 f: all
 t: 
 ---
 f: after
 t: 
+---
+f: adjust
+t: 
+---
+f: about
+t: 
 ---
 f: a
 t: 
