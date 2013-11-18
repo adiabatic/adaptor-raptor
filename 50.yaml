@@ -1,3 +1,5 @@
+# This file is in the public domain.
+# http://creativecommons.org/publicdomain/zero/1.0/
 ---
 f: yours
 t: 
@@ -421,6 +423,9 @@ senior: 
 f: pencil
 t: 
 ---
+f: paused
+t: 
+---
 f: particulars
 t: 
 ---
@@ -592,6 +597,9 @@ t: 
 ---
 f: looseleaf
 t: 
+---
+f: looking
+t: 
 ---
 f: longer
 t: 

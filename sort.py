@@ -48,6 +48,7 @@ with open(sys.argv[1]) as f:
         if 'f' in lhs and 'f' in rhs and lhs['f'] == rhs['f']:
             print "we got a duplicate:", lhs['f'], lhs
 
+outsu.write("# This file is in the public domain.\n# http://creativecommons.org/publicdomain/zero/1.0/\n")
 for e in l:
     outsu.write(u"---\n")
     if 'f' in e:
