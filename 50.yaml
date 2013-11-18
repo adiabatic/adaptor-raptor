@@ -66,6 +66,9 @@ t: 
 f: whose
 t: 
 ---
+f: wholesale
+t: 
+---
 f: who
 t: 
 ---
@@ -117,6 +120,9 @@ t: 
 f: was
 t: 
 ---
+f: war
+t: 
+---
 f: very
 t: 
 senior: 
@@ -141,8 +147,14 @@ t: 
 f: two
 t: 
 ---
+f: trying
+t: 
+---
 f: too
 t: 
+---
+f: today
+t: 
 ---
 f: to use
 t:  
@@ -178,6 +190,9 @@ f: think
 t: 
 senior: 
 ---
+f: thin
+t: 
+---
 f: they
 t: 
 ---
@@ -194,6 +209,9 @@ t: 
 f: then
 t: 
 ---
+f: them
+t: 
+---
 f: theirs
 t: 
 ---
@@ -203,6 +221,9 @@ t: 
 f: the
 t: 
 junior: 
+---
+f: that’s
+t: 
 ---
 f: that
 t: 
@@ -229,8 +250,20 @@ t: 
 f: system
 t: 
 ---
+f: supports
+t: 
+---
+f: supplementary
+t: 
+---
 f: supplemental
 t: 
+---
+f: sun
+t: 
+---
+f: suggest
+t: 
 ---
 f: stumble
 t: 
@@ -246,6 +279,9 @@ t: 
 ---
 f: still
 t: 
+---
+f: someplace
+t: 
 ---
 f: some
 t: 
@@ -296,11 +332,21 @@ t: 
 f: rooted
 t: 
 ---
+f: Roman
+t: 
+case-sensitive: true
+---
 f: replaced
 t: 
 ---
+f: remains
+t: 
+---
 f: reader
 t: 
+---
+f: re-invention
+t: -
 ---
 f: rather
 t: 
@@ -308,8 +354,17 @@ t: 
 f: professor
 t: 
 ---
+f: presence
+t: 
+---
+f: plenty
+t: 
+---
 f: planet’s
 t: 
+---
+f: planet
+t: 
 ---
 f: perhaps
 t: 
@@ -379,6 +434,9 @@ f: often
 t: 
 senior: 
 ---
+f: offshoot
+t: 
+---
 f: 'off'
 t: 
 ---
@@ -413,6 +471,12 @@ senior: 
 ---
 f: naïve
 t: 
+---
+f: name
+t: 
+---
+f: mystery
+t: 
 ---
 f: my
 t: 
@@ -473,6 +537,9 @@ f: made
 t: 
 senior: 
 ---
+f: low
+t: 
+---
 f: looseleaf
 t: 
 ---
@@ -528,12 +595,18 @@ junior: 
 f: irrelevant
 t: 
 ---
+f: involved
+t: 
+---
 f: introduction
 t: 
 ---
 f: into
 t: 
 senior: 
+---
+f: intention
+t: 
 ---
 f: intended
 t: 
@@ -547,12 +620,21 @@ t:  
 f: in
 t: 
 ---
+f: impossible
+t: 
+---
 f: if
 t: 
 ---
 f: I
 t: 
 warning: Could also be a roman numeral.
+---
+f: humidity
+t: 
+---
+f: human
+t: 
 ---
 f: how
 t: 
@@ -595,6 +677,10 @@ t: 
 f: had
 t: 
 ---
+f: Greek
+t: 
+case-sensitive: true
+---
 f: granted
 t: 
 ---
@@ -609,6 +695,10 @@ senior: 
 f: going
 t: 
 senior: 
+---
+f: god
+t: 
+case-sensitive: true
 ---
 f: go
 t: 
@@ -630,8 +720,14 @@ f: from
 t: 
 senior: 
 ---
+f: fourth
+t: 
+---
 f: forty
 t: 
+---
+f: forms
+t: 
 ---
 f: for
 t: 
@@ -705,6 +801,9 @@ senior: 
 f: dismiss
 t: 
 ---
+f: different
+t: 
+---
 f: didn’t
 t: 
 senior: 
@@ -715,6 +814,12 @@ senior: 
 ---
 f: details
 t: 
+---
+f: detail
+t: 
+---
+f: destruction
+t: 
 ---
 f: decipherment
 t: 
@@ -742,6 +847,9 @@ t: 
 f: computerized
 t: 
 ---
+f: completely
+t: 
+---
 f: common
 t: 
 ---
@@ -763,6 +871,12 @@ t: 
 f: characters
 t: 
 ---
+f: changed
+t: 
+---
+f: change
+t: 
+---
 f: can’t
 t: 
 senior: 
@@ -783,6 +897,12 @@ t: 
 f: but
 t: 
 senior: 
+---
+f: breathable
+t: 
+---
+f: books
+t: 
 ---
 f: boards
 t: 
@@ -811,6 +931,12 @@ t: 
 junior: 
 note: erroneously un-happy-tensed?
 ---
+f: based
+t: 
+---
+f: atmosphere
+t: 
+---
 f: at
 t: 
 ---
@@ -825,9 +951,15 @@ senior: 
 f: archaeology
 t: 
 ---
+f: apparently
+t: 
+---
 f: and
 t: 
 junior: 
+---
+f: analogous
+t: 
 ---
 f: an
 t: 

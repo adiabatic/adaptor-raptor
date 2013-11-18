@@ -35,5 +35,9 @@ f: Ares
 t: ·
 case-sensitive: true
 ---
+f: Areans
+t: 
+case-sensitive: true
+---
 f: <i lang='la'>Homo sapiens</i>
 t: <i lang='la'>Homo sapiens</i>
