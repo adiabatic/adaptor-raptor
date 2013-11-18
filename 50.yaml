@@ -1,9 +1,29 @@
 ---
+f: yours
+t: 
+senior: 
+---
+f: your
+t: 
+senior: 
+---
+f: you
+t: 
+senior: 
+---
 f: years
 t: 
 ---
 f: year
 t: 
+---
+f: wouldn’t
+t: 
+senior: 
+---
+f: would
+t: 
+senior: 
 ---
 f: world’s
 t: 
@@ -27,9 +47,18 @@ f: women
 t: 
 note: Terminals -en, on. Written invariably as ; no contraction, no alternatives.
 ---
+f: without
+t: 
+senior: 
+---
 f: with
 t: 
 senior: 
+---
+f: will
+t: 
+note: possibly a bad senior substitution for “will” (noun).
+senior: 
 ---
 f: why
 t: 
@@ -45,12 +74,21 @@ t: 
 ---
 f: which
 t: 
+senior: 
 ---
 f: where
 t: 
 ---
 f: when
 t: 
+---
+f: whatever
+t: 
+senior weirdo: -
+---
+f: what
+t: 
+senior: 
 ---
 f: we’ use
 t:  
@@ -75,6 +113,10 @@ t: 
 ---
 f: was
 t: 
+---
+f: very
+t: 
+senior: 
 ---
 f: used
 t: 
@@ -106,14 +148,39 @@ f: to
 t: 
 junior: 
 ---
+f: times
+t: 
+senior: 
+---
+f: time
+t: 
+senior: 
+---
+f: thought
+t: 
+senior: 
+---
 f: those
 t: 
 ---
 f: this
 t: 
+senior: 
+---
+f: thinking
+t: 
+senior: 
+---
+f: think
+t: 
+senior: 
 ---
 f: they
 t: 
+---
+f: these
+t: 
+senior: 
 ---
 f: there
 t: 
@@ -134,6 +201,10 @@ junior: 
 f: that
 t: 
 warning: could be the nondemonstrative form — .
+---
+f: than
+t: 
+senior: 
 ---
 f: Terra
 t: ·
@@ -170,6 +241,10 @@ t: 
 f: some
 t: 
 ---
+f: so
+t: 
+senior: 
+---
 f: smoking
 t: 
 ---
@@ -181,6 +256,14 @@ t: 
 ---
 f: sketchbooks
 t: 
+---
+f: should
+t: 
+senior: 
+---
+f: she
+t: 
+senior: 
 ---
 f: shall
 t: 
