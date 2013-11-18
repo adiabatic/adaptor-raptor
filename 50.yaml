@@ -97,6 +97,9 @@ senior:   
 f: were
 t: 
 ---
+f: wedge
+t: 
+---
 f: we use
 t:  
 senior:  
@@ -178,6 +181,9 @@ senior: 
 f: they
 t: 
 ---
+f: thesis
+t: 
+---
 f: these
 t: 
 senior: 
@@ -229,6 +235,9 @@ t: 
 f: stumble
 t: 
 ---
+f: story’s
+t: 
+---
 f: story
 t: 
 ---
@@ -269,6 +278,9 @@ f: shall
 t: 
 senior: 
 ---
+f: set
+t: 
+---
 f: science
 t: 
 ---
@@ -289,6 +301,9 @@ t: 
 ---
 f: reader
 t: 
+---
+f: rather
+t: 
 ---
 f: professor
 t: 
@@ -370,6 +385,9 @@ t: 
 f: of
 t: 
 junior: 
+---
+f: now
+t: 
 ---
 f: notebooks
 t: 
@@ -471,6 +489,12 @@ t: 
 f: like
 t: 
 ---
+f: life
+t: 
+---
+f: let
+t: 
+---
 f: later
 t: 
 ---
@@ -501,6 +525,9 @@ f: is
 t: 
 junior: 
 ---
+f: irrelevant
+t: 
+---
 f: introduction
 t: 
 ---
@@ -510,6 +537,9 @@ senior: 
 ---
 f: intended
 t: 
+---
+f: instead
+t: 
 ---
 f: in use
 t:  
@@ -565,6 +595,9 @@ t: 
 f: had
 t: 
 ---
+f: granted
+t: 
+---
 f: good
 t: 
 senior: 
@@ -590,13 +623,22 @@ t: 
 f: gender
 t: 
 ---
+f: future
+t: 
+---
 f: from
 t: 
 senior: 
 ---
+f: forty
+t: 
+---
 f: for
 t: 
 junior: 
+---
+f: flags
+t: 
 ---
 f: first
 t: 
@@ -609,6 +651,9 @@ t: 
 ---
 f: fiction
 t: 
+---
+f: fewer
+t: 
 ---
 f: few
 t: 
@@ -639,6 +684,10 @@ t: 
 f: edited
 t: 
 ---
+f: earth
+t: 
+case-sensitive: true
+---
 f: don’t
 t: 
 senior: 
@@ -653,6 +702,9 @@ f: do
 t: 
 senior: 
 ---
+f: dismiss
+t: 
+---
 f: didn’t
 t: 
 senior: 
@@ -664,11 +716,17 @@ senior: 
 f: details
 t: 
 ---
+f: decipherment
+t: 
+---
 f: days
 t: 
 ---
 f: day
 t: 
+---
+f: counterexample
+t: 
 ---
 f: couldn’t
 t: 
@@ -701,6 +759,9 @@ senior: 
 ---
 f: chimney
 t: 
+---
+f: characters
+t: 
 ---
 f: can’t
 t: 
@@ -785,6 +846,9 @@ t: 
 ---
 f: a
 t: 
+---
+f: 1980s
+t: 1980
 ---
 f: 1950s
 t: 1950

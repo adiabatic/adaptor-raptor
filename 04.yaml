@@ -1,4 +1,13 @@
 ---
+f: U.N.
+t:  
+---
+f: Piper’s
+t: ·
+---
+f: Piper
+t: ·
+---
 f: Martians
 t: 
 ---
@@ -11,6 +20,16 @@ t: ·.  
 f: H. Beam Piper
 t: ·.  
 note: the H is for Henry.
+---
+f: Federation Government
+t:  
+---
+f: Earth
+t: ·
+case-sensitive: true
+---
+f: Classic Maya
+t:  ·
 ---
 f: Ares
 t: ·
