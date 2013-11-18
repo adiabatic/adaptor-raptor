@@ -302,6 +302,9 @@ t: 
 f: stumble
 t: 
 ---
+f: streets
+t: 
+---
 f: story’s
 t: 
 ---
@@ -316,6 +319,9 @@ t: 
 ---
 f: still
 t: 
+---
+f: spaces
+t: 
 ---
 f: someplace
 t: 
@@ -332,6 +338,9 @@ t: 
 ---
 f: smokes
 t: 
+---
+f: small
+t: 
 ---
 f: sky
 t: 
@@ -409,6 +418,9 @@ t: 
 f: remain
 t: 
 ---
+f: red
+t: 
+---
 f: reader
 t: 
 ---
@@ -444,6 +456,9 @@ t: 
 f: plenty
 t: 
 ---
+f: plaza
+t: 
+---
 f: planet’s
 t: 
 ---
@@ -466,6 +481,9 @@ t: 
 ---
 f: particulars
 t: 
+---
+f: park
+t: 
 ---
 f: paper
 t: 
@@ -499,6 +517,9 @@ t: 
 ---
 f: opportunity
 t: 
+---
+f: open
+t: 
 ---
 f: only
 t: 
@@ -663,6 +684,9 @@ t: 
 f: logic
 t: 
 ---
+f: loess
+t: 
+---
 f: little
 t: 
 senior: 
@@ -678,6 +702,9 @@ t: 
 ---
 f: let
 t: 
+---
+f: lay
+t: 
 ---
 f: later
 t: 
@@ -781,6 +808,9 @@ senior: 
 ---
 f: high
 t: 
+---
+f: hiding
+t: 
 ---
 f: hers
 t: 
@@ -907,6 +937,9 @@ t: 
 f: feel
 t: 
 ---
+f: everything
+t: 
+---
 f: everyone
 t: 
 ---
@@ -1009,6 +1042,9 @@ t: 
 ---
 f: damaged
 t: 
+---
+f: covering
+t: 
 ---
 f: counterexample
 t: 
