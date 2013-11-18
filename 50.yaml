@@ -124,11 +124,20 @@ t: 
 f: way
 t: 
 ---
+f: waterfront
+t: 
+---
 f: was
 t: 
 ---
 f: war
 t: 
+---
+f: walls
+t: 
+---
+f: wall
+t: 
 ---
 f: very
 t: 
@@ -165,6 +174,9 @@ t: 
 ---
 f: trying
 t: 
+---
+f: toppled
+t: 
 ---
 f: too
 t: 
@@ -207,6 +219,12 @@ f: this
 t: 
 senior: 
 ---
+f: thirty
+t: 
+---
+f: thinly
+t: 
+---
 f: thinking
 t: 
 senior: 
@@ -217,6 +235,9 @@ senior: 
 ---
 f: thin
 t: 
+---
+f: they’d
+t: 
 ---
 f: they
 t: 
@@ -266,8 +287,14 @@ t: ·
 case-sensitive: true
 note: Will screw up silently if used like "Terra firma. Finally."
 ---
+f: terms
+t: 
+---
 f: taste
 t: 
+---
+f: tall
+t: 
 ---
 f: taken
 t: 
@@ -284,8 +311,14 @@ t: 
 f: sweeping
 t: 
 ---
+f: surface
+t: 
+---
 f: supports
 t: 
+---
+f: supplies
+t: 
 ---
 f: supplementary
 t: 
@@ -317,11 +350,17 @@ t: 
 f: stories
 t: 
 ---
+f: stood
+t: 
+---
 f: still
 t: 
 ---
 f: spaces
 t: 
+---
+f: space
+t: 
 ---
 f: someplace
 t: 
@@ -351,11 +390,17 @@ t: 
 f: sketchbooks
 t: 
 ---
+f: sixth
+t: 
+---
 f: since
 t: 
 ---
 f: sifting
 t: 
+---
+f: shovels
+t: 
 ---
 f: should
 t: 
@@ -363,6 +408,12 @@ senior: 
 ---
 f: shifted
 t: 
+---
+f: shelters
+t: 
+---
+f: sheds
+t: 
 ---
 f: she
 t: 
@@ -377,6 +428,9 @@ t: 
 ---
 f: seemed
 t: 
+---
+f: seaport
+t: 
 ---
 f: science
 t: 
@@ -393,8 +447,17 @@ t: 
 f: said
 t: 
 ---
+f: rubble
+t: 
+---
+f: rough
+t: 
+---
 f: rooted
 t: 
+---
+f: roofs
+t: 
 ---
 f: Roman
 t: 
@@ -447,11 +510,20 @@ possibilities:
 f: professor
 t: 
 ---
+f: pressed
+t: 
+---
 f: presence
 t: 
 ---
 f: prefer
 t: 
+---
+f: prefabricated
+t: 
+---
+f: power
+t: 
 ---
 f: plenty
 t: 
@@ -464,6 +536,9 @@ t: 
 ---
 f: planet
 t: 
+---
+f: place
+t: 
 ---
 f: perhaps
 t: 
@@ -494,6 +569,9 @@ t: 
 f: over
 t: 
 ---
+f: outward
+t: 
+---
 f: outré
 t: 
 ---
@@ -517,6 +595,9 @@ t: 
 ---
 f: opportunity
 t: 
+---
+f: opened
+t: 
 ---
 f: open
 t: 
@@ -557,6 +638,9 @@ t: 
 f: of
 t: 
 junior: 
+---
+f: ocean
+t: 
 ---
 f: now
 t: 
@@ -620,11 +704,20 @@ t: 
 f: mine
 t: 
 ---
+f: million
+t: 
+---
 f: might
 t: 
 ---
 f: metric
 t: 
+---
+f: meters
+t: 
+---
+f: metal
+t: 
 ---
 f: mentioned
 t: 
@@ -634,6 +727,9 @@ t: 
 ---
 f: meat
 t: 
+---
+f: mean
+t: 
 ---
 f: me
 t: 
@@ -662,6 +758,9 @@ t: 
 f: made
 t: 
 senior: 
+---
+f: machinery
+t: 
 ---
 f: low
 t: 
@@ -715,11 +814,17 @@ t: 
 f: large
 t: 
 ---
+f: labor
+t: 
+---
 f: known
 t: 
 ---
 f: know
 t: 
+---
+f: kilometers
+t: 
 ---
 f: I’ve
 t: 
@@ -764,6 +869,9 @@ t: 
 f: inside
 t: 
 ---
+f: indiscriminate
+t: 
+---
 f: in use
 t:  
 ---
@@ -792,6 +900,9 @@ t: 
 f: how
 t: 
 ---
+f: houses
+t: 
+---
 f: hopefully
 t: 
 ---
@@ -814,6 +925,9 @@ t: 
 ---
 f: hers
 t: 
+---
+f: here
+t: 
 ---
 f: her
 t: 
@@ -841,6 +955,9 @@ t: 
 ---
 f: had
 t: 
+---
+f: grown
+t: 
 ---
 f: Greek
 t: 
@@ -904,8 +1021,14 @@ f: for
 t: 
 junior: 
 ---
+f: flat
+t: 
+---
 f: flags
 t: 
+---
+f: five
+t: 
 ---
 f: fit
 t: 
@@ -937,6 +1060,9 @@ t: 
 f: feel
 t: 
 ---
+f: fast
+t: 
+---
 f: everything
 t: 
 ---
@@ -954,8 +1080,14 @@ senior: 
 f: even
 t: 
 ---
+f: equipment
+t: 
+---
 f: equality
 t: 
+---
+f: eighty
+t: 
 ---
 f: edits
 t: 
@@ -981,6 +1113,9 @@ t: 
 ---
 f: drawings
 t: 
+---
+f: draglines
+t: 
 ---
 f: down
 t: 
@@ -1031,6 +1166,9 @@ t: 
 f: deserts
 t: 
 ---
+f: depression
+t: 
+---
 f: decipherment
 t: 
 ---
@@ -1042,6 +1180,9 @@ t: 
 ---
 f: damaged
 t: 
+---
+f: crushed
+t: 
 ---
 f: covering
 t: 
@@ -1084,6 +1225,15 @@ f: come
 t: 
 senior: 
 ---
+f: coated
+t: 
+---
+f: cluster
+t: 
+---
+f: clearing
+t: 
+---
 f: city
 t: 
 ---
@@ -1098,6 +1248,9 @@ t: 
 ---
 f: change
 t: 
+---
+f: caved
+t: 
 ---
 f: can’t
 t: 
@@ -1123,8 +1276,29 @@ senior: 
 f: burying
 t: 
 ---
+f: bulldozers
+t: 
+---
+f: buildings
+t: 
+---
+f: building
+t: 
+---
+f: brush
+t: 
+---
+f: brought
+t: 
+---
+f: bright
+t: 
+---
 f: breathable
 t: 
+---
+f: breach
+t: 
 ---
 f: books
 t: 
@@ -1138,9 +1312,15 @@ t: 
 f: best
 t: 
 ---
+f: below
+t: 
+---
 f: being
 t: 
 senior: 
+---
+f: behind
+t: 
 ---
 f: before
 t: 
@@ -1195,6 +1375,9 @@ f: and
 t: 
 junior: 
 ---
+f: ancient
+t: 
+---
 f: analogous
 t: 
 ---
@@ -1211,8 +1394,14 @@ f: also
 t: 
 senior: 
 ---
+f: already
+t: 
+---
 f: all
 t: 
+---
+f: again
+t: 
 ---
 f: after
 t: 
@@ -1222,6 +1411,9 @@ t: 
 ---
 f: add
 t: 
+---
+f: across
+t: 
 ---
 f: about
 t: 
