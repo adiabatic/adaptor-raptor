@@ -110,6 +110,9 @@ senior:   
 f: were
 t: 
 ---
+f: weight
+t: 
+---
 f: wedge
 t: 
 ---
@@ -136,11 +139,17 @@ t: 
 f: war
 t: 
 ---
+f: wanted
+t: 
+---
 f: walls
 t: 
 ---
 f: wall
 t: 
+---
+f: walking
+t: 
 ---
 f: very
 t: 
@@ -311,6 +320,9 @@ t: 
 f: taste
 t: 
 ---
+f: tank
+t: 
+---
 f: tall
 t: 
 ---
@@ -322,6 +334,9 @@ t: 
 ---
 f: tablets
 t: 
+---
+f: tablet
+t: 
 ---
 f: system
 t: 
@@ -350,11 +365,17 @@ t: 
 f: suggest
 t: 
 ---
+f: stylus
+t: 
+---
 f: stumble
 t: 
 ---
 f: streets
 t: 
+---
+f: straps
+t: 
 ---
 f: story’s
 t: 
@@ -374,6 +395,12 @@ t: 
 f: still
 t: 
 ---
+f: started
+t: 
+---
+f: standing
+t: 
+---
 f: spademen
 t: 
 ---
@@ -383,15 +410,24 @@ t: 
 f: space
 t: 
 ---
+f: something
+t: 
+---
 f: someplace
 t: 
 ---
 f: some
 t: 
 ---
+f: solenoid
+t: 
+---
 f: so
 t: 
 senior: 
+---
+f: snags
+t: 
 ---
 f: smoking
 t: 
@@ -404,6 +440,9 @@ t: 
 ---
 f: slow
 t: 
+---
+f: slinging
+t: 
 ---
 f: sky
 t: 
@@ -426,9 +465,15 @@ t: 
 f: shovels
 t: 
 ---
+f: shoulder
+t: 
+---
 f: should
 t: 
 senior: 
+---
+f: shifting
+t: 
 ---
 f: shifted
 t: 
@@ -490,6 +535,9 @@ f: Roman
 t: 
 case-sensitive: true
 ---
+f: road
+t: 
+---
 f: right
 t: 
 ---
@@ -510,6 +558,9 @@ t: 
 ---
 f: remain
 t: 
+---
+f: redistributing
+t: 
 ---
 f: red
 t: 
@@ -593,6 +644,9 @@ t: 
 f: patient
 t: 
 ---
+f: past
+t: 
+---
 f: particulars
 t: 
 ---
@@ -604,6 +658,9 @@ t: 
 ---
 f: painstaking
 t: 
+---
+f: pack
+t: 
 ---
 f: oxygen
 t: 
@@ -695,6 +752,9 @@ t: 
 f: notebooks
 t: 
 ---
+f: notebook
+t: 
+---
 f: not
 t: 
 ---
@@ -706,6 +766,9 @@ t: 
 ---
 f: 'no'
 t: 
+---
+f: next
+t: 
 ---
 f: news
 t: 
@@ -812,6 +875,9 @@ senior: 
 f: machinery
 t: 
 ---
+f: machine
+t: 
+---
 f: low
 t: 
 ---
@@ -852,6 +918,9 @@ t: 
 f: let
 t: 
 ---
+f: left
+t: 
+---
 f: lay
 t: 
 ---
@@ -881,6 +950,12 @@ t: 
 ---
 f: kilometers
 t: 
+---
+f: jutting
+t: 
+---
+f: jackhammer
+t: 
 ---
 f: I’ve
 t: 
@@ -968,6 +1043,9 @@ t: 
 f: holds
 t: 
 ---
+f: holding
+t: 
+---
 f: his
 t: 
 senior: 
@@ -975,6 +1053,9 @@ senior: 
 f: him
 t: 
 senior: 
+---
+f: hillocks
+t: 
 ---
 f: high
 t: 
@@ -1020,6 +1101,9 @@ t: 
 ---
 f: had
 t: 
+---
+f: gun
+t: 
 ---
 f: grown
 t: 
@@ -1075,6 +1159,9 @@ senior: 
 ---
 f: fourth
 t: 
+---
+f: four
+t: 
 ---
 f: found
 t: 
@@ -1142,6 +1229,9 @@ t: 
 ---
 f: fast
 t: 
+---
+f: explored
+t: 
 ---
 f: everything
 t: 
@@ -1258,6 +1348,9 @@ t: 
 f: decipherment
 t: 
 ---
+f: decided
+t: 
+---
 f: days
 t: 
 ---
@@ -1289,6 +1382,9 @@ senior: 
 ---
 f: copper
 t: 
+---
+f: conscious
+t: 
 ---
 f: conceivable
 t: 
@@ -1364,6 +1460,9 @@ f: can
 t: 
 senior: 
 ---
+f: camera
+t: 
+---
 f: called
 t: 
 ---
@@ -1376,6 +1475,9 @@ senior: 
 ---
 f: burying
 t: 
+---
+f: buried
+t: 
 ---
 f: bulldozers
 t: 
@@ -1397,6 +1499,12 @@ t: 
 ---
 f: breathable
 t: 
+---
+f: break
+t: 
+---
+f: breached
+t: 
 ---
 f: breach
 t: 
@@ -1423,6 +1531,9 @@ senior: 
 f: behind
 t: 
 ---
+f: began
+t: 
+---
 f: before
 t: 
 senior: 
@@ -1434,6 +1545,9 @@ senior: 
 f: because
 t: 
 senior: 
+---
+f: became
+t: 
 ---
 f: be
 t: 
@@ -1449,11 +1563,17 @@ t: 
 f: base
 t: 
 ---
+f: banging
+t: 
+---
 f: ball
 t: 
 ---
 f: back
 t: 
+---
+f: awkward
+t: 
 ---
 f: away
 t: 
@@ -1470,6 +1590,9 @@ senior: 
 ---
 f: around
 t: 
+---
+f: arm
+t: 
 ---
 f: are
 t: 
