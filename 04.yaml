@@ -4,6 +4,12 @@
 f: wind
 t: 
 ---
+f: Winckelmann
+t: ·
+---
+f: valuable object
+t:  
+---
 f: U.N.
 t:  
 ---
@@ -19,6 +25,9 @@ t: ·
 f: Piper
 t: ·
 ---
+f: Mohenjo-Daro
+t: ·-
+---
 f: Martians
 t: 
 ---
@@ -27,6 +36,12 @@ t: · 
 ---
 f: Mars
 t: ·
+---
+f: Indus
+t: ·
+---
+f: Harappa
+t: ·
 ---
 f: H. Beam Piper’s
 t: ·.  
@@ -55,6 +70,9 @@ case-sensitive: true
 f: Areans
 t: 
 case-sensitive: true
+---
+f: Arean
+t: 
 ---
 f: <i lang='la'>Homo sapiens</i>
 t: <i lang='la'>Homo sapiens</i>

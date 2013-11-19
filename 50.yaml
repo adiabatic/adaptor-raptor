@@ -13,6 +13,9 @@ f: you
 t: 
 senior: 
 ---
+f: 'yes'
+t: 
+---
 f: years
 t: 
 ---
@@ -143,6 +146,12 @@ f: very
 t: 
 senior: 
 ---
+f: valuable
+t: 
+---
+f: valley
+t: 
+---
 f: using
 t: 
 ---
@@ -163,11 +172,20 @@ t: 
 f: unless
 t: 
 ---
+f: underpaid
+t: 
+---
 f: underlying
 t: 
 ---
 f: under
 t: 
+---
+f: uncovering
+t: 
+---
+f: uncomplaining
+t: 
 ---
 f: two
 t: 
@@ -356,6 +374,9 @@ t: 
 f: still
 t: 
 ---
+f: spademen
+t: 
+---
 f: spaces
 t: 
 ---
@@ -380,6 +401,9 @@ t: 
 ---
 f: small
 t: 
+---
+f: slow
+t: 
 ---
 f: sky
 t: 
@@ -447,6 +471,9 @@ t: 
 f: said
 t: 
 ---
+f: ruins
+t: 
+---
 f: rubble
 t: 
 ---
@@ -474,6 +501,9 @@ t: 
 ---
 f: replaced
 t: 
+---
+f: remembered
+t: 
 ---
 f: remains
 t: 
@@ -510,6 +540,9 @@ possibilities:
 f: professor
 t: 
 ---
+f: primitive
+t: 
+---
 f: pressed
 t: 
 ---
@@ -540,6 +573,9 @@ t: 
 f: place
 t: 
 ---
+f: pickmen
+t: 
+---
 f: perhaps
 t: 
 senior: 
@@ -554,6 +590,9 @@ t: 
 f: paused
 t: 
 ---
+f: patient
+t: 
+---
 f: particulars
 t: 
 ---
@@ -562,6 +601,9 @@ t: 
 ---
 f: paper
 t: 
+---
+f: painstaking
+t: 
 ---
 f: oxygen
 t: 
@@ -642,6 +684,11 @@ junior: 
 f: ocean
 t: 
 ---
+f: object
+possibilities:
+- 
+- 
+---
 f: now
 t: 
 ---
@@ -672,6 +719,9 @@ senior: 
 ---
 f: naïve
 t: 
+---
+f: native
+t: 
 ---
 f: name
 t: 
@@ -814,6 +864,12 @@ t: 
 f: large
 t: 
 ---
+f: laborers
+t: 
+---
+f: laborer
+t: 
+---
 f: labor
 t: 
 ---
@@ -888,6 +944,9 @@ f: I
 t: 
 warning: Could also be a roman numeral.
 ---
+f: hundred
+t: 
+---
 f: humidity
 t: 
 ---
@@ -953,11 +1012,20 @@ senior: 
 f: has
 t: 
 ---
+f: hand
+t: 
+---
+f: hadn’t
+t: 
+---
 f: had
 t: 
 ---
 f: grown
 t: 
+---
+f: ground
+t: 
 ---
 f: Greek
 t: 
@@ -1008,6 +1076,9 @@ senior: 
 f: fourth
 t: 
 ---
+f: found
+t: 
+---
 f: forty
 t: 
 ---
@@ -1016,6 +1087,9 @@ t: 
 ---
 f: form
 t: 
+---
+f: foremen
+t: 
 ---
 f: for
 t: 
@@ -1039,11 +1113,17 @@ t: 
 f: firmly
 t: 
 ---
+f: fingers
+t: 
+---
 f: find
 t: 
 ---
 f: film
 t: 
+---
+f: files
+t: 
 ---
 f: fifty
 t: 
@@ -1143,8 +1223,14 @@ t: 
 f: directly
 t: 
 ---
+f: digs
+t: 
+---
 f: different
 t: 
+---
+f: died
+t: 
 ---
 f: didn’t
 t: 
@@ -1190,6 +1276,9 @@ t: 
 f: counterexample
 t: 
 ---
+f: count
+t: 
+---
 f: couldn’t
 t: 
 senior: 
@@ -1234,6 +1323,9 @@ t: 
 f: clearing
 t: 
 ---
+f: civilization
+t: 
+---
 f: city
 t: 
 ---
@@ -1249,8 +1341,17 @@ t: 
 f: change
 t: 
 ---
+f: centuries
+t: 
+---
 f: caved
 t: 
+---
+f: carrying
+t: 
+---
+f: careful
+t: 
 ---
 f: can’t
 t: 
@@ -1339,6 +1440,9 @@ t: 
 junior: 
 note: erroneously un-happy-tensed?
 ---
+f: basketmen
+t: 
+---
 f: based
 t: 
 ---
@@ -1347,6 +1451,12 @@ t: 
 ---
 f: ball
 t: 
+---
+f: back
+t: 
+---
+f: away
+t: 
 ---
 f: atmosphere
 t: 
@@ -1357,6 +1467,9 @@ t: 
 f: as
 t: 
 senior: 
+---
+f: around
+t: 
 ---
 f: are
 t: 
@@ -1399,6 +1512,9 @@ t: 
 ---
 f: all
 t: 
+---
+f: ago
+t: 
 ---
 f: again
 t: 
