@@ -232,6 +232,9 @@ f: time
 t: 
 senior: 
 ---
+f: through
+t: 
+---
 f: thousand
 t: 
 ---
@@ -317,6 +320,9 @@ note: Will screw up silently if used like "Terra firma. Finally."
 f: terms
 t: 
 ---
+f: ten
+t: 
+---
 f: taste
 t: 
 ---
@@ -338,11 +344,17 @@ t: 
 f: tablet
 t: 
 ---
+f: table
+t: 
+---
 f: system
 t: 
 ---
 f: sweeping
 t: 
+---
+f: survey
+t: 
 ---
 f: surface
 t: 
@@ -410,6 +422,9 @@ t: 
 f: space
 t: 
 ---
+f: soon
+t: 
+---
 f: something
 t: 
 ---
@@ -456,6 +471,9 @@ t: 
 f: sixth
 t: 
 ---
+f: sitting
+t: 
+---
 f: since
 t: 
 ---
@@ -501,8 +519,14 @@ t: 
 f: seaport
 t: 
 ---
+f: script
+t: 
+---
 f: science
 t: 
+---
+f: scanned
+t: 
 ---
 f: says
 t: 
@@ -528,6 +552,9 @@ t: 
 f: rooted
 t: 
 ---
+f: room
+t: 
+---
 f: roofs
 t: 
 ---
@@ -546,6 +573,12 @@ t: 
 ---
 f: revised
 t: 
+---
+f: returned
+t: 
+---
+f: report
+t: 
 ---
 f: replaced
 t: 
@@ -624,6 +657,9 @@ t: 
 f: place
 t: 
 ---
+f: pilots
+t: 
+---
 f: pickmen
 t: 
 ---
@@ -689,6 +725,9 @@ t: 
 f: original
 t: 
 ---
+f: ordnance
+t: 
+---
 f: or
 t: 
 ---
@@ -730,6 +769,12 @@ senior: 
 ---
 f: offshoot
 t: 
+---
+f: officer
+t: 
+---
+f: office
+t: 
 ---
 f: 'off'
 t: 
@@ -862,6 +907,9 @@ f: make
 t: 
 senior: 
 ---
+f: main
+t: 
+---
 f: magnified
 t: 
 ---
@@ -887,6 +935,9 @@ t: 
 f: looking
 t: 
 ---
+f: looked
+t: 
+---
 f: look
 t: 
 ---
@@ -906,6 +957,9 @@ f: little
 t: 
 senior: 
 ---
+f: listening
+t: 
+---
 f: linguistic
 t: 
 ---
@@ -914,6 +968,12 @@ t: 
 ---
 f: life
 t: 
+---
+f: lieutenants
+t: 
+---
+f: lieutenant
+t: 
 ---
 f: let
 t: 
@@ -994,6 +1054,9 @@ t: 
 f: intended
 t: 
 ---
+f: intelligence
+t: 
+---
 f: instead
 t: 
 ---
@@ -1011,6 +1074,9 @@ t: 
 ---
 f: impossible
 t: 
+---
+f: images
+t: 
 ---
 f: if
 t: 
@@ -1074,6 +1140,9 @@ t: 
 ---
 f: help
 t: 
+---
+f: head
+t: 
 ---
 f: he
 t: 
@@ -1182,6 +1251,12 @@ f: for
 t: 
 junior: 
 ---
+f: folder
+t: 
+---
+f: flight
+t: 
+---
 f: flat
 t: 
 ---
@@ -1224,11 +1299,17 @@ t: 
 f: few
 t: 
 ---
+f: fellow
+t: 
+---
 f: feel
 t: 
 ---
 f: fast
 t: 
+---
+f: farther
+t: 
 ---
 f: explored
 t: 
@@ -1256,6 +1337,12 @@ t: 
 f: equality
 t: 
 ---
+f: entered
+t: 
+---
+f: end
+t: 
+---
 f: eighty
 t: 
 ---
@@ -1280,6 +1367,9 @@ case-sensitive: true
 ---
 f: dust
 t: 
+---
+f: droplights
+t: 
 ---
 f: drawings
 t: 
@@ -1306,6 +1396,9 @@ t: 
 f: do
 t: 
 senior: 
+---
+f: disposed
+t: 
 ---
 f: dismiss
 t: 
@@ -1366,6 +1459,9 @@ t: 
 f: covering
 t: 
 ---
+f: couple
+t: 
+---
 f: counterexample
 t: 
 ---
@@ -1410,6 +1506,9 @@ f: come
 t: 
 senior: 
 ---
+f: colonel
+t: 
+---
 f: coated
 t: 
 ---
@@ -1448,6 +1547,9 @@ t: 
 ---
 f: careful
 t: 
+---
+f: captain
+t: 
 ---
 f: can’t
 t: 
@@ -1518,8 +1620,14 @@ t: 
 f: blowing
 t: 
 ---
+f: between
+t: 
+---
 f: best
 t: 
+---
+f: bent
+t: 
 ---
 f: below
 t: 
@@ -1601,6 +1709,9 @@ senior: 
 f: archaeology
 t: 
 ---
+f: archaeologists
+t: 
+---
 f: apparently
 t: 
 ---
@@ -1639,8 +1750,14 @@ t: 
 f: ago
 t: 
 ---
+f: against
+t: 
+---
 f: again
 t: 
+---
+f: afternoon
+t: 
 ---
 f: after
 t: 

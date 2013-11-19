@@ -7,6 +7,9 @@ t: 
 f: Winckelmann
 t: ·
 ---
+f: von Ohlmhorst
+t:  ·
+---
 f: valuable object
 t:  
 ---
@@ -19,6 +22,42 @@ t: · 
 f: Syrtis
 t: ·
 ---
+f: Spaceforce
+t: ·
+---
+f: Signals
+t: ·
+---
+f: Sid Chamberlain
+t: · 
+case-sensitive: true
+---
+f: Shelter One
+t: · 
+case-sensitive: true
+---
+f: Selim von Ohlmhorst
+t: ·  
+case-sensitive: true
+---
+f: Selim
+t: ·
+case-sensitive: true
+---
+f: Sachiko’s
+t: 
+case-sensitive: true
+---
+f: Sachiko Koremitsu
+t: · 
+case-sensitive: true
+note: I listened to the pronunciation of “tsu” on Wikipedia and it sounded like 
+  to me. YMMV.
+---
+f: Sachiko
+t: ·
+case-sensitive: true
+---
 f: Project Gutenberg
 t:  ·
 ---
@@ -28,6 +67,10 @@ t: ·
 f: Piper
 t: ·
 ---
+f: Penrose
+t: ·
+case-sensitive: true
+---
 f: Mohenjo-Daro
 t: ·-
 ---
@@ -36,12 +79,38 @@ t: 
 ---
 f: Martha Dane
 t: · 
+case-sensitive: true
+---
+f: Martha
+t: ·
+case-sensitive: true
 ---
 f: Mars
 t: ·
 ---
+f: Lindemann
+t: ·
+---
+f: Koremitsu
+t: ·
+case-sensitive: true
+note: I listened to the pronunciation of “tsu” on Wikipedia and it sounded like 
+  to me. YMMV.
+---
+f: Ivan Fitzgerald
+t: · 
+case-sensitive: true
+---
+f: Ivan
+t: ·
+case-sensitive: true
+---
 f: Indus
 t: ·
+---
+f: Hubert Penrose
+t: · 
+case-sensitive: true
 ---
 f: Harappa
 t: ·
@@ -53,8 +122,22 @@ f: H. Beam Piper
 t: ·.  
 note: the H is for Henry.
 ---
+f: German Turk
+t:  
+case-sensitive: true
+---
 f: Frank Kelly Freas
 t: ·  
+---
+f: Fitzgerald
+t: ·
+case-sensitive: true
+---
+f: Field
+t: ·
+case-sensitive: true
+note: could still screw up on things like “Field and Stream”, so this goes in the
+  per-story dictionary.
 ---
 f: Federation Government
 t:  
@@ -63,8 +146,39 @@ f: Earth
 t: ·
 case-sensitive: true
 ---
+f: Dr. Dane’s
+t: · 
+case-sensitive: true
+---
+f: Dr. Dane
+t: · 
+case-sensitive: true
+---
 f: Classic Maya
 t:  ·
+---
+f: Chandler
+t: ·
+case-sensitive: true
+---
+f: Chamberlain
+t: ·
+case-sensitive: true
+---
+f: C.O.
+t:  
+---
+f: Bill’s
+t: 
+case-sensitive: true
+---
+f: Bill Chandler
+t: · 
+case-sensitive: true
+---
+f: Bill
+t: ·
+case-sensitive: true
 ---
 f: Ares
 t: ·
@@ -76,6 +190,9 @@ case-sensitive: true
 ---
 f: Arean
 t: 
+---
+f: aerodyne
+t: 
 ---
 f: <i lang='la'>Homo sapiens</i>
 t: <i lang='la'>Homo sapiens</i>
