@@ -88,6 +88,9 @@ t: 
 f: wholesale
 t: 
 ---
+f: whole
+t: 
+---
 f: who
 t: 
 ---
@@ -118,6 +121,14 @@ senior: 
 f: we’ use
 t:  
 senior:   
+---
+f: we’ll use
+t:  
+senior:   
+---
+f: we’ll
+t: 
+senior:  
 ---
 f: were
 t: 
@@ -202,6 +213,9 @@ possibilities:
 - 
 - 
 ---
+f: us
+t: 
+---
 f: upper
 t: 
 ---
@@ -210,6 +224,9 @@ t: 
 ---
 f: unless
 t: 
+---
+f: understanding
+t: 
 ---
 f: underpaid
 t: 
@@ -476,6 +493,9 @@ t: 
 f: started
 t: 
 ---
+f: start
+t: 
+---
 f: standing
 t: 
 ---
@@ -487,6 +507,9 @@ t: 
 ---
 f: spoke
 t: 
+---
+f: species
+t: 
 ---
 f: spademen
 t: 
@@ -500,11 +523,17 @@ t: 
 f: soon
 t: 
 ---
+f: somewhere
+t: 
+---
 f: something
 t: 
 ---
 f: someplace
 t: 
+---
+f: somebody
+t: 
 ---
 f: some
 t: 
@@ -527,6 +556,9 @@ t: 
 ---
 f: smokes
 t: 
+---
+f: smiled
+t: 
 ---
 f: small
 t: 
@@ -700,6 +732,9 @@ t: 
 f: relayed
 t: 
 ---
+f: reindeer
+t: 
+---
 f: rehearsed
 t: 
 ---
@@ -743,6 +778,9 @@ t: 
 ---
 f: public
 t: 
+---
+f: pry
+t: 
 ---
 f: provided
 t: 
@@ -805,6 +843,9 @@ t: 
 ---
 f: pilots
 t: 
+---
+f: pictures
+t: 
 ---
 f: pickmen
 t: 
@@ -1071,12 +1112,18 @@ t: 
 f: meat
 t: 
 ---
+f: meaning
+t: 
+---
 f: mean
 t: 
 ---
 f: me
 t: 
 senior: 
+---
+f: may not live
+t:   
 ---
 f: may
 t: 
@@ -1153,6 +1200,11 @@ t: 
 f: loess
 t: 
 ---
+f: live
+possibilities:
+- 
+- 
+---
 f: little
 t: 
 senior: 
@@ -1187,6 +1239,9 @@ t: 
 f: left
 t: 
 ---
+f: learn
+t: 
+---
 f: leaned
 t: 
 ---
@@ -1201,6 +1256,9 @@ t: 
 ---
 f: large
 t: 
+---
+f: language
+t: 
 ---
 f: laborers
 t: 
@@ -1473,6 +1531,9 @@ senior: 
 ---
 f: glossy
 t: 
+---
+f: give
+t: 
 ---
 f: girls
 t: 
@@ -1774,6 +1835,9 @@ t: 
 f: day
 t: 
 ---
+f: daubing
+t: 
+---
 f: damaged
 t: 
 ---
@@ -1785,6 +1849,10 @@ t: 
 ---
 f: crumbled
 t: 
+---
+f: Cro-Magnon
+t: -
+case-sensitive: true
 ---
 f: critical
 t: 
@@ -1884,6 +1952,9 @@ t: 
 f: caved
 t: 
 ---
+f: cave
+t: 
+---
 f: carrying
 t: 
 ---
@@ -1951,6 +2022,9 @@ f: briefly
 t: 
 note: -?
 ---
+f: bridge
+t: 
+---
 f: breathable
 t: 
 ---
@@ -1986,6 +2060,9 @@ t: 
 ---
 f: black
 t: 
+---
+f: bison
+t: 
 ---
 f: binocular
 t: 
@@ -2072,6 +2149,9 @@ f: as
 t: 
 senior: 
 ---
+f: artist
+t: 
+---
 f: around
 t: 
 ---
@@ -2093,6 +2173,9 @@ t: 
 ---
 f: apparently
 t: 
+---
+f: anywhere
+t: 
 ---
 f: any
 t: 
