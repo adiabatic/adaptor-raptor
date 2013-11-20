@@ -13,6 +13,9 @@ f: you
 t: 
 senior: 
 ---
+f: yet
+t: 
+---
 f: 'yes'
 t: 
 ---
@@ -247,6 +250,12 @@ t: 
 f: toppled
 t: 
 ---
+f: top
+t: 
+---
+f: took
+t: 
+---
 f: too
 t: 
 ---
@@ -434,6 +443,9 @@ t: 
 f: stumble
 t: 
 ---
+f: stuff
+t: 
+---
 f: streets
 t: 
 ---
@@ -472,6 +484,9 @@ t: 
 ---
 f: sponge
 t: 
+---
+f: spoke
+t: 
 ---
 f: spademen
 t: 
@@ -522,6 +537,9 @@ t: 
 f: slinging
 t: 
 ---
+f: slightest
+t: 
+---
 f: sleeveless
 t: 
 ---
@@ -542,6 +560,9 @@ t: 
 ---
 f: since
 t: 
+---
+f: simply
+t: 
 ---
 f: sifting
 t: 
@@ -624,6 +645,9 @@ t: 
 f: rough
 t: 
 ---
+f: Rosetta Stone
+t:  
+---
 f: rooted
 t: 
 ---
@@ -658,6 +682,9 @@ t: 
 f: report
 t: 
 ---
+f: replied
+t: 
+---
 f: replaced
 t: 
 ---
@@ -685,14 +712,31 @@ t: 
 f: reconstructing
 t: 
 ---
+f: really
+t: 
+---
+f: realized
+t: 
+---
 f: reader
 t: 
+---
+f: read
+possibilities:
+- 
+- 
 ---
 f: re-invention
 t: -
 ---
 f: rather
 t: 
+---
+f: raising
+t: 
+---
+f: puzzles
+t: 
 ---
 f: purple
 t: 
@@ -800,8 +844,14 @@ t: 
 f: paper
 t: 
 ---
+f: palms
+t: 
+---
 f: painstaking
 t: 
+---
+f: pages
+t: 
 ---
 f: page
 t: 
@@ -811,6 +861,9 @@ t: 
 ---
 f: oxygen
 t: 
+---
+f: overtone
+t: 
 ---
 f: over
 t: 
@@ -964,6 +1017,9 @@ f: much
 t: 
 senior: 
 ---
+f: moving
+t: 
+---
 f: movement
 t: 
 ---
@@ -991,6 +1047,9 @@ t: 
 f: might
 t: 
 ---
+f: micro
+t: 
+---
 f: metric
 t: 
 ---
@@ -999,6 +1058,9 @@ t: 
 ---
 f: metal
 t: 
+---
+f: mess
+t: 
 ---
 f: mentioned
 t: 
@@ -1055,6 +1117,9 @@ t: 
 f: machine
 t: 
 ---
+f: lying
+t: 
+---
 f: low
 t: 
 ---
@@ -1098,6 +1163,9 @@ t: 
 f: listening
 t: 
 ---
+f: lips
+t: 
+---
 f: linguistic
 t: 
 ---
@@ -1118,6 +1186,9 @@ t: 
 ---
 f: left
 t: 
+---
+f: leaned
+t: 
 ---
 f: lay
 t: 
@@ -1154,6 +1225,9 @@ t: 
 ---
 f: joy
 t: 
+---
+f: jigsaw
+t: 
 ---
 f: jackhammer
 t: 
@@ -1276,8 +1350,14 @@ t: 
 f: high
 t: 
 ---
+f: hieroglyphics
+t: 
+---
 f: hiding
 t: 
+---
+f: hesitated
+t: 
 ---
 f: herself
 t: 
@@ -1293,6 +1373,12 @@ t: 
 ---
 f: help
 t: 
+---
+f: hello
+t: 
+---
+f: heavy
+t: 
 ---
 f: headband
 t: 
@@ -1400,6 +1486,9 @@ t: 
 f: future
 t: 
 ---
+f: front
+t: 
+---
 f: from
 t: 
 senior: 
@@ -1438,6 +1527,9 @@ t: 
 f: flat
 t: 
 ---
+f: flaky
+t: 
+---
 f: flags
 t: 
 ---
@@ -1455,6 +1547,9 @@ t: 
 ---
 f: firmly
 t: 
+---
+f: finished
+t: 
 ---
 f: fingers
 t: 
@@ -1477,6 +1572,9 @@ t: 
 f: fifty
 t: 
 ---
+f: fifteen
+t: 
+---
 f: fiction
 t: 
 ---
@@ -1497,6 +1595,9 @@ t: 
 ---
 f: farther
 t: 
+---
+f: faintly
+t: 
 ---
 f: fact
 t: 
@@ -1611,6 +1712,9 @@ f: do
 t: 
 senior: 
 ---
+f: disturb
+t: 
+---
 f: disposed
 t: 
 ---
@@ -1655,6 +1759,9 @@ t: 
 f: delicately
 t: 
 ---
+f: defensive
+t: 
+---
 f: decipherment
 t: 
 ---
@@ -1670,11 +1777,17 @@ t: 
 f: damaged
 t: 
 ---
+f: cupped
+t: 
+---
 f: crushed
 t: 
 ---
 f: crumbled
 t: 
+---
+f: critical
+t: 
 ---
 f: covering
 t: 
@@ -1729,6 +1842,9 @@ senior: 
 f: colonel
 t: 
 ---
+f: cocktail
+t: 
+---
 f: coated
 t: 
 ---
@@ -1758,6 +1874,9 @@ t: 
 ---
 f: change
 t: 
+---
+f: chair
+t: 
 ---
 f: centuries
 t: 
@@ -1794,6 +1913,9 @@ t: 
 f: called
 t: 
 ---
+f: call
+t: 
+---
 f: by
 t: 
 ---
@@ -1825,8 +1947,15 @@ t: 
 f: bright
 t: 
 ---
+f: briefly
+t: 
+note: -?
+---
 f: breathable
 t: 
+---
+f: breath
+t: 
 ---
 f: break
 t: 
@@ -1965,6 +2094,9 @@ t: 
 f: apparently
 t: 
 ---
+f: any
+t: 
+---
 f: another
 t: 
 ---
@@ -1993,6 +2125,9 @@ senior: 
 ---
 f: already
 t: 
+---
+f: almost
+t: 
 ---
 f: all
 t: 
