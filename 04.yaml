@@ -10,6 +10,9 @@ t: ·
 f: von Ohlmhorst
 t:  ·
 ---
+f: via the Moon
+t:   ·
+---
 f: valuable object
 t:  
 ---
@@ -152,6 +155,10 @@ case-sensitive: true
 ---
 f: Dr. Dane
 t: · 
+case-sensitive: true
+---
+f: Cyrano
+t: ·
 case-sensitive: true
 ---
 f: Classic Maya

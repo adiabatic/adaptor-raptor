@@ -82,6 +82,9 @@ t: 
 f: who
 t: 
 ---
+f: white
+t: 
+---
 f: while
 t: 
 ---
@@ -116,6 +119,9 @@ t: 
 f: wedge
 t: 
 ---
+f: webcast
+t: 
+---
 f: we use
 t:  
 senior:  
@@ -132,6 +138,12 @@ t: 
 ---
 f: waterfront
 t: 
+---
+f: water
+t: 
+---
+f: wash
+t: 
 ---
 f: was
 t: 
@@ -150,6 +162,12 @@ t: 
 ---
 f: walking
 t: 
+---
+f: videocaster
+t: 
+---
+f: via
+t: 
 ---
 f: very
 t: 
@@ -201,6 +219,9 @@ t: 
 ---
 f: trying
 t: 
+---
+f: transmitted
+t: 
 ---
 f: toppled
 t: 
@@ -353,6 +374,9 @@ t: 
 f: sweeping
 t: 
 ---
+f: sweater
+t: 
+---
 f: survey
 t: 
 ---
@@ -413,6 +437,9 @@ t: 
 f: standing
 t: 
 ---
+f: sponge
+t: 
+---
 f: spademen
 t: 
 ---
@@ -459,6 +486,9 @@ t: 
 f: slinging
 t: 
 ---
+f: sleeveless
+t: 
+---
 f: sky
 t: 
 ---
@@ -489,6 +519,9 @@ t: 
 f: should
 t: 
 senior: 
+---
+f: shirt
+t: 
 ---
 f: shifting
 t: 
@@ -592,6 +625,9 @@ t: 
 f: remain
 t: 
 ---
+f: relayed
+t: 
+---
 f: redistributing
 t: 
 ---
@@ -648,6 +684,9 @@ t: 
 f: plaza
 t: 
 ---
+f: plans
+t: 
+---
 f: planet’s
 t: 
 ---
@@ -656,6 +695,9 @@ t: 
 ---
 f: place
 t: 
+---
+f: pipeline
+t: 
 ---
 f: pilots
 t: 
@@ -727,6 +769,9 @@ t: 
 ---
 f: ordnance
 t: 
+---
+f: orbit
+t: 
 ---
 f: or
 t: 
@@ -907,6 +952,9 @@ f: make
 t: 
 senior: 
 ---
+f: major
+t: 
+---
 f: main
 t: 
 ---
@@ -956,6 +1004,9 @@ t: 
 f: little
 t: 
 senior: 
+---
+f: liter
+t: 
 ---
 f: listening
 t: 
@@ -1103,8 +1154,14 @@ t: 
 f: houses
 t: 
 ---
+f: hot
+t: 
+---
 f: hopefully
 t: 
+---
+f: hoped
+t: 
 ---
 f: holds
 t: 
@@ -1128,6 +1185,9 @@ t: 
 ---
 f: hiding
 t: 
+---
+f: herself
+t: 
 ---
 f: hers
 t: 
@@ -1162,8 +1222,14 @@ senior: 
 f: has
 t: 
 ---
+f: hands
+t: 
+---
 f: hand
 t: 
+---
+f: half
+t: 
 ---
 f: hadn’t
 t: 
@@ -1311,6 +1377,12 @@ t: 
 f: farther
 t: 
 ---
+f: fact
+t: 
+---
+f: face
+t: 
+---
 f: explored
 t: 
 ---
@@ -1328,6 +1400,9 @@ f: ever
 t: 
 senior: 
 ---
+f: evening
+t: 
+---
 f: even
 t: 
 ---
@@ -1340,11 +1415,17 @@ t: 
 f: entered
 t: 
 ---
+f: engineer
+t: 
+---
 f: end
 t: 
 ---
 f: eighty
 t: 
+---
+f: eight
+t: 
 ---
 f: edits
 t: 
@@ -1374,8 +1455,14 @@ t: 
 f: drawings
 t: 
 ---
+f: drawing
+t: 
+---
 f: draglines
 t: 
+---
+f: drafting
+t: 
 ---
 f: down
 t: 
@@ -1389,6 +1476,9 @@ t: 
 ---
 f: domain
 t: 
+---
+f: doing
+t: 
 ---
 f: does
 t: 
@@ -1521,6 +1611,9 @@ t: 
 f: civilization
 t: 
 ---
+f: civilian
+t: 
+---
 f: city
 t: 
 ---
@@ -1617,6 +1710,12 @@ t: 
 f: boards
 t: 
 ---
+f: board
+t: 
+---
+f: blue
+t: 
+---
 f: blowing
 t: 
 ---
@@ -1692,6 +1791,9 @@ t: 
 f: at
 t: 
 ---
+f: assistants
+t: 
+---
 f: as
 t: 
 senior: 
@@ -1701,6 +1803,9 @@ t: 
 ---
 f: arm
 t: 
+---
+f: arguing
+t: 
 ---
 f: are
 t: 
@@ -1761,6 +1866,9 @@ t: 
 ---
 f: after
 t: 
+---
+f: advertising
+t: 
 ---
 f: adjust
 t: 
