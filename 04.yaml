@@ -100,6 +100,11 @@ case-sensitive: true
 note: I listened to the pronunciation of “tsu” on Wikipedia and it sounded like 
   to me. YMMV.
 ---
+f: Japanese
+t: 
+note: while “Japanese” in Omnilingual is invariably an adjective, I’m not sure if
+  it should be name-dotted when used as a noun.
+---
 f: Ivan Fitzgerald
 t: · 
 case-sensitive: true

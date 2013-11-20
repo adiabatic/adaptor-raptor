@@ -52,6 +52,9 @@ f: women
 t: 
 note: Terminals -en, on. Written invariably as ; no contraction, no alternatives.
 ---
+f: woman
+t: 
+---
 f: without
 t: 
 senior: 
@@ -59,6 +62,9 @@ senior: 
 f: with
 t: 
 senior: 
+---
+f: wire
+t: 
 ---
 f: wind
 possibilities:
@@ -142,6 +148,9 @@ t: 
 f: water
 t: 
 ---
+f: watch
+t: 
+---
 f: wash
 t: 
 ---
@@ -217,8 +226,20 @@ t: 
 f: two
 t: 
 ---
+f: tweezers
+t: 
+---
+f: turned
+t: 
+---
+f: tubing
+t: 
+---
 f: trying
 t: 
+---
+f: transparent
+t: 
 ---
 f: transmitted
 t: 
@@ -242,6 +263,9 @@ f: to
 t: 
 junior: 
 ---
+f: tiny
+t: 
+---
 f: tinged
 t: 
 ---
@@ -262,6 +286,9 @@ t: 
 f: thought
 t: 
 senior: 
+---
+f: though
+t: 
 ---
 f: those
 t: 
@@ -425,6 +452,9 @@ t: 
 f: stories
 t: 
 ---
+f: stopped
+t: 
+---
 f: stood
 t: 
 ---
@@ -436,6 +466,9 @@ t: 
 ---
 f: standing
 t: 
+---
+f: spraygun
+t: 
 ---
 f: sponge
 t: 
@@ -467,6 +500,9 @@ t: 
 f: so
 t: 
 senior: 
+---
+f: snowflake
+t: 
 ---
 f: snags
 t: 
@@ -531,6 +567,12 @@ t: 
 ---
 f: shelters
 t: 
+---
+f: sheet
+t: 
+---
+f: sheer
+t: 
 ---
 f: sheds
 t: 
@@ -610,6 +652,9 @@ t: 
 f: returned
 t: 
 ---
+f: restoring
+t: 
+---
 f: report
 t: 
 ---
@@ -628,11 +673,17 @@ t: 
 f: relayed
 t: 
 ---
+f: rehearsed
+t: 
+---
 f: redistributing
 t: 
 ---
 f: red
 t: 
+---
+f: reconstructing
+t: 
 ---
 f: reader
 t: 
@@ -675,6 +726,9 @@ t: 
 f: prefabricated
 t: 
 ---
+f: precise
+t: 
+---
 f: power
 t: 
 ---
@@ -684,6 +738,9 @@ t: 
 f: plaza
 t: 
 ---
+f: plastic
+t: 
+---
 f: plans
 t: 
 ---
@@ -692,6 +749,9 @@ t: 
 ---
 f: planet
 t: 
+---
+f: placed
+t: 
 ---
 f: place
 t: 
@@ -704,6 +764,9 @@ t: 
 ---
 f: pickmen
 t: 
+---
+f: picking
+t: 
 ---
 f: perhaps
 t: 
@@ -728,6 +791,9 @@ t: 
 f: particulars
 t: 
 ---
+f: particle
+t: 
+---
 f: park
 t: 
 ---
@@ -736,6 +802,9 @@ t: 
 ---
 f: painstaking
 t: 
+---
+f: page
+t: 
 ---
 f: pack
 t: 
@@ -888,9 +957,15 @@ t: 
 f: must
 t: 
 ---
+f: music
+t: 
+---
 f: much
 t: 
 senior: 
+---
+f: movement
+t: 
 ---
 f: most
 t: 
@@ -903,6 +978,9 @@ t: 
 ---
 f: modern
 t: 
+---
+f: mist
+t: 
 ---
 f: mine
 t: 
@@ -941,6 +1019,9 @@ senior: 
 f: may
 t: 
 ---
+f: masked
+t: 
+---
 f: marvelously
 t: 
 ---
@@ -976,6 +1057,12 @@ t: 
 ---
 f: low
 t: 
+---
+f: loupe
+t: 
+---
+f: loosening
+t: 
 ---
 f: looseleaf
 t: 
@@ -1065,6 +1152,9 @@ t: 
 f: jutting
 t: 
 ---
+f: joy
+t: 
+---
 f: jackhammer
 t: 
 ---
@@ -1091,6 +1181,9 @@ t: 
 ---
 f: involved
 t: 
+---
+f: invisible
+t: 
 ---
 f: introduction
 t: 
@@ -1201,6 +1294,9 @@ t: 
 f: help
 t: 
 ---
+f: headband
+t: 
+---
 f: head
 t: 
 ---
@@ -1225,11 +1321,18 @@ t: 
 f: hands
 t: 
 ---
+f: handle
+t: 
+---
 f: hand
 t: 
 ---
 f: half
 t: 
+---
+f: hair
+t: 
+note: '[he@`] in Macmillan. e@ is , right?'
 ---
 f: hadn’t
 t: 
@@ -1250,8 +1353,14 @@ f: Greek
 t: 
 case-sensitive: true
 ---
+f: grasped
+t: 
+---
 f: granted
 t: 
+---
+f: graceful
+t: 
 ---
 f: gorgeous
 t: 
@@ -1275,6 +1384,9 @@ case-sensitive: true
 f: go
 t: 
 senior: 
+---
+f: glossy
+t: 
 ---
 f: girls
 t: 
@@ -1329,6 +1441,9 @@ t: 
 f: flags
 t: 
 ---
+f: fixative
+t: 
+---
 f: five
 t: 
 ---
@@ -1344,8 +1459,14 @@ t: 
 f: fingers
 t: 
 ---
+f: fine
+t: 
+---
 f: find
 t: 
+---
+f: finally
+t: 
 ---
 f: film
 t: 
@@ -1382,6 +1503,9 @@ t: 
 ---
 f: face
 t: 
+---
+f: eyes
+t: 
 ---
 f: explored
 t: 
@@ -1528,6 +1652,9 @@ t: 
 f: depression
 t: 
 ---
+f: delicately
+t: 
+---
 f: decipherment
 t: 
 ---
@@ -1545,6 +1672,9 @@ t: 
 ---
 f: crushed
 t: 
+---
+f: crumbled
+t: 
 ---
 f: covering
 t: 
@@ -1638,6 +1768,9 @@ t: 
 f: carrying
 t: 
 ---
+f: carry
+t: 
+---
 f: careful
 t: 
 ---
@@ -1707,6 +1840,9 @@ t: 
 f: books
 t: 
 ---
+f: book
+t: 
+---
 f: boards
 t: 
 ---
@@ -1718,6 +1854,12 @@ t: 
 ---
 f: blowing
 t: 
+---
+f: black
+t: 
+---
+f: binocular
+t: 
 ---
 f: between
 t: 
@@ -1794,6 +1936,9 @@ t: 
 f: assistants
 t: 
 ---
+f: aside
+t: 
+---
 f: as
 t: 
 senior: 
@@ -1866,6 +2011,9 @@ t: 
 ---
 f: after
 t: 
+---
+f: afraid
+t: 
 ---
 f: advertising
 t: 
