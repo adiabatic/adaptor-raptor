@@ -19,8 +19,17 @@ t:  
 f: U.N.
 t:  
 ---
+f: Tony’s
+t: ·
+case-sensitive: true
+---
 f: Tony Lattimer
 t: · 
+---
+f: Tony
+t: ·
+case-sensitive: true
+note: “tony” is an adjective too, remember?
 ---
 f: to read
 t:  
@@ -98,6 +107,11 @@ t: ·
 f: Lindemann
 t: ·
 ---
+f: Laurent Gicquel
+t: · 
+note: Surname pronunciation cribbed from <http://www.youtube.com/watch?v=HpTIr9fygGY>.
+  Yes, I know the speaker’s German. Given name adapted from  /lɔʁɑ̃/ in Wiktionary.
+---
 f: Koremitsu
 t: ·
 case-sensitive: true
@@ -133,6 +147,9 @@ t: ·.  
 f: H. Beam Piper
 t: ·.  
 note: the H is for Henry.
+---
+f: Gicquel’s
+t: 
 ---
 f: German Turk
 t:  
