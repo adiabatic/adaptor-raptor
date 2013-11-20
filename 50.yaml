@@ -25,6 +25,9 @@ t: 
 f: year
 t: 
 ---
+f: wrote
+t: 
+---
 f: wouldn’t
 t: 
 senior: 
@@ -50,6 +53,9 @@ t: 
 ---
 f: word
 t: 
+---
+f: wonderful
+t: 
 ---
 f: women
 t: 
@@ -222,8 +228,14 @@ t: 
 f: up
 t: 
 ---
+f: unshaded
+t: 
+---
 f: unless
 t: 
+---
+f: universally
+t: 
 ---
 f: understanding
 t: 
@@ -263,6 +275,12 @@ t: 
 ---
 f: transmitted
 t: 
+---
+f: translate
+t: 
+---
+f: toward
+t: 
 ---
 f: toppled
 t: 
@@ -436,6 +454,9 @@ t: 
 f: surface
 t: 
 ---
+f: sure
+t: 
+---
 f: supports
 t: 
 ---
@@ -462,6 +483,9 @@ t: 
 ---
 f: stuff
 t: 
+---
+f: structure
+t: 
 ---
 f: streets
 t: 
@@ -538,6 +562,9 @@ t: 
 f: some
 t: 
 ---
+f: solid
+t: 
+---
 f: solenoid
 t: 
 ---
@@ -559,6 +586,9 @@ t: 
 ---
 f: smiled
 t: 
+---
+f: smile
+t: 
 ---
 f: small
 t: 
@@ -609,6 +639,9 @@ f: should
 t: 
 senior: 
 ---
+f: shook
+t: 
+---
 f: shirt
 t: 
 ---
@@ -640,6 +673,9 @@ senior: 
 ---
 f: set
 t: 
+---
+f: seems
+t: 
 ---
 f: seemed
 t: 
@@ -732,6 +768,9 @@ t: 
 f: relayed
 t: 
 ---
+f: relationship
+t: 
+---
 f: reindeer
 t: 
 ---
@@ -785,6 +824,9 @@ t: 
 f: provided
 t: 
 ---
+f: proton
+t: 
+---
 f: project
 possibilities:
 - 
@@ -792,6 +834,9 @@ possibilities:
 ---
 f: professor
 t: 
+---
+f: printed
+t: 
 ---
 f: primitive
 t: 
@@ -813,6 +858,12 @@ t: 
 ---
 f: power
 t: 
+---
+f: positive
+t: 
+---
+f: politeness
+t: 
 ---
 f: plenty
 t: 
@@ -846,6 +897,12 @@ t: 
 ---
 f: pictures
 t: 
+---
+f: pictured object
+t:  
+---
+f: pictured
+t: 
 ---
 f: pickmen
 t: 
@@ -1011,6 +1068,9 @@ t: 
 f: not
 t: 
 ---
+f: nor
+t: 
+---
 f: noon
 t: 
 ---
@@ -1032,6 +1092,12 @@ t: 
 f: never
 t: 
 senior: 
+---
+f: neutron
+t: 
+---
+f: neither
+t: 
 ---
 f: naïve
 t: 
@@ -1069,6 +1135,9 @@ t: 
 ---
 f: more
 t: 
+---
+f: moment
+t: 
 ---
 f: modernize
 t: 
@@ -1112,6 +1181,9 @@ t: 
 f: meat
 t: 
 ---
+f: meant
+t: 
+---
 f: meaning
 t: 
 ---
@@ -1127,6 +1199,9 @@ t:   
 ---
 f: may
 t: 
+---
+f: mass
+t: 
 ---
 f: masked
 t: 
@@ -1224,6 +1299,9 @@ t: 
 f: like
 t: 
 ---
+f: light
+t: 
+---
 f: life
 t: 
 ---
@@ -1293,6 +1371,10 @@ t: 
 f: I’ve
 t: 
 ---
+f: I’ll
+t: 
+senior:  
+---
 f: it’s
 t: 
 senior: 
@@ -1342,6 +1424,9 @@ t: 
 f: indiscriminate
 t: 
 ---
+f: indication
+t: 
+---
 f: in use
 t:  
 ---
@@ -1360,6 +1445,9 @@ t: 
 f: I
 t: 
 warning: Could also be a roman numeral.
+---
+f: hundreds
+t: 
 ---
 f: hundred
 t: 
@@ -1382,11 +1470,17 @@ t: 
 f: hot
 t: 
 ---
+f: hopeless
+t: 
+---
 f: hopefully
 t: 
 ---
 f: hoped
 t: 
+---
+f: hope
+t: 
 ---
 f: holds
 t: 
@@ -1554,6 +1648,9 @@ f: from
 t: 
 senior: 
 ---
+f: friendship
+t: 
+---
 f: fourth
 t: 
 ---
@@ -1562,6 +1659,9 @@ t: 
 ---
 f: found
 t: 
+---
+f: forward
+t: 
 ---
 f: forty
 t: 
@@ -1660,6 +1760,9 @@ t: 
 f: faintly
 t: 
 ---
+f: faded
+t: 
+---
 f: fact
 t: 
 ---
@@ -1691,6 +1794,9 @@ t: 
 ---
 f: even
 t: 
+---
+f: establish
+t: 
 ---
 f: equipment
 t: 
@@ -1829,6 +1935,9 @@ t: 
 f: decided
 t: 
 ---
+f: dead
+t: 
+---
 f: days
 t: 
 ---
@@ -1964,6 +2073,9 @@ t: 
 f: careful
 t: 
 ---
+f: captions
+t: 
+---
 f: captain
 t: 
 ---
@@ -2014,6 +2126,9 @@ t: 
 ---
 f: brought
 t: 
+---
+f: bring
+t: 
 ---
 f: bright
 t: 
@@ -2177,6 +2292,9 @@ t: 
 f: anywhere
 t: 
 ---
+f: anything
+t: 
+---
 f: any
 t: 
 ---
@@ -2247,6 +2365,9 @@ t: 
 ---
 f: about
 t: 
+---
+f: able
+t: 
 ---
 f: a
 t: 
