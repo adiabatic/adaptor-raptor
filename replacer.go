@@ -58,11 +58,13 @@ type Entry struct {
 	// Some strings like "use" in Latin have multiple pronunciations depending on what part
 	// of speech it’s supposed to be. For these words, Possibilities lists all the different
 	// things it could be.
-	Possibilities []string
+	//Possibilities []string
 
-	// True only if
 	CaseSensitive bool `yaml:"case-sensitive"`
 	Warning       string
+
+	// Higher-priority than entries that don’t have this set to true.
+	HighPriority bool
 }
 
 type trieNode struct {
@@ -296,7 +298,7 @@ func (r *Replacer) WriteString(w io.Writer, s string) (n int, err error) {
 	sw := getStringWriter(w)
 	err = &Notices{}
 	var last int // where the next copy-to should start from in s
-	var wn int // freshly-written (to w) n
+	var wn int   // freshly-written (to w) n
 	var prevMatchEmpty bool
 
 	for i := 0; i <= len(s); {

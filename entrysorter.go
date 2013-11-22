@@ -33,5 +33,13 @@ func (by By) Sort(entries []Entry) {
 }
 
 func zToAByFrom(l, r *Entry) bool {
-	return strings.ToLower(l.From) > strings.ToLower(r.From)
+
+	L := strings.ToLower(l.From)
+	R := strings.ToLower(r.From)
+
+	if L == R {
+		return l.HighPriority
+	}
+
+	return L > R
 }
