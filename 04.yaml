@@ -52,6 +52,10 @@ f: Shelter One
 t: · 
 case-sensitive: true
 ---
+f: she read
+t:  
+senior:  
+---
 f: Selim von Ohlmhorst
 t: ·  
 case-sensitive: true
@@ -170,6 +174,10 @@ note: could still screw up on things like “Field and Stream”, so this goes i
 ---
 f: Federation Government
 t:  
+---
+f: English
+t: ·
+case-sensitive: true
 ---
 f: Egyptian
 t: 

@@ -1,6 +1,9 @@
 # This file is in the public domain.
 # http://creativecommons.org/publicdomain/zero/1.0/
 ---
+f: zooming
+t: 
+---
 f: yours
 t: 
 senior: 
@@ -27,6 +30,12 @@ t: 
 ---
 f: wrote
 t: 
+---
+f: wrong
+t: 
+---
+f: wrinkling
+t: 
 ---
 f: wouldn’t
 t: 
@@ -77,6 +86,9 @@ senior: 
 ---
 f: wire
 t: 
+---
+f: windows
+t: 
 ---
 f: wind
 possibilities:
@@ -142,6 +154,9 @@ senior:  
 f: were
 t: 
 ---
+f: went
+t: 
+---
 f: well
 t: 
 ---
@@ -177,6 +192,9 @@ t: 
 f: watch
 t: 
 ---
+f: wasting
+t: 
+---
 f: wasn’t
 t: 
 ---
@@ -201,6 +219,9 @@ t: 
 f: walking
 t: 
 ---
+f: vowels
+t: 
+---
 f: videocaster
 t: 
 ---
@@ -211,11 +232,20 @@ f: very
 t: 
 senior: 
 ---
+f: vertical
+t: 
+---
+f: values
+t: 
+---
 f: valuable
 t: 
 ---
 f: valley
 t: 
+---
+f: vacated
+t: 
 ---
 f: using
 t: 
@@ -249,6 +279,9 @@ t: 
 f: universally
 t: 
 ---
+f: unexamined
+t: 
+---
 f: understanding
 t: 
 ---
@@ -269,6 +302,9 @@ t: 
 ---
 f: two
 t: 
+---
+f: twitch
+t: 
 ---
 f: tweezers
 t: 
@@ -294,8 +330,17 @@ t: 
 f: translate
 t: 
 ---
+f: transcripts
+t: 
+---
+f: traces
+t: 
+---
 f: toward
 t: 
+---
+f: tore
+t: 
 ---
 f: toppled
 t: 
@@ -322,6 +367,9 @@ f: to
 t: 
 junior: 
 ---
+f: title
+t: 
+---
 f: tiny
 t: 
 ---
@@ -336,8 +384,14 @@ f: time
 t: 
 senior: 
 ---
+f: till
+t: 
+---
 f: through
 t: 
+---
+f: three
+t: 
 ---
 f: thousand
 t: 
@@ -460,6 +514,9 @@ t: 
 f: system
 t: 
 ---
+f: symbols
+t: 
+---
 f: sweeping
 t: 
 ---
@@ -535,8 +592,14 @@ t: 
 f: stood
 t: 
 ---
+f: stones
+t: 
+---
 f: still
 t: 
+---
+f: stiffened
+t: 
 ---
 f: started
 t: 
@@ -546,6 +609,9 @@ t: 
 ---
 f: standing
 t: 
+---
+f: squirming
+t: 
 ---
 f: spraygun
 t: 
@@ -568,11 +634,17 @@ t: 
 f: space
 t: 
 ---
+f: sort
+t: 
+---
 f: soon
 t: 
 ---
 f: somewhere
 t: 
+---
+f: sometime
+t: 
 ---
 f: something
 t: 
@@ -629,6 +701,9 @@ t: 
 f: slightest
 t: 
 ---
+f: slender
+t: 
+---
 f: sleeveless
 t: 
 ---
@@ -652,6 +727,9 @@ t: 
 ---
 f: simply
 t: 
+---
+f: silently
+t: 
 ---
 f: sifting
 t: 
@@ -704,11 +782,20 @@ senior: 
 f: set
 t: 
 ---
+f: sense
+t: 
+---
+f: seen
+t: 
+---
 f: seems
 t: 
 ---
 f: seemed
 t: 
+---
+f: seat
+t: 
 ---
 f: seaport
 t: 
@@ -719,14 +806,26 @@ t: 
 f: science
 t: 
 ---
+f: scans
+t: 
+---
 f: scanned
 t: 
+---
+f: scan
+t: 
 ---
 f: says
 t: 
 ---
+f: saying
+t: 
+---
 f: say
 t: 
+---
+f: sat
+t: 
 ---
 f: same
 t: 
@@ -759,6 +858,9 @@ f: Roman
 t: 
 case-sensitive: true
 ---
+f: roads
+t: 
+---
 f: road
 t: 
 ---
@@ -774,8 +876,15 @@ t: 
 f: returned
 t: 
 ---
+f: reticent
+t: 
+note: the .Utter is optional.
+---
 f: restoring
 t: 
+---
+f: restored
+t: 
 ---
 f: report
 t: 
@@ -785,6 +894,9 @@ t: 
 ---
 f: replaced
 t: 
+---
+f: repair
+t: 
 ---
 f: remembered
 t: 
@@ -825,6 +937,9 @@ t: 
 f: reader
 t: 
 ---
+f: readable
+t: 
+---
 f: read
 possibilities:
 - 
@@ -851,6 +966,9 @@ t: 
 f: purple
 t: 
 ---
+f: purely
+t: 
+---
 f: public
 t: 
 ---
@@ -862,6 +980,12 @@ t: 
 ---
 f: proton
 t: 
+---
+f: pronounceable
+t: 
+---
+f: pronounce
+t: 
 ---
 f: project
 possibilities:
@@ -901,6 +1025,9 @@ t: 
 f: positive
 t: 
 ---
+f: Pompeii
+t: ·
+---
 f: politeness
 t: 
 ---
@@ -924,6 +1051,9 @@ t: 
 ---
 f: planet
 t: 
+---
+f: places
+t: 
 ---
 f: placed
 t: 
@@ -957,6 +1087,18 @@ t: 
 ---
 f: picking
 t: 
+---
+f: photographs
+t: 
+---
+f: phonetic
+t: 
+---
+f: perished
+t: 
+---
+f: periodical
+t: 
 ---
 f: period
 t: 
@@ -1005,11 +1147,17 @@ t: 
 f: page
 t: 
 ---
+f: packing
+t: 
+---
 f: pack
 t: 
 ---
 f: oxygen
 t: 
+---
+f: own
+t: 
 ---
 f: overtone
 t: 
@@ -1110,8 +1258,14 @@ possibilities:
 - 
 - 
 ---
+f: obituary
+t: 
+---
 f: now
 t: 
+---
+f: nothing
+t: 
 ---
 f: notebooks
 t: 
@@ -1139,6 +1293,9 @@ t: 
 ---
 f: 'no'
 t: 
+---
+f: night
+t: 
 ---
 f: next
 t: 
@@ -1174,6 +1331,9 @@ t: 
 f: my
 t: 
 ---
+f: mustache
+t: 
+---
 f: must
 t: 
 ---
@@ -1189,6 +1349,9 @@ t: 
 ---
 f: movement
 t: 
+---
+f: mouth
+t: 
 ---
 f: most
 t: 
@@ -1223,6 +1386,9 @@ t: 
 f: might
 t: 
 ---
+f: middle
+t: 
+---
 f: micro
 t: 
 ---
@@ -1247,6 +1413,9 @@ t: 
 f: mental
 t: 
 ---
+f: mend
+t: 
+---
 f: meat
 t: 
 ---
@@ -1269,6 +1438,9 @@ t:   
 f: may
 t: 
 ---
+f: material
+t: 
+---
 f: mass
 t: 
 ---
@@ -1280,6 +1452,12 @@ t: 
 ---
 f: map
 t: 
+---
+f: man’s
+t: 
+---
+f: many
+t: 
 ---
 f: making
 t: 
@@ -1359,6 +1537,9 @@ senior: 
 f: liter
 t: 
 ---
+f: lists
+t: 
+---
 f: listening
 t: 
 ---
@@ -1367,6 +1548,9 @@ t: 
 ---
 f: linguistic
 t: 
+---
+f: lime
+t: 
 ---
 f: like
 t: 
@@ -1383,8 +1567,14 @@ t: 
 f: lieutenant
 t: 
 ---
+f: letters
+t: 
+---
 f: let
 t: 
+---
+f: less
+t: 
 ---
 f: left
 t: 
@@ -1428,11 +1618,17 @@ t: 
 f: know
 t: 
 ---
+f: knew
+t: 
+---
 f: kilometers
 t: 
 ---
 f: jutting
 t: 
+---
+f: just
+t: 
 ---
 f: joy
 t: 
@@ -1445,6 +1641,9 @@ t: 
 ---
 f: I’ve
 t: 
+---
+f: I’m
+t: 
 ---
 f: I’ll
 t: 
@@ -1460,6 +1659,9 @@ t: 
 f: its
 t: 
 senior: 
+---
+f: Italy
+t: ·
 ---
 f: it
 t: 
@@ -1500,8 +1702,20 @@ t: 
 f: instead
 t: 
 ---
+f: instant
+t: 
+---
+f: instance
+t: 
+---
 f: inside
 t: 
+---
+f: inscriptions
+t: 
+---
+f: inhabitants
+t: 
 ---
 f: indiscriminate
 t: 
@@ -1520,6 +1734,9 @@ t: 
 ---
 f: images
 t: 
+---
+f: image
+t: 
 ---
 f: if
 t: 
@@ -1551,6 +1768,9 @@ t: 
 ---
 f: hot
 t: 
+---
+f: horizontal
+t: 
 ---
 f: hopeless
 t: 
@@ -1686,6 +1906,9 @@ f: Greek
 t: 
 case-sensitive: true
 ---
+f: great
+t: 
+---
 f: grasped
 t: 
 ---
@@ -1730,6 +1953,9 @@ t: 
 f: girl
 t: 
 ---
+f: get
+t: 
+---
 f: generators
 t: 
 ---
@@ -1755,6 +1981,9 @@ t: 
 f: four
 t: 
 ---
+f: foundation
+t: 
+---
 f: found
 t: 
 ---
@@ -1763,6 +1992,9 @@ t: 
 ---
 f: forty
 t: 
+---
+f: fortunate
+t: 
 ---
 f: forms
 t: 
@@ -1834,6 +2066,9 @@ t: 
 f: files
 t: 
 ---
+f: file
+t: 
+---
 f: fifty
 t: 
 ---
@@ -1858,11 +2093,17 @@ t: 
 f: feel
 t: 
 ---
+f: fat
+t: 
+---
 f: fast
 t: 
 ---
 f: farther
 t: 
+---
+f: far
+t: 
 ---
 f: faintly
 t: 
@@ -1884,6 +2125,15 @@ t: 
 ---
 f: explored
 t: 
+---
+f: expedition
+t: 
+---
+f: except
+t: 
+---
+f: examining
+t: 
 ---
 f: everything
 t: 
@@ -1923,6 +2173,9 @@ t: 
 f: enter
 t: 
 ---
+f: enough
+t: 
+---
 f: engineer
 t: 
 ---
@@ -1934,6 +2187,9 @@ t: 
 ---
 f: eight
 t: 
+---
+f: effort
+t: 
 ---
 f: effect
 t: 
@@ -1965,6 +2221,9 @@ t: 
 ---
 f: drilling
 t: 
+---
+f: dreams
+t: 
 ---
 f: drawings
 t: 
@@ -2010,8 +2269,14 @@ t: 
 f: dismiss
 t: 
 ---
+f: disapproval
+t: 
+---
 f: directly
 t: 
+---
+f: dinner
+t: 
 ---
 f: digs
 t: 
@@ -2039,6 +2304,9 @@ t: 
 f: destruction
 t: 
 ---
+f: destroy
+t: 
+---
 f: deserts
 t: 
 ---
@@ -2057,6 +2325,9 @@ t: 
 f: decided
 t: 
 ---
+f: deal
+t: 
+---
 f: dead
 t: 
 ---
@@ -2068,6 +2339,9 @@ t: 
 ---
 f: daubing
 t: 
+---
+f: dancing
+t: 
 ---
 f: damaged
 t: 
@@ -2090,6 +2364,9 @@ t: 
 ---
 f: covering
 t: 
+---
+f: course
+t: 
 ---
 f: couple
 t: 
@@ -2117,6 +2394,12 @@ t: 
 f: consuming
 t: 
 ---
+f: consonants
+t: 
+---
+f: consistently
+t: 
+---
 f: conscious
 t: 
 ---
@@ -2131,6 +2414,9 @@ t: 
 ---
 f: completely
 t: 
+---
+f: compiling
+t: 
 ---
 f: common
 t: 
@@ -2159,6 +2445,9 @@ t: 
 f: cluster
 t: 
 ---
+f: closet
+t: 
+---
 f: clearing
 t: 
 ---
@@ -2173,6 +2462,10 @@ t: 
 ---
 f: city
 t: 
+---
+f: cities
+t: 
+note: erroneously happy-tensed?
 ---
 f: chimney
 t: 
@@ -2197,6 +2490,9 @@ t: 
 ---
 f: cave
 t: 
+---
+f: case
+t: 
 ---
 f: carrying
 t: 
@@ -2233,6 +2529,9 @@ senior: 
 f: camera
 t: 
 ---
+f: came
+t: 
+---
 f: called
 t: 
 ---
@@ -2248,6 +2547,9 @@ senior: 
 ---
 f: burying
 t: 
+---
+f: burned
+t: 
 ---
 f: buried
 t: 
@@ -2276,6 +2578,9 @@ t: 
 f: briefly
 t: 
 note: -?
+---
+f: brief
+t: 
 ---
 f: bridge
 t: 
@@ -2313,6 +2618,9 @@ t: 
 f: blowing
 t: 
 ---
+f: blinked
+t: 
+---
 f: blasting
 t: 
 ---
@@ -2331,6 +2639,9 @@ t: 
 f: between
 t: 
 ---
+f: better
+t: 
+---
 f: best
 t: 
 ---
@@ -2339,6 +2650,12 @@ t: 
 ---
 f: below
 t: 
+---
+f: belonging
+t: 
+---
+f: believed
+t: 
 ---
 f: being
 t: 
@@ -2373,11 +2690,17 @@ note: erroneously un-happy-tensed?
 f: basketmen
 t: 
 ---
+f: basement
+t: 
+---
 f: based
 t: 
 ---
 f: base
 t: 
+---
+f: barbarians
+t: 
 ---
 f: banging
 t: 
@@ -2412,6 +2735,9 @@ t: 
 f: assistants
 t: 
 ---
+f: assign
+t: 
+---
 f: asked
 t: 
 ---
@@ -2443,6 +2769,9 @@ t: 
 ---
 f: archaeologists
 t: 
+---
+f: arbitrary
+t: 
 ---
 f: apparently
 t: 
@@ -2485,8 +2814,14 @@ senior: 
 f: already
 t: 
 ---
+f: along
+t: 
+---
 f: almost
 t: 
+---
+f: allowing
+t: 
 ---
 f: all
 t: 
