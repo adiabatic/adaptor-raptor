@@ -1,5 +1,5 @@
 all: dictionaries
-	go build -o adaptor-raptor raptor.go replacer.go
+	go build -o adaptor-raptor raptor.go replacer.go entrysorter.go
 	./adaptor-raptor > out.markdown
 
 dictionaries: 04.yaml 50.yaml

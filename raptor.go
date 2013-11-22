@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"launchpad.net/goyaml"
 	"strings"
+	// "log"
 )
 
 func assemble_corpus(files ...string) string {
@@ -58,6 +59,8 @@ func main() {
 			replacements = append(replacements, f)
 		}
 	}
+
+	By(zToAByFrom).Sort(replacements)
 
 	replacer := NewReplacer(true, replacements)
 	s, err := replacer.Replace(string(document))
