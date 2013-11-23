@@ -10,6 +10,10 @@ t: ·
 f: von Ohlmhorst
 t:  ·
 ---
+f: viviparous
+t: 
+note: possibly mispronounced
+---
 f: via the Moon
 t:   ·
 ---
@@ -34,6 +38,10 @@ note: “tony” is an adjective too, remember?
 f: to read
 t:  
 junior:  
+---
+f: to live
+t:  
+junior:  
 ---
 f: Syrtis
 t: ·
@@ -94,6 +102,9 @@ case-sensitive: true
 f: Mohenjo-Daro
 t: ·-
 ---
+f: minute delicacy
+t:  
+---
 f: Martians
 t: 
 ---
@@ -110,6 +121,9 @@ t: ·
 ---
 f: Lindemann
 t: ·
+---
+f: like German
+t:  ·
 ---
 f: Laurent Gicquel
 t: · 
@@ -145,6 +159,9 @@ case-sensitive: true
 f: Harappa
 t: ·
 ---
+f: ha
+t: 
+---
 f: H. Beam Piper’s
 t: ·.  
 ---
@@ -159,12 +176,18 @@ f: German Turk
 t:  
 case-sensitive: true
 ---
+f: gamogenetic
+t: 
+---
 f: Frank Kelly Freas
 t: ·  
 ---
 f: Fitzgerald
 t: ·
 case-sensitive: true
+---
+f: Finchley’s
+t: 
 ---
 f: Field
 t: ·
@@ -198,6 +221,9 @@ case-sensitive: true
 f: Cyrano
 t: ·
 case-sensitive: true
+---
+f: close to the
+t:   
 ---
 f: Classic Maya
 t:  ·
@@ -241,3 +267,4 @@ t: 
 ---
 f: <i lang='la'>Homo sapiens</i>
 t: <i lang='la'>Homo sapiens</i>
+case-sensitive: true
