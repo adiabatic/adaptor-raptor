@@ -7,7 +7,10 @@ import (
 	"launchpad.net/goyaml"
 	"strings"
 	// "log"
+	"os"
 )
+
+const DEBUG = false
 
 func entriesFromFile(filename string, highPriority bool) []Entry {
 	contents, err := ioutil.ReadFile(filename)
@@ -33,9 +36,9 @@ func entriesFromFile(filename string, highPriority bool) []Entry {
 		if e.From == "" || e.To == "" {
 			continue
 		}
-		
+
 		e.HighPriority = highPriority
-		
+
 		if !e.CaseSensitive {
 			f := e
 			f.From = strings.Title(f.From)
@@ -71,6 +74,12 @@ func main() {
 	replacements := append(highs, mediums...)
 
 	By(zToAByFrom).Sort(replacements)
+
+	if DEBUG {
+		for _, e := range replacements {
+			fmt.Fprintf(os.Stderr, "%#v\n", e)
+		}
+	}
 
 	replacer := NewReplacer(true, replacements)
 	s, err := replacer.Replace(string(document))
