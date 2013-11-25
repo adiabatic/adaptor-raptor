@@ -7,7 +7,10 @@ t: 
 f: Winckelmann
 t: ·
 ---
-f: von Ohlmhorst
+f: Wilhelm II
+t: ·  
+---
+f: von Olhmhorst
 t:  ·
 ---
 f: viviparous
@@ -16,6 +19,10 @@ note: possibly mispronounced
 ---
 f: via the Moon
 t:   ·
+---
+f: Ventris’s
+t: 
+case-sensitive: true
 ---
 f: valuable object
 t:  
@@ -105,6 +112,10 @@ t: ·-
 f: minute delicacy
 t:  
 ---
+f: Michael Ventris
+t: · 
+case-sensitive: true
+---
 f: Martians
 t: 
 ---
@@ -119,11 +130,21 @@ case-sensitive: true
 f: Mars
 t: ·
 ---
+f: Linear A
+t:  ·
+---
 f: Lindemann
 t: ·
 ---
 f: like German
 t:  ·
+---
+f: learned societies
+t:  
+---
+f: learned
+t: 
+note: there’s also the “” form of “learned” in this story.
 ---
 f: Laurent Gicquel
 t: · 
@@ -142,7 +163,7 @@ note: while “Japanese” in Omnilingual is invariably an adjective, I’m not 
   it should be name-dotted when used as a noun.
 ---
 f: Ivan Fitzgerald
-t: · 
+t: · 
 case-sensitive: true
 ---
 f: Ivan
@@ -151,6 +172,10 @@ case-sensitive: true
 ---
 f: Indus
 t: ·
+---
+f: Hubert Penrose’s
+t: · 
+case-sensitive: true
 ---
 f: Hubert Penrose
 t: · 
@@ -183,7 +208,7 @@ f: Frank Kelly Freas
 t: ·  
 ---
 f: Fitzgerald
-t: ·
+t: ·
 case-sensitive: true
 ---
 f: Finchley’s
@@ -202,6 +227,9 @@ f: English
 t: ·
 case-sensitive: true
 ---
+f: else ever read
+t:   
+---
 f: Egyptian
 t: 
 name-dot: maybe, but not for adjectives.
@@ -218,9 +246,22 @@ f: Dr. Dane
 t: · 
 case-sensitive: true
 ---
+f: Doorn
+t: ·
+case-sensitive: true
+---
+f: deference of the learned
+t:    
+---
 f: Cyrano
 t: ·
 case-sensitive: true
+---
+f: Cretan Linear B
+t:   ·
+---
+f: Colonel’s
+t: 
 ---
 f: close to the
 t:   

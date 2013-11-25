@@ -34,6 +34,12 @@ t: 
 f: wrong
 t: 
 ---
+f: written
+t: 
+---
+f: writing
+t: 
+---
 f: wrinkling
 t: 
 ---
@@ -65,6 +71,9 @@ t: 
 ---
 f: word
 t: 
+---
+f: wood
+t: 
 ---
 f: wonderful
 t: 
@@ -137,6 +146,9 @@ t: 
 f: when
 t: 
 ---
+f: wheel
+t: 
+---
 f: whatever
 t: 
 senior weirdo: -
@@ -148,6 +160,10 @@ senior: 
 f: we’ use
 t:  
 senior:   
+---
+f: we’re
+t: 
+senior, maybe:  
 ---
 f: we’ll use
 t:  
@@ -198,6 +214,9 @@ t: 
 f: water
 t: 
 ---
+f: watched
+t: 
+---
 f: watch
 t: 
 ---
@@ -237,8 +256,14 @@ t: 
 f: waking
 t: 
 ---
+f: wait
+t: 
+---
 f: vowels
 t: 
+---
+f: voice
+t: 
 ---
 f: videocaster
 t: 
@@ -297,8 +322,14 @@ t: 
 f: unless
 t: 
 ---
+f: unknown
+t: 
+---
 f: universally
 t: 
+---
+f: unfamiliar
+t: 
 ---
 f: unexamined
 t: 
@@ -351,6 +382,9 @@ t: 
 f: try
 t: 
 ---
+f: tripod
+t: 
+---
 f: transparent
 t: 
 ---
@@ -368,6 +402,9 @@ t: 
 ---
 f: toward
 t: 
+---
+f: touch
+t: 
 ---
 f: tore
 t: 
@@ -526,6 +563,9 @@ t: 
 f: ten
 t: 
 ---
+f: technical
+t: 
+---
 f: taste
 t: 
 ---
@@ -559,6 +599,9 @@ t: 
 f: symbols
 t: 
 ---
+f: sword
+t: 
+---
 f: sweeping
 t: 
 ---
@@ -573,6 +616,9 @@ t: 
 ---
 f: sure
 t: 
+---
+f: suppose
+t: 
 ---
 f: supports
 t: 
@@ -604,6 +650,9 @@ t: 
 f: stumble
 t: 
 ---
+f: stuff’s
+t: 
+---
 f: stuff
 t: 
 ---
@@ -630,6 +679,9 @@ t: 
 ---
 f: stories
 t: 
+---
+f: stores
+t: 
 ---
 f: stopped
 t: 
@@ -664,8 +716,14 @@ t: 
 f: squirming
 t: 
 ---
+f: square
+t: 
+---
 f: spraygun
 t: 
+---
+f: sprayed
+t: 
 ---
 f: sponge
 t: 
@@ -678,6 +736,9 @@ t: 
 ---
 f: species
 t: 
+---
+f: specialties
+t: 
 ---
 f: speaking
 t: 
@@ -785,6 +846,9 @@ t: 
 f: sixth
 t: 
 ---
+f: six
+t: 
+---
 f: sitting
 t: 
 ---
@@ -800,11 +864,20 @@ t: 
 f: similar
 t: 
 ---
+f: silicone
+t: 
+---
 f: silently
 t: 
 ---
 f: sifting
 t: 
+---
+f: sidetracked
+t: 
+---
+f: side
+t: 
 ---
 f: shovels
 t: 
@@ -818,6 +891,9 @@ senior: 
 ---
 f: shots
 t: 
+---
+f: short
+t: 
 ---
 f: shook
 t: 
@@ -833,6 +909,9 @@ t: 
 ---
 f: shelters
 t: 
+---
+f: sheets
+t: 
 ---
 f: sheet
 t: 
@@ -863,11 +942,20 @@ t: 
 f: set
 t: 
 ---
+f: service
+t: 
+---
 f: series
 t: 
 ---
+f: sent
+t: 
+---
 f: sense
 t: 
+---
+f: self
+t: 
 ---
 f: seen
 t: 
@@ -899,8 +987,17 @@ t: 
 f: scraped
 t: 
 ---
+f: scrap
+t: 
+---
+f: scientific
+t: 
+---
 f: science
 t: 
+---
+f: school
+t: 
 ---
 f: scans
 t: 
@@ -920,8 +1017,14 @@ t: 
 f: say
 t: 
 ---
+f: sawing
+t: 
+---
 f: sat
 t: 
+---
+f: sandwich
+t: 
 ---
 f: same
 t: 
@@ -969,6 +1072,9 @@ t: 
 f: revised
 t: 
 ---
+f: review
+t: 
+---
 f: returned
 t: 
 ---
@@ -981,6 +1087,9 @@ t: 
 ---
 f: restored
 t: 
+---
+f: rest
+t: 
 ---
 f: requires
 t: 
@@ -1042,6 +1151,9 @@ t: 
 f: real
 t: 
 ---
+f: reading
+t: 
+---
 f: reader
 t: 
 ---
@@ -1068,11 +1180,17 @@ t: 
 f: raised
 t: 
 ---
+f: quite
+t: 
+---
 f: quickly
 t: 
 ---
 f: question
 t: 
+---
+f: quarterly
+t: 
 ---
 f: puzzles
 t: 
@@ -1091,6 +1209,9 @@ t: 
 ---
 f: published
 t: 
+---
+f: publications
+t: 
 ---
 f: public
 t: 
@@ -1133,6 +1254,9 @@ t: 
 f: primitive
 t: 
 ---
+f: pretty
+t: 
+---
 f: pressed
 t: 
 ---
@@ -1151,8 +1275,14 @@ t: 
 f: precise
 t: 
 ---
+f: practice
+t: 
+---
 f: power
 t: 
+---
+f: pounced
+t: 
 ---
 f: positive
 t: 
@@ -1162,6 +1292,9 @@ t: ·
 ---
 f: politeness
 t: 
+---
+f: pointless
+t: 
 ---
 f: pointing
 t: 
@@ -1220,11 +1353,17 @@ t:  
 f: pictured
 t: 
 ---
+f: picture
+t: 
+---
 f: pickmen
 t: 
 ---
 f: picking
 t: 
+---
+f: phrase
+t: 
 ---
 f: photographs
 t: 
@@ -1281,6 +1420,9 @@ t: 
 ---
 f: park
 t: 
+---
+f: paragraphs
+t: 
 ---
 f: paper
 t: 
@@ -1359,6 +1501,9 @@ t: 
 ---
 f: open
 t: 
+---
+f: onto
+t: 
 ---
 f: only
 t: 
@@ -1557,6 +1702,9 @@ t: 
 f: million
 t: 
 ---
+f: military
+t: 
+---
 f: might
 t: 
 ---
@@ -1604,6 +1752,12 @@ t: 
 ---
 f: meant
 t: 
+---
+f: means
+t: 
+---
+f: meaningless
+t: 
 ---
 f: meaning
 t: 
@@ -1671,6 +1825,9 @@ t: 
 f: magazines
 t: 
 ---
+f: magazine
+t: 
+---
 f: made
 t: 
 senior: 
@@ -1689,6 +1846,9 @@ t: 
 ---
 f: loupe
 t: 
+---
+f: lot
+t: 
 ---
 f: loosening
 t: 
@@ -1717,6 +1877,9 @@ t: 
 f: logic
 t: 
 ---
+f: log
+t: 
+---
 f: loess
 t: 
 ---
@@ -1740,6 +1903,9 @@ t: 
 ---
 f: listening
 t: 
+---
+f: listed
+t: 
 ---
 f: lips
 t: 
@@ -1780,8 +1946,19 @@ t: 
 f: less
 t: 
 ---
+f: length
+t: 
+---
 f: left
 t: 
+---
+f: learning
+t: 
+---
+f: learned
+possibilities:
+- 
+- 
 ---
 f: learn
 t: 
@@ -1828,6 +2005,9 @@ t: 
 f: knew
 t: 
 ---
+f: kind
+t: 
+---
 f: kilometers
 t: 
 ---
@@ -1839,6 +2019,12 @@ t: 
 ---
 f: joy
 t: 
+---
+f: journal
+t: 
+---
+f: joined
+t: 
 ---
 f: jigsaw
 t: 
@@ -1855,6 +2041,9 @@ t: 
 f: I’ll
 t: 
 senior:  
+---
+f: I’d
+t: 
 ---
 f: it’s
 t: 
@@ -1892,6 +2081,9 @@ t: 
 ---
 f: invisible
 t: 
+---
+f: inventories
+t: 
 ---
 f: introduction
 t: 
@@ -1948,6 +2140,9 @@ t:  
 ---
 f: in
 t: 
+---
+f: impression
+t: 
 ---
 f: impossible
 t: 
@@ -2010,6 +2205,9 @@ t: 
 f: hope
 t: 
 ---
+f: honestly
+t: 
+---
 f: holds
 t: 
 ---
@@ -2061,8 +2259,14 @@ t: 
 f: help
 t: 
 ---
+f: helmet
+t: 
+---
 f: hello
 t: 
+---
+f: held
+t: 
 ---
 f: heavy
 t: 
@@ -2128,6 +2332,9 @@ t: 
 f: gun
 t: 
 ---
+f: grunt
+t: 
+---
 f: grown
 t: 
 ---
@@ -2185,6 +2392,9 @@ senior: 
 f: glossy
 t: 
 ---
+f: given
+t: 
+---
 f: give
 t: 
 ---
@@ -2193,6 +2403,9 @@ t: 
 ---
 f: girl
 t: 
+---
+f: getting
+t: 
 ---
 f: get
 t: 
@@ -2203,8 +2416,14 @@ t: 
 f: gender
 t: 
 ---
+f: gave
+t: 
+---
 f: future
 t: 
+---
+f: fun
+t: 
 ---
 f: front
 t: 
@@ -2289,6 +2508,9 @@ t: 
 f: firmly
 t: 
 ---
+f: finishing
+t: 
+---
 f: finished
 t: 
 ---
@@ -2337,6 +2559,9 @@ t: 
 f: feel
 t: 
 ---
+f: feat
+t: 
+---
 f: fat
 t: 
 ---
@@ -2358,6 +2583,9 @@ t: 
 f: faded
 t: 
 ---
+f: factual
+t: 
+---
 f: fact
 t: 
 ---
@@ -2370,14 +2598,26 @@ t: 
 f: extinguisher
 t: 
 ---
+f: explosive
+t: 
+---
 f: explored
 t: 
+---
+f: explain
+t: 
 ---
 f: expedition
 t: 
 ---
+f: exists
+t: 
+---
 f: existing
 t: 
+---
+f: exile
+t: 
 ---
 f: except
 t: 
@@ -2408,6 +2648,9 @@ t: 
 f: even
 t: 
 ---
+f: evaporates
+t: 
+---
 f: establish
 t: 
 ---
@@ -2416,6 +2659,9 @@ t: 
 ---
 f: equality
 t: 
+---
+f: envious
+t: 
 ---
 f: entrance
 t: 
@@ -2435,11 +2681,20 @@ t: 
 f: end
 t: 
 ---
+f: encouragement
+t: 
+---
 f: encountered
 t: 
 ---
 f: enable
 t: 
+---
+f: else
+t: 
+---
+f: either
+t: 
 ---
 f: eighty
 t: 
@@ -2462,6 +2717,9 @@ t: 
 f: edited
 t: 
 ---
+f: easy
+t: 
+---
 f: east
 t: 
 ---
@@ -2471,6 +2729,9 @@ t: 
 f: earth
 t: 
 case-sensitive: true
+---
+f: each
+t: 
 ---
 f: dust
 t: 
@@ -2499,6 +2760,9 @@ t: 
 f: down
 t: 
 ---
+f: doubted
+t: 
+---
 f: don’t
 t: 
 senior: 
@@ -2522,14 +2786,23 @@ senior: 
 f: disturb
 t: 
 ---
+f: distinction
+t: 
+---
 f: dissecting
 t: 
 ---
 f: disposed
 t: 
 ---
+f: dismissively
+t: 
+---
 f: dismiss
 t: 
+---
+f: discovery
+t: 
 ---
 f: disapproval
 t: 
@@ -2569,6 +2842,9 @@ t: 
 f: detail
 t: 
 ---
+f: detached
+t: 
+---
 f: destruction
 t: 
 ---
@@ -2595,6 +2871,12 @@ t: 
 ---
 f: decipherment
 t: 
+---
+f: deciphering
+t: 
+---
+f: decipher
+t: 
 ---
 f: decimal
 t: 
@@ -2632,11 +2914,20 @@ t: 
 f: cultures
 t: 
 ---
+f: culture
+t: 
+---
+f: cryptanalysis
+t: 
+---
 f: crushed
 t: 
 ---
 f: crumbled
 t: 
+---
+f: crowed
+t: 
 ---
 f: Cro-Magnon
 t: -
@@ -2647,6 +2938,9 @@ t: 
 ---
 f: cracking
 t: 
+---
+f: cracked
+t: 
 ---
 f: covering
 t: 
@@ -2674,11 +2968,26 @@ senior: 
 f: copper
 t: 
 ---
+f: cooking
+t: 
+---
+f: conversation
+t: 
+---
+f: controversy
+t: 
+---
+f: continued
+t: 
+---
 f: contexts
 t: 
 ---
 f: contents
 t: 
+---
+f: contemplated
+t: 
 ---
 f: consuming
 t: 
@@ -2704,11 +3013,17 @@ t: 
 f: completely
 t: 
 ---
+f: complaining
+t: 
+---
 f: compiling
 t: 
 ---
 f: common
 t: 
+---
+f: commented
+t: 
 ---
 f: coming
 t: 
@@ -2762,6 +3077,9 @@ t: 
 f: checking
 t: 
 ---
+f: chariot
+t: 
+---
 f: characters
 t: 
 ---
@@ -2782,6 +3100,9 @@ t: 
 ---
 f: centimeters
 t: 
+---
+f: cementing
+t: 
 ---
 f: caved
 t: 
@@ -2806,6 +3127,12 @@ t: 
 ---
 f: captions
 t: 
+---
+f: captioned
+t: 
+---
+f: caption
+t: 
 ---
 f: captain
 t: 
@@ -2864,6 +3191,9 @@ t: 
 f: bulldozers
 t: 
 ---
+f: bulk
+t: 
+---
 f: buildings
 t: 
 ---
@@ -2875,6 +3205,9 @@ t: 
 ---
 f: brought
 t: 
+---
+f: broke
+t: 
 ---
 f: bring
 t: 
@@ -2952,6 +3285,12 @@ t: 
 f: binocular
 t: 
 ---
+f: billet
+t: 
+---
+f: bilingual
+t: 
+---
 f: big
 t: 
 ---
@@ -2986,6 +3325,9 @@ t: 
 f: behaving
 t: 
 ---
+f: beginning
+t: 
+---
 f: began
 t: 
 ---
@@ -3003,6 +3345,9 @@ senior: 
 ---
 f: became
 t: 
+---
+f: beard
+t: 
 ---
 f: be
 t: 
@@ -3079,6 +3424,9 @@ senior: 
 f: artist
 t: 
 ---
+f: article
+t: 
+---
 f: around
 t: 
 ---
@@ -3087,6 +3435,9 @@ t: 
 ---
 f: arguing
 t: 
+---
+f: argued
+t: 
 ---
 f: are
 t: 
@@ -3097,6 +3448,12 @@ t: 
 ---
 f: archaeologists
 t: 
+---
+f: archaeologist
+t: 
+---
+f: archaeological
+t: 
 ---
 f: arbitrary
 t: 
@@ -3109,6 +3466,12 @@ t: 
 ---
 f: anything
 t: 
+---
+f: anybody’s
+t: 
+---
+f: anybody
+t: 
 ---
 f: any
 t: 
@@ -3154,6 +3517,9 @@ t: 
 f: all
 t: 
 ---
+f: alien
+t: 
+---
 f: airsealing
 t: 
 ---
@@ -3198,6 +3564,9 @@ t: 
 ---
 f: across
 t: 
+---
+f: absolutely
+t: 
 ---
 f: about
 t: 
