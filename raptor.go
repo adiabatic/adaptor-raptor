@@ -42,7 +42,11 @@ func entriesFromFile(filename string, highPriority bool) []Entry {
 		if !e.CaseSensitive {
 			f := e
 			f.From = strings.Title(f.From)
-			entries = append(entries, f)
+			// only duplicate *different* entries
+			// (possibly a premature performance optimization)
+			if f.From != e.From {
+                entries = append(entries, f)
+			}
 		}
 
 		entries = append(entries, e)
