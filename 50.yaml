@@ -4,6 +4,9 @@
 f: zooming
 t: 
 ---
+f: you’ve
+t: 
+---
 f: yours
 t: 
 senior: 
@@ -207,6 +210,9 @@ t: 
 ---
 f: way
 t: 
+---
+f: waved
+t: 
 ---
 f: waterfront
 t: 
@@ -424,6 +430,9 @@ t: 
 f: tonight
 t: 
 ---
+f: told
+t: 
+---
 f: together
 t: 
 ---
@@ -549,6 +558,9 @@ f: than
 t: 
 senior: 
 ---
+f: texts
+t: 
+---
 f: text
 t: 
 ---
@@ -562,6 +574,9 @@ t: 
 ---
 f: ten
 t: 
+---
+f: tell
+t: 
 ---
 f: technical
 t: 
@@ -740,6 +755,9 @@ t: 
 f: specialties
 t: 
 ---
+f: special
+t: 
+---
 f: speaking
 t: 
 ---
@@ -754,6 +772,9 @@ t: 
 ---
 f: space
 t: 
+---
+f: sound
+t: 
 ---
 f: sort
 t: 
@@ -870,6 +891,9 @@ t: 
 f: silently
 t: 
 ---
+f: silent
+t: 
+---
 f: sifting
 t: 
 ---
@@ -956,6 +980,9 @@ t: 
 ---
 f: self
 t: 
+---
+f: selected
+t: 
 ---
 f: seen
 t: 
@@ -1283,6 +1310,9 @@ t: 
 ---
 f: pounced
 t: 
+---
+f: positively
+t: 
 ---
 f: positive
 t: 
@@ -1981,8 +2011,14 @@ t: 
 f: large
 t: 
 ---
+f: languages
+t: 
+---
 f: language
 t: 
+---
+f: landed
+t: 
 ---
 f: laid
 t: 
@@ -2298,6 +2334,9 @@ senior: 
 f: has
 t: 
 ---
+f: hard
+t: 
+---
 f: haphazardly
 t: 
 ---
@@ -2363,6 +2402,9 @@ t: 
 f: graceful
 t: 
 ---
+f: gotten
+t: 
+---
 f: got
 t: 
 ---
@@ -2418,6 +2460,9 @@ t: 
 ---
 f: gave
 t: 
+---
+f: gathered
+t: 
 ---
 f: future
 t: 
@@ -2477,6 +2522,9 @@ t: 
 ---
 f: flipping
 t: 
+---
+f: flipped
+t: 
 ---
 f: flight
 t: 
@@ -2594,6 +2642,9 @@ t: 
 ---
 f: eyes
 t: 
+---
+f: exultant
+t: 
 ---
 f: extinguisher
 t: 
@@ -3019,6 +3070,9 @@ t: 
 f: compiling
 t: 
 ---
+f: comparison
+t: 
+---
 f: common
 t: 
 ---
@@ -3095,6 +3149,9 @@ t: 
 f: certain
 t: 
 ---
+f: century
+t: 
+---
 f: centuries
 t: 
 ---
@@ -3168,6 +3225,9 @@ t: 
 ---
 f: call
 t: 
+---
+f: calendar
+t: 
 ---
 f: by
 t: 
@@ -3413,6 +3473,9 @@ t: 
 ---
 f: asked
 t: 
+---
+f: ask
+t: 
 ---
 f: aside
 t: 
