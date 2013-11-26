@@ -157,7 +157,7 @@ She turned her head. The colonel was standing by the archaeologists’ table; Ca
 
 “Classic Maya was cracked without a bilingual,” Penrose said.
 
-Von Olhmhorst waved his hand dismissively. “A special case. They had the modern languages for comparison. And it took a century and a half. But what hope, I ask you, have we of doing anything like that here? Martha, you’ve been working on these Arean texts ever since we landed here—for the last six months. Tell me, have you found a single word to which you can positively assign a meaning?”
+Von Ohlmhorst waved his hand dismissively. “A special case. They had the modern languages for comparison. And it took a century and a half. But what hope, I ask you, have we of doing anything like that here? Martha, you’ve been working on these Arean texts ever since we landed here—for the last six months. Tell me, have you found a single word to which you can positively assign a meaning?”
 
 “Yes, I think I have one.” She was trying hard not to sound too exultant. “<span lang='qar'>Doma</span>. It’s the name of one of the months of the Arean calendar.”
 
