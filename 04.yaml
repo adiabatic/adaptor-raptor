@@ -14,7 +14,6 @@ case-sensitive: true
 ---
 f: von Ohlmhorst
 t:  ·
-case-sensitive: true
 ---
 f: viviparous
 t: 
@@ -54,6 +53,9 @@ junior:  
 f: to live
 t:  
 junior:  
+---
+f: tear
+t: 
 ---
 f: Syrtis
 t: ·
@@ -173,6 +175,10 @@ f: Laurent Gicquel
 t: · 
 note: Surname pronunciation cribbed from <http://www.youtube.com/watch?v=HpTIr9fygGY>.
   Yes, I know the speaker’s German. Given name adapted from  /lɔʁɑ̃/ in Wiktionary.
+---
+f: Lattimer
+t: ·
+case-sensitive: true
 ---
 f: Koremitsu
 t: ·
