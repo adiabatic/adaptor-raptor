@@ -7,6 +7,9 @@ t: 
 f: you’ve
 t: 
 ---
+f: you’re
+t: 
+---
 f: yours
 t: 
 senior: 
@@ -14,6 +17,9 @@ senior: 
 f: your
 t: 
 senior: 
+---
+f: youngish
+t: 
 ---
 f: you
 t: 
@@ -75,6 +81,9 @@ t: 
 f: word
 t: 
 ---
+f: woolen
+t: 
+---
 f: wood
 t: 
 ---
@@ -83,6 +92,9 @@ t: 
 ---
 f: wondered
 t: 
+---
+f: wonder
+t: 
 ---
 f: women
 t: 
@@ -102,6 +114,9 @@ f: with
 t: 
 senior: 
 ---
+f: wit
+t: 
+---
 f: wire
 t: 
 ---
@@ -117,6 +132,9 @@ f: will
 t: 
 note: possibly a bad senior substitution for “will” (noun).
 senior: 
+---
+f: wild
+t: 
 ---
 f: why
 t: 
@@ -135,6 +153,9 @@ t: 
 ---
 f: white
 t: 
+---
+f: whispering
+t: 
 ---
 f: while
 t: 
@@ -163,6 +184,9 @@ senior: 
 f: we’ use
 t:  
 senior:   
+---
+f: we’ve
+t: 
 ---
 f: we’re
 t: 
@@ -271,6 +295,12 @@ t: 
 f: voice
 t: 
 ---
+f: vital
+t: 
+---
+f: village
+t: 
+---
 f: videocaster
 t: 
 ---
@@ -318,6 +348,9 @@ t: 
 ---
 f: up
 t: 
+---
+f: unusual
+t: 
 ---
 f: until
 t: 
@@ -412,6 +445,9 @@ t: 
 f: touch
 t: 
 ---
+f: tossed
+t: 
+---
 f: tore
 t: 
 ---
@@ -429,6 +465,12 @@ t: 
 ---
 f: tonight
 t: 
+---
+f: tone
+t: 
+---
+f: tomorrow
+t: 
 ---
 f: told
 t: 
@@ -492,6 +534,9 @@ senior: 
 f: thirty
 t: 
 ---
+f: third
+t: 
+---
 f: thinly
 t: 
 ---
@@ -502,6 +547,9 @@ senior: 
 f: think
 t: 
 senior: 
+---
+f: thing’s
+t: 
 ---
 f: things
 t: 
@@ -525,6 +573,9 @@ f: these
 t: 
 senior: 
 ---
+f: there’s
+t: 
+---
 f: there
 t: 
 ---
@@ -542,6 +593,9 @@ t: 
 ---
 f: their
 t: 
+---
+f: the subject
+t:  
 ---
 f: the
 t: 
@@ -584,6 +638,9 @@ t: 
 f: taste
 t: 
 ---
+f: tanks
+t: 
+---
 f: tank
 t: 
 ---
@@ -623,8 +680,14 @@ t: 
 f: sweater
 t: 
 ---
+f: survived
+t: 
+---
 f: survey
 t: 
+---
+f: surprising
+t: 
 ---
 f: surface
 t: 
@@ -659,6 +722,11 @@ t: 
 f: such
 t: 
 ---
+f: subject
+possibilities:
+- 
+- 
+---
 f: stylus
 t: 
 ---
@@ -673,6 +741,9 @@ t: 
 ---
 f: structure
 t: 
+---
+f: stripping
+t: 
 ---
 f: stripped
 t: 
@@ -772,6 +843,9 @@ t: 
 ---
 f: space
 t: 
+---
+f: sounds
+t: 
 ---
 f: sound
 t: 
@@ -903,6 +977,9 @@ t: 
 f: side
 t: 
 ---
+f: showing
+t: 
+---
 f: shovels
 t: 
 ---
@@ -950,6 +1027,9 @@ f: she
 t: 
 senior: 
 ---
+f: shape
+t: 
+---
 f: shall
 t: 
 senior: 
@@ -959,6 +1039,9 @@ t: 
 ---
 f: several
 t: 
+---
+f: seventh
+t: 
 ---
 f: seven
 t: 
@@ -993,8 +1076,17 @@ t: 
 f: seemed
 t: 
 ---
+f: seem
+t: 
+---
+f: seeing
+t: 
+---
 f: see
 t: 
+---
+f: second
+t: 
 ---
 f: seat
 t: 
@@ -1136,11 +1228,17 @@ t: 
 f: repair
 t: 
 ---
+f: removing
+t: 
+---
 f: remembered
 t: 
 ---
 f: remember
 t: 
+---
+f: remarkable
+t: 
 ---
 f: remains
 t: 
@@ -1210,6 +1308,9 @@ t: 
 f: quite
 t: 
 ---
+f: quilted
+t: 
+---
 f: quickly
 t: 
 ---
@@ -1225,6 +1326,9 @@ t: 
 f: putting
 t: 
 ---
+f: put
+t: 
+---
 f: purple
 t: 
 ---
@@ -1234,8 +1338,14 @@ t: 
 f: pulled
 t: 
 ---
+f: publishing
+t: 
+---
 f: published
 t: 
+---
+f: publish
+t: 
 ---
 f: publications
 t: 
@@ -1335,6 +1445,9 @@ t: 
 f: plaza
 t: 
 ---
+f: plausible
+t: 
+---
 f: plastic
 t: 
 ---
@@ -1371,6 +1484,9 @@ t: 
 f: pilot
 t: 
 ---
+f: pile
+t: 
+---
 f: piece
 t: 
 ---
@@ -1392,6 +1508,9 @@ t: 
 f: picking
 t: 
 ---
+f: picked
+t: 
+---
 f: phrase
 t: 
 ---
@@ -1400,6 +1519,9 @@ t: 
 ---
 f: phonetic
 t: 
+---
+f: phone
+t: 
 ---
 f: perished
 t: 
@@ -1420,6 +1542,9 @@ senior: 
 ---
 f: pencil
 t: 
+---
+f: peeling
+t: 
 ---
 f: peanut
 t: 
@@ -1453,6 +1578,9 @@ t: 
 ---
 f: paragraphs
 t: 
+---
+f: papers
+t: 
 ---
 f: paper
 t: 
@@ -1493,6 +1621,9 @@ t: 
 f: outward
 t: 
 ---
+f: outside
+t: 
+---
 f: outré
 t: 
 ---
@@ -1502,14 +1633,24 @@ t: 
 f: our
 t: 
 ---
+f: ought
+t: 
+---
 f: others
 t: 
 ---
 f: other
 t: 
 ---
+f: originally
+t: 
+note: could have an  after the .
+---
 f: original
 t: 
+---
+f: organized
+t: 
 ---
 f: ordnance
 t: 
@@ -1662,11 +1803,17 @@ t: 
 f: needed
 t: 
 ---
+f: need
+t: 
+---
 f: naïve
 t: 
 ---
 f: native
 t: 
+---
+f: names
+t: 
 ---
 f: name
 t: 
@@ -1714,6 +1861,9 @@ t: 
 f: months
 t: 
 ---
+f: month
+t: 
+---
 f: moment
 t: 
 ---
@@ -1725,6 +1875,9 @@ t: 
 ---
 f: mist
 t: 
+---
+f: missing
+t: 
 ---
 f: mine
 t: 
@@ -1774,6 +1927,9 @@ t: 
 f: mend
 t: 
 ---
+f: men
+t: 
+---
 f: medic
 t: 
 ---
@@ -1810,6 +1966,9 @@ t: 
 ---
 f: mass
 t: 
+---
+f: masks
+t: 
 ---
 f: masked
 t: 
@@ -1937,6 +2096,9 @@ t: 
 f: listed
 t: 
 ---
+f: list
+t: 
+---
 f: lips
 t: 
 ---
@@ -1966,6 +2128,9 @@ t: 
 ---
 f: lieutenant
 t: 
+---
+f: level’s
+t: 
 ---
 f: letters
 t: 
@@ -2032,6 +2197,9 @@ t: 
 f: labor
 t: 
 ---
+f: knows
+t: 
+---
 f: known
 t: 
 ---
@@ -2041,11 +2209,20 @@ t: 
 f: knew
 t: 
 ---
+f: kings
+t: 
+---
+f: king
+t: 
+---
 f: kind
 t: 
 ---
 f: kilometers
 t: 
+---
+f: key
+t: 
 ---
 f: jutting
 t: 
@@ -2128,6 +2305,9 @@ f: into
 t: 
 senior: 
 ---
+f: interested
+t: 
+---
 f: intention
 t: 
 ---
@@ -2189,6 +2369,9 @@ t: 
 f: image
 t: 
 ---
+f: ignored
+t: 
+---
 f: if
 t: 
 ---
@@ -2244,6 +2427,9 @@ t: 
 f: honestly
 t: 
 ---
+f: hole
+t: 
+---
 f: holds
 t: 
 ---
@@ -2263,6 +2449,9 @@ senior: 
 ---
 f: hillocks
 t: 
+---
+f: higher
+t: 
 ---
 f: high
 t: 
@@ -2286,14 +2475,23 @@ t: 
 f: hers
 t: 
 ---
+f: here’s
+t: 
+---
 f: here
 t: 
 ---
 f: her
 t: 
 ---
+f: helpers
+t: 
+---
 f: help
 t: 
+---
+f: helmets
+t: 
 ---
 f: helmet
 t: 
@@ -2337,6 +2535,9 @@ t: 
 f: hard
 t: 
 ---
+f: happen
+t: 
+---
 f: haphazardly
 t: 
 ---
@@ -2370,6 +2571,9 @@ t: 
 ---
 f: gun
 t: 
+---
+f: guess
+t: 
 ---
 f: grunt
 t: 
@@ -2433,6 +2637,9 @@ senior: 
 ---
 f: glossy
 t: 
+---
+f: glanced
+t: 
 ---
 f: given
 t: 
@@ -2507,6 +2714,9 @@ t: 
 f: form
 t: 
 ---
+f: forgotten
+t: 
+---
 f: foremen
 t: 
 ---
@@ -2516,6 +2726,9 @@ junior: 
 ---
 f: folder
 t: 
+---
+f: fluid
+t: 
 ---
 f: floor
 t: 
@@ -2567,6 +2780,9 @@ t: 
 ---
 f: fine
 t: 
+---
+f: finding
+t: 
 ---
 f: find
 t: 
@@ -2622,6 +2838,9 @@ t: 
 f: far
 t: 
 ---
+f: familiar
+t: 
+---
 f: fairly
 t: 
 ---
@@ -2652,6 +2871,9 @@ t: 
 f: explosive
 t: 
 ---
+f: exploring
+t: 
+---
 f: explored
 t: 
 ---
@@ -2673,6 +2895,9 @@ t: 
 f: except
 t: 
 ---
+f: excellent
+t: 
+---
 f: examining
 t: 
 ---
@@ -2684,6 +2909,9 @@ t: 
 ---
 f: everyone
 t: 
+---
+f: everybody
+t: 
 ---
 f: every
 t: 
@@ -2728,6 +2956,9 @@ t: 
 ---
 f: engineer
 t: 
+---
+f: ended
+t: 
 ---
 f: end
 t: 
@@ -2784,14 +3015,23 @@ case-sensitive: true
 f: each
 t: 
 ---
+f: dying
+t: 
+---
 f: dust
 t: 
+---
+f: durable
+t: 
 ---
 f: droplights
 t: 
 ---
 f: drilling
 t: 
+---
+f: drilled
+t: 
 ---
 f: dreams
 t: 
@@ -2808,11 +3048,17 @@ t: 
 f: drafting
 t: 
 ---
+f: dozen
+t: 
+---
 f: down
 t: 
 ---
 f: doubted
 t: 
+---
+f: doubt
+t: 
 ---
 f: don’t
 t: 
@@ -2826,6 +3072,9 @@ t: 
 ---
 f: doing
 t: 
+---
+f: doesn’t
+t: 
 ---
 f: does
 t: 
@@ -2848,6 +3097,9 @@ t: 
 ---
 f: dismissively
 t: 
+---
+f: dismissed
+t: 
 ---
 f: dismiss
 t: 
@@ -2962,6 +3214,9 @@ t: 
 f: cupped
 t: 
 ---
+f: cuneiform
+t: 
+---
 f: cultures
 t: 
 ---
@@ -2996,6 +3251,9 @@ t: 
 f: covering
 t: 
 ---
+f: coveralls
+t: 
+---
 f: course
 t: 
 ---
@@ -3015,6 +3273,9 @@ senior: 
 f: could
 t: 
 senior: 
+---
+f: copyrighted
+t: 
 ---
 f: copper
 t: 
@@ -3055,6 +3316,9 @@ t: 
 f: conical
 t: 
 ---
+f: condition
+t: 
+---
 f: conceivable
 t: 
 ---
@@ -3075,6 +3339,9 @@ t: 
 ---
 f: common
 t: 
+---
+f: commenting
+t: 
 ---
 f: commented
 t: 
@@ -3106,6 +3373,9 @@ t: 
 f: closet
 t: 
 ---
+f: close-cropped
+t: -
+---
 f: clearing
 t: 
 ---
@@ -3130,6 +3400,9 @@ t: 
 ---
 f: checking
 t: 
+---
+f: checked
+t: 
 ---
 f: chariot
 t: 
@@ -3161,11 +3434,17 @@ t: 
 f: cementing
 t: 
 ---
+f: cellar
+t: 
+---
 f: caved
 t: 
 ---
 f: cave
 t: 
+---
+f: cautioned
+t: 
 ---
 f: cat
 t: 
@@ -3324,14 +3603,23 @@ t: 
 f: blowing
 t: 
 ---
+f: blow
+t: 
+---
 f: blooded
 t: 
+---
+f: blond
+t: 
 ---
 f: blinked
 t: 
 ---
 f: blasting
 t: 
+---
+f: blast
+t: 
 ---
 f: black
 t: 
@@ -3365,6 +3653,9 @@ t: 
 ---
 f: bent
 t: 
+---
+f: belt
+t: 
 ---
 f: below
 t: 
@@ -3450,6 +3741,9 @@ t: 
 f: auto
 t: 
 ---
+f: authorized
+t: 
+---
 f: attention
 t: 
 ---
@@ -3461,6 +3755,9 @@ t: 
 ---
 f: at
 t: 
+---
+f: assumption
+t: 
 ---
 f: assistants
 t: 
@@ -3521,6 +3818,9 @@ t: 
 f: arbitrary
 t: 
 ---
+f: approaching
+t: 
+---
 f: apparently
 t: 
 ---
@@ -3538,6 +3838,9 @@ t: 
 ---
 f: any
 t: 
+---
+f: antics
+t: 
 ---
 f: another
 t: 
@@ -3576,6 +3879,9 @@ t: 
 ---
 f: allowing
 t: 
+---
+f: allow
+t: 
 ---
 f: all
 t: 
@@ -3625,8 +3931,14 @@ t: 
 f: add
 t: 
 ---
+f: activities
+t: 
+---
 f: across
 t: 
+---
+f: accumulate
+t: 
 ---
 f: absolutely
 t: 
