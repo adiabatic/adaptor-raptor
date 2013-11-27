@@ -6,12 +6,15 @@ t: 
 ---
 f: Winckelmann
 t: ·
+case-sensitive: true
 ---
 f: Wilhelm II
 t: ·  
+case-sensitive: true
 ---
 f: von Ohlmhorst
 t:  ·
+case-sensitive: true
 ---
 f: viviparous
 t: 
@@ -29,13 +32,15 @@ t:  
 ---
 f: U.N.
 t:  
+case-sensitive: true
 ---
 f: Tony’s
-t: ·
+t: 
 case-sensitive: true
 ---
 f: Tony Lattimer
 t: · 
+case-sensitive: true
 ---
 f: Tony
 t: ·
@@ -61,6 +66,10 @@ t: ·
 ---
 f: Sid Chamberlain
 t: · 
+case-sensitive: true
+---
+f: Sid
+t: ·
 case-sensitive: true
 ---
 f: Shelter One
@@ -97,10 +106,15 @@ f: Project Gutenberg
 t:  ·
 ---
 f: Piper’s
-t: ·
+t: 
+case-sensitive: true
 ---
 f: Piper
 t: ·
+case-sensitive: true
+---
+f: Persian
+t: 
 ---
 f: Penrose
 t: ·
@@ -108,6 +122,7 @@ case-sensitive: true
 ---
 f: Mohenjo-Daro
 t: ·-
+case-sensitive: true
 ---
 f: minute delicacy
 t:  
@@ -118,6 +133,7 @@ case-sensitive: true
 ---
 f: Martians
 t: 
+case-sensitive: true
 ---
 f: Martha Dane
 t: · 
@@ -129,12 +145,19 @@ case-sensitive: true
 ---
 f: Mars
 t: ·
+case-sensitive: true
+---
+f: Lord
+t: ·
+case-sensitive: true
 ---
 f: Linear A
 t:  ·
+case-sensitive: true
 ---
 f: Lindemann
 t: ·
+case-sensitive: true
 ---
 f: like German
 t:  ·
@@ -157,6 +180,10 @@ case-sensitive: true
 note: I listened to the pronunciation of “tsu” on Wikipedia and it sounded like 
   to me. YMMV.
 ---
+f: John Cowan
+t: · 
+case-sensitive: true
+---
 f: Japanese
 t: 
 note: while “Japanese” in Omnilingual is invariably an adjective, I’m not sure if
@@ -172,6 +199,7 @@ case-sensitive: true
 ---
 f: Indus
 t: ·
+case-sensitive: true
 ---
 f: Hubert Penrose’s
 t: · 
@@ -183,19 +211,27 @@ case-sensitive: true
 ---
 f: Harappa
 t: ·
+case-sensitive: true
 ---
 f: ha
 t: 
 ---
 f: H. Beam Piper’s
 t: ·.  
+case-sensitive: true
 ---
 f: H. Beam Piper
 t: ·.  
 note: the H is for Henry.
+case-sensitive: true
+---
+f: Grotefend
+t: ·
+case-sensitive: true
 ---
 f: Gicquel’s
 t: 
+case-sensitive: true
 ---
 f: German Turk
 t:  
@@ -206,6 +242,7 @@ t: 
 ---
 f: Frank Kelly Freas
 t: ·  
+case-sensitive: true
 ---
 f: Fitzgerald
 t: ·
@@ -213,6 +250,7 @@ case-sensitive: true
 ---
 f: Finchley’s
 t: 
+case-sensitive: true
 ---
 f: Field
 t: ·
@@ -222,6 +260,7 @@ note: could still screw up on things like “Field and Stream”, so this goes i
 ---
 f: Federation Government
 t:  
+case-sensitive: true
 ---
 f: English
 t: ·
@@ -236,6 +275,10 @@ name-dot: maybe, but not for adjectives.
 ---
 f: Earth
 t: ·
+case-sensitive: true
+---
+f: Dr. Lattimer
+t: · 
 case-sensitive: true
 ---
 f: Dr. Dane’s
@@ -259,15 +302,18 @@ case-sensitive: true
 ---
 f: Cretan Linear B
 t:   ·
+case-sensitive: true
 ---
 f: Colonel’s
 t: 
+case-sensitive: true
 ---
 f: close to the
 t:   
 ---
 f: Classic Maya
 t:  ·
+case-sensitive: true
 ---
 f: Chandler
 t: ·
@@ -279,6 +325,7 @@ case-sensitive: true
 ---
 f: C.O.
 t:  
+case-sensitive: true
 ---
 f: Bill’s
 t: 
@@ -302,6 +349,7 @@ case-sensitive: true
 ---
 f: Arean
 t: 
+case-sensitive: true
 ---
 f: aerodyne
 t: 
