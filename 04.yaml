@@ -12,6 +12,15 @@ f: Wilhelm II
 t: ·  
 case-sensitive: true
 ---
+f: whole subject
+t:  
+---
+f: What I object
+t:   
+---
+f: what I object
+t:   
+---
 f: von Ohlmhorst
 t:  ·
 ---
@@ -298,6 +307,9 @@ case-sensitive: true
 f: Doorn
 t: ·
 case-sensitive: true
+---
+f: don’t object
+t:  
 ---
 f: deference of the learned
 t:    

@@ -10,6 +10,9 @@ t: 
 f: you’re
 t: 
 ---
+f: yourself
+t: 
+---
 f: yours
 t: 
 senior: 
@@ -298,6 +301,9 @@ t: 
 f: voice
 t: 
 ---
+f: vocal
+t: 
+---
 f: vital
 t: 
 ---
@@ -322,6 +328,9 @@ t: 
 ---
 f: values
 t: 
+---
+f: value
+t: 
 ---
 f: valuable
 t: 
@@ -451,6 +460,9 @@ t: 
 f: transcripts
 t: 
 ---
+f: tract
+t: 
+---
 f: traces
 t: 
 ---
@@ -501,6 +513,10 @@ t: 
 ---
 f: to use
 t:  
+---
+f: to attribute
+t:  
+junior:  
 ---
 f: to
 t: 
@@ -580,6 +596,10 @@ t: 
 ---
 f: thin
 t: 
+---
+f: they’ll
+t: 
+senior:  
 ---
 f: they’d
 t: 
@@ -810,6 +830,9 @@ t: 
 f: stones
 t: 
 ---
+f: stock
+t: 
+---
 f: still
 t: 
 ---
@@ -821,6 +844,9 @@ t: 
 ---
 f: steam
 t: 
+---
+f: statues
+t: 
 ---
 f: started
 t: 
@@ -1037,6 +1063,9 @@ t: 
 f: shot
 t: 
 ---
+f: shorthanded
+t: 
+---
 f: short
 t: 
 ---
@@ -1156,6 +1185,9 @@ t: 
 f: scrap
 t: 
 ---
+f: scored
+t: 
+---
 f: scientific
 t: 
 ---
@@ -1250,6 +1282,9 @@ t: 
 f: returned
 t: 
 ---
+f: retorted
+t: 
+---
 f: retort
 t: 
 ---
@@ -1268,6 +1303,9 @@ t: 
 ---
 f: requires
 t: 
+---
+f: reputation
+t: 
 ---
 f: report
 t: 
@@ -1352,6 +1390,9 @@ t: -
 f: ravine
 t: 
 ---
+f: rattle
+t: 
+---
 f: rather
 t: 
 ---
@@ -1406,6 +1447,9 @@ t: 
 f: publish
 t: 
 ---
+f: publicity
+t: 
+---
 f: publications
 t: 
 ---
@@ -1440,6 +1484,12 @@ possibilities:
 ---
 f: professor
 t: 
+---
+f: professionally
+t: 
+---
+f: professional
+t: 
 ---
 f: process
 t: 
@@ -1504,6 +1554,9 @@ t: 
 f: pointing
 t: 
 ---
+f: plot
+t: 
+---
 f: plenty
 t: 
 ---
@@ -1533,6 +1586,9 @@ t: 
 ---
 f: placental
 t: 
+---
+f: placenames
+t: 
 ---
 f: placed
 t: 
@@ -1833,6 +1889,9 @@ t: 
 ---
 f: note
 t: 
+---
+f: notables
+t: 
 ---
 f: not
 t: 
@@ -2227,6 +2286,9 @@ t: 
 f: left
 t: 
 ---
+f: least
+t: 
+---
 f: learning
 t: 
 ---
@@ -2243,6 +2305,12 @@ t: 
 ---
 f: lay
 t: 
+---
+f: laughing
+t: 
+---
+f: Latin
+t: ·
 ---
 f: later
 t: 
@@ -2431,6 +2499,9 @@ t: 
 f: incomprehensibilities
 t: 
 ---
+f: included
+t: 
+---
 f: inclined
 t: 
 ---
@@ -2442,6 +2513,9 @@ t:  
 ---
 f: in
 t: 
+---
+f: impressive
+t: 
 ---
 f: impression
 t: 
@@ -2466,6 +2540,9 @@ t: 
 ---
 f: identify
 t: 
+---
+f: identical
+t: 
 ---
 f: I
 t: 
@@ -2494,6 +2571,9 @@ t: 
 ---
 f: hot
 t: 
+---
+f: horse
+t: 
 ---
 f: horror
 t: 
@@ -2679,6 +2759,9 @@ t: 
 f: ground
 t: 
 ---
+f: gross
+t: 
+---
 f: green
 t: 
 ---
@@ -2694,6 +2777,9 @@ t: 
 ---
 f: granted
 t: 
+---
+f: grant
+t: 
 ---
 f: grammatical
 t: 
@@ -2736,6 +2822,9 @@ t: 
 f: glanced
 t: 
 ---
+f: glance
+t: 
+---
 f: given
 t: 
 ---
@@ -2765,6 +2854,9 @@ t: 
 ---
 f: gathered
 t: 
+---
+f: gambling
+t: 
 ---
 f: future
 t: 
@@ -2990,6 +3082,9 @@ t: 
 f: existing
 t: 
 ---
+f: exist
+t: 
+---
 f: exile
 t: 
 ---
@@ -3183,6 +3278,9 @@ t: 
 f: does
 t: 
 ---
+f: doctors
+t: 
+---
 f: do
 t: 
 senior: 
@@ -3205,6 +3303,9 @@ t: 
 f: dissecting
 t: 
 ---
+f: disposing
+t: 
+---
 f: disposed
 t: 
 ---
@@ -3219,6 +3320,9 @@ t: 
 ---
 f: disdained
 t: 
+---
+f: discredit
+t: 
 ---
 f: discovery
 t: 
@@ -3431,6 +3535,9 @@ t: 
 ---
 f: consuming
 t: 
+---
+f: constrained
+t: 
 ---
 f: consonants
 t: 
@@ -3652,6 +3759,9 @@ f: but
 t: 
 senior: 
 ---
+f: busts
+t: 
+---
 f: burying
 t: 
 ---
@@ -3742,6 +3852,9 @@ t: 
 ---
 f: board
 t: 
+---
+f: blunders
+t: 
 ---
 f: blue
 t: 
@@ -3905,6 +4018,9 @@ t: 
 f: at
 t: 
 ---
+f: astronomers
+t: 
+---
 f: assumption
 t: 
 ---
@@ -4006,6 +4122,9 @@ junior: 
 ---
 f: ancient
 t: 
+---
+f: anatomy
+t: 
 ---
 f: analogous
 t: 
