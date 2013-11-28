@@ -1,11 +1,3 @@
-# Omnilingual
-
-## By H. Beam Piper
-
-Edited by John Cowan
-
-***
-
 <section id='editors-introduction'>
 
 <h1>Editor’s introduction</h1>
@@ -663,7 +655,6 @@ On Earth, her back and his knife would be out of her watchfulness.
 
 “This is better than a bilingual, Martha,” Hubert Penrose said. “Physical science expresses universal facts; necessarily it is a universal language. Heretofore archaeologists have dealt only with pre-scientific cultures.”
 
-### The End
 
 ***
 
