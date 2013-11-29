@@ -112,6 +112,9 @@ t: 
 f: woman
 t: 
 ---
+f: wizard
+t: 
+---
 f: without
 t: 
 senior: 
@@ -119,6 +122,9 @@ senior: 
 f: with
 t: 
 senior: 
+---
+f: witch
+t: 
 ---
 f: wit
 t: 
@@ -141,6 +147,9 @@ senior: 
 ---
 f: wild
 t: 
+---
+f: wicked
+t: 
 ---
 f: why
 t: 
@@ -283,6 +292,9 @@ t: 
 f: wanted
 t: 
 ---
+f: want
+t: 
+---
 f: walls
 t: 
 ---
@@ -322,6 +334,9 @@ t: 
 f: videocaster
 t: 
 ---
+f: videocast
+t: 
+---
 f: via
 t: 
 ---
@@ -331,6 +346,9 @@ senior: 
 ---
 f: vertical
 t: 
+---
+f: vegetation
+t: 
 ---
 f: values
 t: 
@@ -390,6 +408,9 @@ t: 
 ---
 f: unknown
 t: 
+---
+f: university
+t: 
 ---
 f: universally
 t: 
@@ -735,6 +756,9 @@ t: 
 f: system
 t: 
 ---
+f: synthesized
+t: 
+---
 f: symbols
 t: 
 ---
@@ -899,6 +923,9 @@ t: 
 f: sprayed
 t: 
 ---
+f: sponsored
+t: 
+---
 f: sponge
 t: 
 ---
@@ -1038,6 +1065,9 @@ t: 
 f: sitting
 t: 
 ---
+f: sipped
+t: 
+---
 f: single
 t: 
 ---
@@ -1170,6 +1200,9 @@ t: 
 f: selected
 t: 
 ---
+f: seldom
+t: 
+---
 f: seen
 t: 
 ---
@@ -1297,6 +1330,9 @@ t: 
 f: road
 t: 
 ---
+f: risk
+t: 
+---
 f: right
 t: 
 ---
@@ -1385,6 +1421,9 @@ t: 
 f: rehearsed
 t: 
 ---
+f: refills
+t: 
+---
 f: redistributing
 t: 
 ---
@@ -1464,6 +1503,9 @@ t: 
 ---
 f: put
 t: 
+---
+f: pushed
+t: 
 ---
 f: purple
 t: 
@@ -1584,6 +1626,9 @@ t: 
 f: Pompeii
 t: ·
 ---
+f: politics
+t: 
+---
 f: politeness
 t: 
 ---
@@ -1598,6 +1643,9 @@ t: 
 ---
 f: plenty
 t: 
+---
+f: plentiful
+t: 
 ---
 f: plaza
 t: 
@@ -1881,6 +1929,9 @@ senior: 
 f: offshoot
 t: 
 ---
+f: official
+t: 
+---
 f: officer
 t: 
 ---
@@ -1996,6 +2047,9 @@ t: 
 f: names
 t: 
 ---
+f: named
+t: 
+---
 f: name
 t: 
 ---
@@ -2053,6 +2107,9 @@ t: 
 ---
 f: modern
 t: 
+---
+f: mistakes
+t: 
 ---
 f: mist
 t: 
@@ -2156,6 +2213,9 @@ t: 
 ---
 f: marvelously
 t: 
+---
+f: martinis
+t: 
 ---
 f: martini
 t: 
@@ -2286,6 +2346,9 @@ t: 
 f: listening
 t: 
 ---
+f: listened
+t: 
+---
 f: listed
 t: 
 ---
@@ -2303,6 +2366,9 @@ t: 
 ---
 f: lime
 t: 
+---
+f: liked
+t: 
 ---
 f: like
 t: 
@@ -2362,6 +2428,9 @@ t: 
 ---
 f: leaned
 t: 
+---
+f: leading
+t: 
 ---
 f: lay
 t: 
@@ -2555,6 +2624,9 @@ t: 
 ---
 f: inhabitants
 t: 
+---
+f: ingredients
+t: 
 ---
 f: indiscriminate
 t: 
@@ -2891,6 +2963,9 @@ t: 
 f: glasslike
 t: 
 ---
+f: glasses
+t: 
+---
 f: glanced
 t: 
 ---
@@ -3012,6 +3087,9 @@ t: 
 ---
 f: flight
 t: 
+---
+f: flavoring
+t: 
 ---
 f: flat
 t: 
@@ -3139,6 +3217,9 @@ t: 
 f: exultant
 t: 
 ---
+f: extracts
+t: 
+---
 f: extinguisher
 t: 
 ---
@@ -3255,6 +3336,9 @@ t: 
 f: enable
 t: 
 ---
+f: empire
+t: 
+---
 f: else
 t: 
 ---
@@ -3294,6 +3378,9 @@ t: 
 f: earth
 t: 
 case-sensitive: true
+---
+f: earnestly
+t: 
 ---
 f: each
 t: 
@@ -3588,6 +3675,9 @@ t: 
 f: couple
 t: 
 ---
+f: counterfeit
+t: 
+---
 f: counterexample
 t: 
 ---
@@ -3634,6 +3724,9 @@ t: 
 ---
 f: contents
 t: 
+---
+f: contender
+t: 
 ---
 f: contemplated
 t: 
@@ -3685,6 +3778,9 @@ t: 
 ---
 f: commented
 t: 
+---
+f: commentator
+t: 
 ---
 f: coming
 t: 
@@ -3937,6 +4033,9 @@ t: 
 f: breath
 t: 
 ---
+f: breasts
+t: 
+---
 f: breaking
 t: 
 ---
@@ -3981,6 +4080,9 @@ t: 
 ---
 f: blooded
 t: 
+---
+f: blondes
+t: 
 ---
 f: blond
 t: 
@@ -4119,6 +4221,9 @@ t: 
 ---
 f: authorized
 t: 
+---
+f: attentive
+t: 
 ---
 f: attention
 t: 
@@ -4282,6 +4387,9 @@ t: 
 ---
 f: alien
 t: 
+---
+f: alcohol
+t: 
 ---
 f: airsealing
 t: 

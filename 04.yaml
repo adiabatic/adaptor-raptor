@@ -138,6 +138,13 @@ f: Penrose
 t: ·
 case-sensitive: true
 ---
+f: Pakistan
+t: ·
+case-sensitive: true
+---
+f: Oz
+t: ·
+---
 f: Mohenjo-Daro
 t: ·-
 case-sensitive: true
@@ -231,6 +238,13 @@ f: Hubert Penrose
 t: · 
 case-sensitive: true
 ---
+f: Hittite
+t: ·
+---
+f: Harappan
+t: 
+case-sensitive: true
+---
 f: Harappa
 t: ·
 case-sensitive: true
@@ -250,6 +264,12 @@ note: the H is for Henry.
 f: Grotefend
 t: ·
 case-sensitive: true
+---
+f: Gloria Standish
+t: · 
+---
+f: Gloria
+t: ·
 ---
 f: Gicquel’s
 t: 
@@ -329,6 +349,9 @@ f: Cretan Linear B
 t:   ·
 case-sensitive: true
 ---
+f: Coptic
+t: ·
+---
 f: Colonel’s
 t: 
 case-sensitive: true
@@ -366,6 +389,10 @@ case-sensitive: true
 ---
 f: be read
 t:  
+---
+f: Asia Minor
+t: · 
+case-sensitive: true
 ---
 f: Ares
 t: ·
