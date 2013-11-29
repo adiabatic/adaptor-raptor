@@ -63,6 +63,9 @@ f: would
 t: 
 senior: 
 ---
+f: worried
+t: 
+---
 f: world’s
 t: 
 ---
@@ -156,6 +159,9 @@ t: 
 ---
 f: white
 t: 
+---
+f: whistled
+t: 
 ---
 f: whispering
 t: 
@@ -344,6 +350,9 @@ t: 
 f: vacated
 t: 
 ---
+f: utterly
+t: 
+---
 f: usual
 t: 
 ---
@@ -480,6 +489,9 @@ t: 
 ---
 f: toppled
 t: 
+---
+f: topped
+t: 
 ---
 f: top
 t: 
@@ -699,6 +711,9 @@ t: 
 f: talking
 t: 
 ---
+f: talked
+t: 
+---
 f: taken
 t: 
 ---
@@ -722,6 +737,9 @@ t: 
 ---
 f: symbols
 t: 
+---
+f: symbology
+t: 
 ---
 f: sword
 t: 
@@ -770,6 +788,9 @@ t: 
 ---
 f: suffix
 t: 
+---
+f: suffer
+t: 
 ---
 f: such
 t: 
@@ -865,6 +886,9 @@ t: 
 ---
 f: squirming
 t: 
+---
+f: squawked
+t: 
 ---
 f: square
 t: 
@@ -1043,6 +1067,9 @@ t: 
 ---
 f: side
 t: 
+---
+f: shrilly
+t: 
 ---
 f: showing
 t: 
@@ -1239,6 +1266,9 @@ t: 
 f: ruins
 t: 
 ---
+f: ruined
+t: 
+---
 f: rubble
 t: 
 ---
@@ -1325,6 +1355,9 @@ t: 
 f: removing
 t: 
 ---
+f: reminiscences
+t: 
+---
 f: remembered
 t: 
 ---
@@ -1357,6 +1390,9 @@ t: 
 ---
 f: red
 t: 
+---
+f: recreation
+t: 
 ---
 f: reconstructing
 t: 
@@ -1533,6 +1569,9 @@ t: 
 f: power
 t: 
 ---
+f: poured
+t: 
+---
 f: pounced
 t: 
 ---
@@ -1685,6 +1724,9 @@ t: 
 f: past
 t: 
 ---
+f: passed
+t: 
+---
 f: pass
 t: 
 ---
@@ -1708,6 +1750,9 @@ t: 
 ---
 f: paper
 t: 
+---
+f: panels
+t: 
 ---
 f: palms
 t: 
@@ -2112,6 +2157,9 @@ t: 
 f: marvelously
 t: 
 ---
+f: martini
+t: 
+---
 f: map
 t: 
 ---
@@ -2130,6 +2178,9 @@ t: 
 f: making
 t: 
 senior: 
+---
+f: makes
+t: 
 ---
 f: make
 t: 
@@ -2171,6 +2222,12 @@ t: 
 ---
 f: loupe
 t: 
+---
+f: lounge
+t: 
+---
+f: loudspeaker
+t: 
 ---
 f: lot
 t: 
@@ -2268,6 +2325,9 @@ t: 
 f: lieutenant
 t: 
 ---
+f: library
+t: 
+---
 f: level’s
 t: 
 ---
@@ -2350,6 +2410,9 @@ t: 
 ---
 f: known
 t: 
+---
+f: knowing
+t: 
 ---
 f: know
 t: 
@@ -2477,6 +2540,9 @@ t: 
 f: instance
 t: 
 ---
+f: insist
+t: 
+---
 f: inside
 t: 
 ---
@@ -2568,6 +2634,9 @@ t: 
 ---
 f: houses
 t: 
+---
+f: hour
+t: 
 ---
 f: hot
 t: 
@@ -2819,6 +2888,9 @@ senior: 
 f: glossy
 t: 
 ---
+f: glasslike
+t: 
+---
 f: glanced
 t: 
 ---
@@ -2846,11 +2918,17 @@ t: 
 f: generators
 t: 
 ---
+f: general
+t: 
+---
 f: gender
 t: 
 ---
 f: gave
 t: 
+---
+f: gathering
+t: 
 ---
 f: gathered
 t: 
@@ -2876,6 +2954,9 @@ senior: 
 ---
 f: friendship
 t: 
+---
+f: framing
+t: 
 ---
 f: fourth
 t: 
@@ -3073,6 +3154,9 @@ t: 
 f: explain
 t: 
 ---
+f: experience
+t: 
+---
 f: expedition
 t: 
 ---
@@ -3093,6 +3177,9 @@ t: 
 ---
 f: excellent
 t: 
+---
+f: excavating
+t: 
 ---
 f: examining
 t: 
@@ -3223,11 +3310,17 @@ t: 
 f: droplights
 t: 
 ---
+f: drinks
+t: 
+---
 f: drilling
 t: 
 ---
 f: drilled
 t: 
+---
+f: drifted
+t: 
 ---
 f: dreams
 t: 
@@ -3404,6 +3497,9 @@ t: 
 f: deciphering
 t: 
 ---
+f: deciphered
+t: 
+---
 f: decipher
 t: 
 ---
@@ -3460,6 +3556,12 @@ t: 
 ---
 f: crowed
 t: 
+---
+f: crowded
+t: 
+---
+f: crowd
+t: 
 ---
 f: Cro-Magnon
 t: -
@@ -3520,6 +3622,9 @@ t: 
 ---
 f: contradicted
 t: 
+---
+f: continuity
+t: 
 ---
 f: continued
 t: 
@@ -3595,6 +3700,12 @@ senior: 
 ---
 f: colonel
 t: 
+---
+f: colleagues
+t: 
+---
+f: cocktails
+t: 
 ---
 f: cocktail
 t: 
@@ -3701,6 +3812,9 @@ t: 
 ---
 f: carry
 t: 
+---
+f: carried
+t: 
 ---
 f: careful
 t: 
@@ -4150,6 +4264,9 @@ t: 
 ---
 f: along
 t: 
+---
+f: alone
+t: 
 ---
 f: almost
 t: 

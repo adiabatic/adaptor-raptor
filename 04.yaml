@@ -21,6 +21,9 @@ t:   
 f: what I object
 t:   
 ---
+f: von Ohlmhorst’s
+t:  
+---
 f: von Ohlmhorst
 t:  ·
 ---
@@ -85,6 +88,10 @@ case-sensitive: true
 ---
 f: Shelter One
 t: · 
+case-sensitive: true
+---
+f: Shelter Four
+t: · 
 case-sensitive: true
 ---
 f: she read
@@ -356,6 +363,9 @@ case-sensitive: true
 f: Bill
 t: ·
 case-sensitive: true
+---
+f: be read
+t:  
 ---
 f: Ares
 t: ·
