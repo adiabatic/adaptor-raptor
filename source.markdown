@@ -227,7 +227,7 @@ That seemed to be what worried Lattimer most. She was framing a reply when the l
 
 * * *
 
-The library, which was also lounge, recreation room, and general gathering- place, was already crowded; most of the crowd was at the long table topped with sheets of glasslike plastic that had been wall panels out of one of the ruined buildings. She poured herself what passed, here, for a martini, and carried it over to where Selim von Ohlmhorst was sitting alone.
+The library, which was also lounge, recreation room, and general gathering-place, was already crowded; most of the crowd was at the long table topped with sheets of glasslike plastic that had been wall panels out of one of the ruined buildings. She poured herself what passed, here, for a martini, and carried it over to where Selim von Ohlmhorst was sitting alone.
 
 For a while, they talked about the building they had just finished exploring, then drifted into reminiscences of their work on Earth—von Ohlmhorst’s in Asia Minor, with the Hittite Empire, and hers in Pakistan, excavating the cities of the Harappan civilization. They finished their drinks—the ingredients were plentiful; alcohol and flavoring extracts synthesized from Arean vegetation—and von Ohlmhorst took the two glasses to the table for refills.
 
