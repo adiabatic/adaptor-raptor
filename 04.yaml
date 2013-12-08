@@ -120,6 +120,9 @@ f: Sachiko
 t: ·
 case-sensitive: true
 ---
+f: Rosita
+t: ·
+---
 f: Project Gutenberg
 t:  ·
 ---
@@ -148,6 +151,9 @@ t: ·
 f: Mohenjo-Daro
 t: ·-
 case-sensitive: true
+---
+f: Miss Ares
+t: · 
 ---
 f: minute delicacy
 t:  
@@ -278,6 +284,9 @@ case-sensitive: true
 f: German Turk
 t:  
 case-sensitive: true
+---
+f: Geoffrey
+t: ·
 ---
 f: gamogenetic
 t: 
