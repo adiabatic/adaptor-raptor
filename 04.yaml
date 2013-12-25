@@ -186,6 +186,9 @@ f: Linear A
 t:  ·
 case-sensitive: true
 ---
+f: Lindemann’s
+t: 
+---
 f: Lindemann
 t: ·
 case-sensitive: true
@@ -231,6 +234,9 @@ case-sensitive: true
 f: Ivan
 t: ·
 case-sensitive: true
+---
+f: its use
+t:  
 ---
 f: Indus
 t: ·
@@ -398,6 +404,9 @@ case-sensitive: true
 ---
 f: be read
 t:  
+---
+f: at present
+t:  
 ---
 f: Asia Minor
 t: · 
