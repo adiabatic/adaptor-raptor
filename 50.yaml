@@ -224,6 +224,9 @@ t: 
 f: wheel
 t: 
 ---
+f: what’s
+t: 
+---
 f: whatever
 t: 
 senior weirdo: -
@@ -381,6 +384,9 @@ t: 
 ---
 f: village
 t: 
+---
+f: videocaster’s
+t: 
 ---
 f: videocaster
 t: 
@@ -976,6 +982,9 @@ t: 
 f: sun
 t: 
 ---
+f: suggested
+t: 
+---
 f: suggest
 t: 
 ---
@@ -998,6 +1007,9 @@ possibilities:
 ---
 f: stylus
 t: 
+---
+f: stylized
+t: 
 ---
 f: stumble
 t: 
@@ -1230,6 +1242,9 @@ t: 
 f: sometime
 t: 
 ---
+f: something’s
+t: 
+---
 f: something
 t: 
 ---
@@ -1275,6 +1290,9 @@ t: 
 f: smoke
 t: 
 ---
+f: smock
+t: 
+---
 f: smiled
 t: 
 ---
@@ -1316,6 +1334,12 @@ t: 
 ---
 f: sleeveless
 t: 
+---
+f: sleeper’s
+t: 
+---
+f: sleeper
+t: 
 ---
 f: sledges
 t: 
@@ -1373,6 +1397,9 @@ t: 
 ---
 f: silent
 t: 
+---
+f: sign
+t: 
 ---
 f: sifting
 t: 
@@ -1437,6 +1464,9 @@ t: 
 ---
 f: shirt
 t: 
+---
+f: ship’s
+t: 
 ---
 f: ship
 t: 
@@ -1942,6 +1972,9 @@ t: 
 f: pry
 t: 
 ---
+f: proving
+t: 
+---
 f: provided
 t: 
 ---
@@ -2083,6 +2116,9 @@ t: 
 ---
 f: point
 t: 
+---
+f: plus
+t: 
 ---
 f: plot
 t: 
@@ -2369,6 +2405,9 @@ t: 
 f: organized
 t: 
 ---
+f: organic
+t: 
+---
 f: ordnance
 t: 
 ---
@@ -2483,6 +2522,9 @@ t: 
 f: number
 t: 
 ---
+f: nuclear
+t: 
+---
 f: now
 t: 
 ---
@@ -2536,6 +2578,9 @@ t: 
 ---
 f: news
 t: 
+---
+f: newest
+t: 
 ---
 f: new
 t: 
@@ -2665,6 +2710,12 @@ t: 
 f: missing
 t: 
 ---
+f: minutes
+t: 
+---
+f: minus
+t: 
+---
 f: mine
 t: 
 ---
@@ -2764,6 +2815,9 @@ t:   
 ---
 f: may
 t: 
+---
+f: matter
+t: 
 ---
 f: material
 t: 
@@ -2879,6 +2933,9 @@ t: 
 f: loose
 t: 
 ---
+f: loop
+t: 
+---
 f: looks
 t: 
 ---
@@ -2920,6 +2977,12 @@ possibilities:
 f: little
 t: 
 senior: 
+---
+f: lithium’s
+t: 
+---
+f: lithium
+t: 
 ---
 f: literally
 t: 
@@ -2987,6 +3050,12 @@ t: 
 f: library
 t: 
 ---
+f: librarian’s
+t: 
+---
+f: librarian
+t: 
+---
 f: level’s
 t: 
 ---
@@ -3022,6 +3091,12 @@ t: 
 ---
 f: led
 t: 
+---
+f: lecturer’s
+t: 
+---
+f: lecturer
+t: 
 ---
 f: leaving
 t: 
@@ -3117,6 +3192,9 @@ t: 
 ---
 f: know
 t: 
+---
+f: knife
+t: 
 ---
 f: knew
 t: 
@@ -3214,6 +3292,9 @@ senior: 
 ---
 f: Italy
 t: ·
+---
+f: Italian
+t: ·
 ---
 f: it
 t: 
@@ -3385,6 +3466,12 @@ f: I
 t: 
 warning: Could also be a roman numeral.
 ---
+f: hydrogen’s
+t: 
+---
+f: hydrogen
+t: 
+---
 f: hurt
 t: 
 ---
@@ -3436,6 +3523,9 @@ t: 
 f: hope
 t: 
 ---
+f: hook
+t: 
+---
 f: honestly
 t: 
 ---
@@ -3450,6 +3540,12 @@ t: 
 ---
 f: holding
 t: 
+---
+f: Hittitology’s
+t: 
+---
+f: Hittitology
+t: 
 ---
 f: Hittitologists
 t: 
@@ -3535,6 +3631,12 @@ t: 
 f: hello
 t: 
 ---
+f: helium’s
+t: 
+---
+f: helium
+t: 
+---
 f: held
 t: 
 ---
@@ -3556,6 +3658,9 @@ senior: 
 ---
 f: haze
 t: 
+---
+f: having
+t: 
 ---
 f: haven’t
 t: 
@@ -3582,6 +3687,9 @@ t: 
 ---
 f: haphazardly
 t: 
+---
+f: hang
+t: 
 ---
 f: hands
 t: 
@@ -3788,6 +3896,9 @@ t: 
 f: fun
 t: 
 ---
+f: fuel
+t: 
+---
 f: frozen
 t: 
 ---
@@ -3864,6 +3975,9 @@ t: 
 ---
 f: fluid
 t: 
+---
+f: floor’s
+t: 
 ---
 f: floors
 t: 
@@ -4072,6 +4186,9 @@ t: 
 f: experience
 t: 
 ---
+f: expedition’s
+t: 
+---
 f: expedition
 t: 
 ---
@@ -4104,6 +4221,9 @@ t: 
 ---
 f: examined
 t: 
+---
+f: everything’s
+t: 
 ---
 f: everything
 t: 
@@ -4176,6 +4296,9 @@ t: 
 f: engineer
 t: 
 ---
+f: energy
+t: 
+---
 f: ended
 t: 
 ---
@@ -4208,6 +4331,9 @@ t: 
 ---
 f: elevators
 t: 
+---
+f: element
+t: 
 ---
 f: electronic
 t: 
@@ -4250,6 +4376,9 @@ t: 
 ---
 f: easily
 t: 
+---
+f: easier
+t: 
 ---
 f: earth
 t: 
@@ -4413,6 +4542,9 @@ t: 
 f: dismiss
 t: 
 ---
+f: disgruntled
+t: 
+---
 f: disdained
 t: 
 ---
@@ -4436,6 +4568,9 @@ t: 
 ---
 f: dinner
 t: 
+---
+f: dingbat
+t: 
 ---
 f: dim
 t: 
@@ -4463,11 +4598,17 @@ f: did
 t: 
 senior: 
 ---
+f: diagrams
+t: 
+---
 f: diagnose
 t: 
 ---
 f: devices
 t: 
+---
+f: developed
+t: 
 ---
 f: determine
 t: 
@@ -4492,6 +4633,9 @@ t: 
 ---
 f: desks
 t: 
+---
+f: desk
+t: 
 ---
 f: desire
 t: 
@@ -4664,6 +4808,9 @@ t: 
 f: cooking
 t: 
 ---
+f: convey
+t: 
+---
 f: conversation
 t: 
 ---
@@ -4714,6 +4861,9 @@ t: 
 ---
 f: considered
 t: 
+---
+f: considerably
+t: 
 ---
 f: conscious
 t: 
@@ -4856,6 +5006,9 @@ t: 
 f: civilian
 t: 
 ---
+f: city’s
+t: 
+---
 f: city
 t: 
 ---
@@ -4916,6 +5069,9 @@ t: 
 ---
 f: chair
 t: 
+---
+f: certainly
+t: 
 ---
 f: certain
 t: 
@@ -5073,6 +5229,9 @@ t: 
 f: bulk
 t: 
 ---
+f: building’s
+t: 
+---
 f: buildings
 t: 
 ---
@@ -5205,6 +5364,9 @@ t: 
 ---
 f: blast
 t: 
+---
+f: blade
+t: 
 ---
 f: black
 t: 
@@ -5380,6 +5542,9 @@ t: 
 f: attached
 t: 
 ---
+f: atomic
+t: 
+---
 f: atmosphere
 t: 
 ---
@@ -5444,6 +5609,9 @@ t: 
 f: argued
 t: 
 ---
+f: aren’t
+t: 
+---
 f: are
 t: 
 senior: 
@@ -5498,6 +5666,9 @@ t: 
 ---
 f: antics
 t: 
+---
+f: anticipated
+t: 
 ---
 f: answered
 t: 
@@ -5633,6 +5804,9 @@ t: 
 ---
 f: add
 t: 
+---
+f: actually
+t: 
 ---
 f: actual
 t: 

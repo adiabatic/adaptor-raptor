@@ -12,6 +12,9 @@ f: Wilhelm II
 t: ·  
 case-sensitive: true
 ---
+f: who’s
+t: 
+---
 f: whole subject
 t:  
 ---
@@ -41,12 +44,23 @@ case-sensitive: true
 f: valuable object
 t:  
 ---
+f: U.N.’s
+t:  
+case-sensitive: true
+---
 f: U.N.
 t:  
 case-sensitive: true
 ---
+f: Tranter
+t: ·
+---
 f: Tony’s
 t: 
+case-sensitive: true
+---
+f: Tony Lattimer’s
+t: · 
 case-sensitive: true
 ---
 f: Tony Lattimer
@@ -78,6 +92,14 @@ t: ·
 f: Signals
 t: ·
 ---
+f: Sid’s
+t: ·
+case-sensitive: true
+---
+f: Sid Chamberlain’s
+t: · 
+case-sensitive: true
+---
 f: Sid Chamberlain
 t: · 
 case-sensitive: true
@@ -104,6 +126,14 @@ case-sensitive: true
 ---
 f: Selim
 t: ·
+case-sensitive: true
+---
+f: Schiaparelli’s
+t: ·
+case-sensitive: true
+---
+f: Schiaparelli
+t: ·
 case-sensitive: true
 ---
 f: Sachiko’s
@@ -166,6 +196,10 @@ f: Martians
 t: 
 case-sensitive: true
 ---
+f: Martha’s
+t: ·
+case-sensitive: true
+---
 f: Martha Dane
 t: · 
 case-sensitive: true
@@ -207,6 +241,10 @@ f: Laurent Gicquel
 t: · 
 note: Surname pronunciation cribbed from <http://www.youtube.com/watch?v=HpTIr9fygGY>.
   Yes, I know the speaker’s German. Given name adapted from  /lɔʁɑ̃/ in Wiktionary.
+---
+f: Lattimer’s
+t: ·
+case-sensitive: true
 ---
 f: Lattimer
 t: ·
@@ -250,6 +288,9 @@ f: Hubert Penrose
 t: · 
 case-sensitive: true
 ---
+f: holding some object
+t:   
+---
 f: Hittite
 t: ·
 ---
@@ -272,6 +313,10 @@ f: H. Beam Piper
 t: ·.  
 case-sensitive: true
 note: the H is for Henry.
+---
+f: Grotefend’s
+t: ·
+case-sensitive: true
 ---
 f: Grotefend
 t: ·
@@ -299,6 +344,10 @@ t: 
 ---
 f: Frank Kelly Freas
 t: ·  
+case-sensitive: true
+---
+f: Fitzgerald’s
+t: ·
 case-sensitive: true
 ---
 f: Fitzgerald
@@ -394,6 +443,10 @@ f: Bill’s
 t: 
 case-sensitive: true
 ---
+f: Bill Chandler’s
+t: · 
+case-sensitive: true
+---
 f: Bill Chandler
 t: · 
 case-sensitive: true
@@ -411,6 +464,9 @@ t:  
 f: Asia Minor
 t: · 
 case-sensitive: true
+---
+f: as one subject
+t:   
 ---
 f: Ares
 t: ·
