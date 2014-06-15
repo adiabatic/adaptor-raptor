@@ -205,6 +205,9 @@ t: 
 f: whispering
 t: 
 ---
+f: whiskers
+t: 
+---
 f: while
 t: 
 ---
@@ -247,6 +250,9 @@ senior:   
 f: we’ll
 t: 
 senior:  
+---
+f: weren’t
+t: 
 ---
 f: were
 t: 
@@ -346,11 +352,17 @@ t: 
 f: wait
 t: 
 ---
+f: wagging
+t: 
+---
 f: vowels
 t: 
 ---
 f: volunteers
 t: 
+---
+f: volunteered
+t: 
 ---
 f: voice
 t: 
@@ -432,6 +444,9 @@ t: 
 ---
 f: us
 t: 
+---
+f: upstairs
+t: 
 ---
 f: upper
 t: 
@@ -532,6 +547,9 @@ t: 
 f: tubing
 t: 
 ---
+f: tube
+t: 
+---
 f: trying
 t: 
 ---
@@ -543,6 +561,9 @@ t: 
 ---
 f: truck
 t: 
+---
+f: triumph
+t: 
 ---
 f: tripod
 t: 
@@ -794,6 +815,9 @@ t: 
 f: tests
 t: 
 ---
+f: test
+t: 
+---
 f: Terra
 t: ·
 case-sensitive: true
@@ -805,11 +829,20 @@ t: 
 f: tenths
 t: 
 ---
+f: tentatively
+t: 
+---
 f: ten
 t: 
 ---
+f: tells
+t: 
+---
 f: tell
 t: 
+---
+f: technological
+t: 
 ---
 f: technical
 t: 
@@ -843,11 +876,17 @@ t: 
 f: talked
 t: 
 ---
+f: taking
+t: 
+---
 f: taken
 t: 
 ---
 f: take
 t: 
+---
+f: tail
+t: 
 ---
 f: tablets
 t: 
@@ -872,6 +911,9 @@ t: 
 ---
 f: symbology
 t: 
+---
+f: swung
+t: 
 ---
 f: swords
 t: 
@@ -969,6 +1011,9 @@ t: 
 f: studying
 t: 
 ---
+f: study
+t: 
+---
 f: students
 t: 
 ---
@@ -1056,6 +1101,9 @@ t: 
 f: statues
 t: 
 ---
+f: startled
+t: 
+---
 f: started
 t: 
 ---
@@ -1076,6 +1124,9 @@ t: 
 ---
 f: stairways
 t: 
+---
+f: stacked
+t: 
 ---
 f: squirming
 t: 
@@ -1113,8 +1164,14 @@ t: 
 f: spent
 t: 
 ---
+f: spectroscope
+t: 
+---
 f: specimens
 t: 
+---
+f: specific
+t: 
 ---
 f: species
 t: 
@@ -1275,6 +1332,9 @@ t: 
 f: sketchbooks
 t: 
 ---
+f: sized
+t: 
+---
 f: sixth
 t: 
 ---
@@ -1326,11 +1386,17 @@ t: 
 f: side
 t: 
 ---
+f: shutter
+t: 
+---
 f: shrugged
 t: 
 ---
 f: shrilly
 t: 
+---
+f: shown
+t: 
 ---
 f: showing
 t: 
@@ -1405,6 +1471,9 @@ t: 
 f: she
 t: 
 senior: 
+---
+f: sharp
+t: 
 ---
 f: shape
 t: 
@@ -1500,6 +1569,9 @@ t: 
 f: scrap
 t: 
 ---
+f: scraggly
+t: 
+---
 f: scored
 t: 
 ---
@@ -1509,6 +1581,9 @@ t: 
 f: scientists
 t: 
 ---
+f: scientifically
+t: 
+---
 f: scientific
 t: 
 ---
@@ -1517,6 +1592,12 @@ t: 
 ---
 f: school
 t: 
+---
+f: scenes
+t: 
+---
+f: scene
+t: 
 ---
 f: scans
 t: 
@@ -1556,6 +1637,9 @@ t: 
 ---
 f: safe
 t: 
+---
+f: running
+t: 
 ---
 f: run
 t: 
@@ -1733,6 +1817,9 @@ t: 
 f: realized
 t: 
 ---
+f: realize
+t: 
+---
 f: real
 t: 
 ---
@@ -1803,6 +1890,9 @@ t: 
 ---
 f: qualified
 t: 
+---
+f: quadrangle
+t: 
 ---
 f: puzzles
 t: 
@@ -1975,6 +2065,9 @@ t: 
 ---
 f: politeness
 t: 
+---
+f: poking
+t: 
 ---
 f: poke
 t: 
@@ -2161,6 +2254,9 @@ t: 
 f: pass
 t: 
 ---
+f: party
+t: 
+---
 f: parts
 t: 
 ---
@@ -2253,6 +2349,9 @@ t: 
 ---
 f: ought
 t: 
+---
+f: otherwise
+t: 
 ---
 f: others
 t: 
@@ -2518,6 +2617,9 @@ t: 
 f: mountaineer’s
 t: 
 ---
+f: motion
+t: 
+---
 f: most
 t: 
 ---
@@ -2544,6 +2646,9 @@ t: 
 ---
 f: molecule
 t: 
+---
+f: modifies
+t: 
 ---
 f: modernize
 t: 
@@ -2617,6 +2722,9 @@ t: 
 f: men
 t: 
 ---
+f: members
+t: 
+---
 f: medic
 t: 
 ---
@@ -2629,8 +2737,14 @@ t: 
 f: means
 t: 
 ---
+f: meanings
+t: 
+---
 f: meaningless
 t: 
+---
+f: meaningful
+t: 
 ---
 f: meaning
 t: 
@@ -2849,6 +2963,9 @@ t: 
 f: lights
 t: 
 ---
+f: lightning
+t: 
+---
 f: lighted
 t: 
 ---
@@ -2879,6 +2996,9 @@ t: 
 f: level
 t: 
 ---
+f: let’s
+t: 
+---
 f: letters
 t: 
 ---
@@ -2899,6 +3019,9 @@ t: 
 ---
 f: left
 t: 
+---
+f: led
+t: 
 ---
 f: leaving
 t: 
@@ -2971,6 +3094,9 @@ t: 
 f: laborer
 t: 
 ---
+f: laboratories
+t: 
+---
 f: labor
 t: 
 ---
@@ -2982,6 +3108,9 @@ t: 
 ---
 f: known
 t: 
+---
+f: knowledge
+t: 
 ---
 f: knowing
 t: 
@@ -3015,6 +3144,9 @@ t: 
 ---
 f: just
 t: 
+---
+f: jubilant
+t: 
 ---
 f: joy
 t: 
@@ -3112,6 +3244,9 @@ t: 
 f: inventories
 t: 
 ---
+f: inventor
+t: 
+---
 f: introduction
 t: 
 ---
@@ -3121,6 +3256,9 @@ senior: 
 ---
 f: intersecting
 t: 
+---
+f: interpretation
+t: 
 ---
 f: interested
 t: 
@@ -3212,6 +3350,9 @@ t: 
 ---
 f: important
 t: 
+---
+f: immediately
+t: 
 ---
 f: imagine
 t: 
@@ -3313,6 +3454,9 @@ t: 
 f: Hittitologists
 t: 
 ---
+f: history
+t: 
+---
 f: his
 t: 
 senior: 
@@ -3346,6 +3490,12 @@ f: he’ll
 t: 
 senior:  
 ---
+f: he’d
+t: 
+---
+f: hey
+t: 
+---
 f: hesitated
 t: 
 ---
@@ -3354,6 +3504,9 @@ t: 
 ---
 f: hers
 t: 
+---
+f: heroic
+t: 
 ---
 f: here’s
 t: 
@@ -3575,6 +3728,9 @@ t: 
 f: glad
 t: 
 ---
+f: gives
+t: 
+---
 f: given
 t: 
 ---
@@ -3739,6 +3895,12 @@ t: 
 f: flashlight
 t: 
 ---
+f: flashes
+t: 
+---
+f: flame
+t: 
+---
 f: flaky
 t: 
 ---
@@ -3868,6 +4030,9 @@ t: 
 f: factual
 t: 
 ---
+f: factories
+t: 
+---
 f: fact
 t: 
 ---
@@ -3957,6 +4122,9 @@ f: ever
 t: 
 senior: 
 ---
+f: events
+t: 
+---
 f: evening
 t: 
 ---
@@ -3974,6 +4142,12 @@ t: 
 ---
 f: escalators
 t: 
+---
+f: escalator
+t: 
+---
+f: equivalent
+t: 
 ---
 f: equipment
 t: 
@@ -4146,6 +4320,9 @@ t: 
 ---
 f: dozen
 t: 
+---
+f: downward
+t: 
 ---
 f: downstairs
 t: 
@@ -4321,6 +4498,9 @@ t: 
 ---
 f: deserts
 t: 
+---
+f: derisively
+t: 
 ---
 f: depression
 t: 
@@ -4532,6 +4712,9 @@ t: 
 f: consistently
 t: 
 ---
+f: considered
+t: 
+---
 f: conscious
 t: 
 ---
@@ -4571,6 +4754,9 @@ t: 
 f: commentator
 t: 
 ---
+f: commentary
+t: 
+---
 f: commanders
 t: 
 ---
@@ -4588,6 +4774,9 @@ senior: 
 f: come
 t: 
 senior: 
+---
+f: combined
+t: 
 ---
 f: colonel
 t: 
@@ -4674,6 +4863,9 @@ f: cities
 t: 
 note: erroneously happy-tensed?
 ---
+f: chronicles
+t: 
+---
 f: chop
 t: 
 ---
@@ -4709,6 +4901,9 @@ t: 
 ---
 f: characters
 t: 
+---
+f: character
+t: 
 ---
 f: changed
 t: 
@@ -4939,8 +5134,14 @@ t: 
 f: breach
 t: 
 ---
+f: branch
+t: 
+---
 f: braced
 t: 
+---
+f: boxes
+t: 
 ---
 f: bounced
 t: 
@@ -4996,6 +5197,9 @@ t: 
 f: blinked
 t: 
 ---
+f: blazed
+t: 
+---
 f: blasting
 t: 
 ---
@@ -5019,6 +5223,12 @@ t: 
 ---
 f: bilingual
 t: 
+---
+f: biggest
+t: 
+---
+f: bigger
+t: 
 ---
 f: big
 t: 
@@ -5137,6 +5347,9 @@ t: 
 f: axes
 t: 
 ---
+f: axe
+t: 
+---
 f: awkward
 t: 
 ---
@@ -5148,6 +5361,9 @@ t: 
 ---
 f: authorized
 t: 
+---
+f: auspicious
+t: 
 ---
 f: audio
 t: 
@@ -5178,6 +5394,9 @@ t: 
 ---
 f: assistants
 t: 
+---
+f: assigning
+t: 
 ---
 f: assign
 t: 
@@ -5246,6 +5465,9 @@ t: 
 ---
 f: approaching
 t: 
+---
+f: appearance
+t: 
 ---
 f: apparently
 t: 
@@ -5391,6 +5613,9 @@ t: 
 f: advertising
 t: 
 ---
+f: admit
+t: 
+---
 f: admiration
 t: 
 ---
@@ -5452,7 +5677,3 @@ case-sensitive: true
 f: 1950s
 t: 1950
 case-sensitive: true
-
----
-f: meaningful
-t: 
