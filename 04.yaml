@@ -164,6 +164,9 @@ f: Piper
 t: ·
 case-sensitive: true
 ---
+f: physical object
+t:  
+---
 f: Persian
 t: 
 ---
@@ -177,6 +180,9 @@ case-sensitive: true
 ---
 f: Oz
 t: ·
+---
+f: object after object
+t:   
 ---
 f: Mohenjo-Daro
 t: ·-
