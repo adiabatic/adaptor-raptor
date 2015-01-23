@@ -178,6 +178,9 @@ t: 
 f: why
 t: 
 ---
+f: who’s
+t: 
+---
 f: who’ll
 t: 
 ---
@@ -278,6 +281,9 @@ t: 
 f: webcast
 t: 
 ---
+f: weapons
+t: 
+---
 f: weapon
 t: 
 ---
@@ -325,6 +331,9 @@ t: 
 f: was
 t: 
 ---
+f: warriors
+t: 
+---
 f: warm
 t: 
 ---
@@ -342,6 +351,9 @@ t: 
 ---
 f: walls
 t: 
+---
+f: walled
+t: 
 ---
 f: wall
 t: 
@@ -382,6 +394,12 @@ t: 
 f: visibly
 t: 
 ---
+f: visible
+t: 
+---
+f: villages
+t: 
+---
 f: village
 t: 
 ---
@@ -409,6 +427,9 @@ t: 
 ---
 f: vegetation
 t: 
+---
+f: vast
+t: 
 ---
 f: values
 t: 
@@ -456,6 +477,9 @@ t: 
 ---
 f: upper
 t: 
+---
+f: upland
+t: 
 ---
 f: up
 t: 
@@ -549,6 +573,9 @@ t: 
 ---
 f: turn
 t: 
+---
+f: Turkish
+t: 
 ---
 f: tubing
 t: 
@@ -1014,6 +1041,9 @@ t: 
 f: stylized
 t: 
 ---
+f: styles
+t: 
+---
 f: stumble
 t: 
 ---
@@ -1152,6 +1182,9 @@ t: 
 f: squawked
 t: 
 ---
+f: squatting
+t: 
+---
 f: square
 t: 
 ---
@@ -1200,6 +1233,9 @@ t: 
 f: special
 t: 
 ---
+f: spears
+t: 
+---
 f: spear
 t: 
 ---
@@ -1226,6 +1262,9 @@ t: 
 ---
 f: space
 t: 
+---
+f: sowing
+t: 
 ---
 f: sounds
 t: 
@@ -1323,6 +1362,9 @@ t: 
 f: slinging
 t: 
 ---
+f: slightly
+t: 
+---
 f: slightest
 t: 
 ---
@@ -1352,6 +1394,9 @@ t: 
 ---
 f: skulls
 t: 
+---
+f: skin
+t: 
 ---
 f: sketching
 t: 
@@ -1469,6 +1514,9 @@ f: shirt
 t: 
 ---
 f: ship’s
+t: 
+---
+f: ships
 t: 
 ---
 f: ship
@@ -1653,6 +1701,9 @@ t: 
 f: sawing
 t: 
 ---
+f: savages
+t: 
+---
 f: satisfyingly
 t: 
 ---
@@ -1664,6 +1715,9 @@ t: 
 ---
 f: same
 t: 
+---
+f: sails
+t: 
 ---
 f: said
 t: 
@@ -1729,8 +1783,14 @@ t: 
 f: rifle
 t: 
 ---
+f: riding
+t: 
+---
 f: ricocheted
 t: 
+---
+f: richly
+t: 
 ---
 f: revision
 t: 
@@ -1843,6 +1903,9 @@ t: 
 ---
 f: recesses
 t: 
+---
+f: reaping
+t: 
 ---
 f: really
 t: 
@@ -1984,6 +2047,9 @@ t: 
 f: proton
 t: 
 ---
+f: propulsion
+t: 
+---
 f: proponent
 t: 
 ---
@@ -2013,6 +2079,9 @@ t: 
 f: professional
 t: 
 ---
+f: processions
+t: 
+---
 f: process
 t: 
 ---
@@ -2033,6 +2102,9 @@ t: 
 ---
 f: prime
 t: 
+---
+f: priests
+t: 
 ---
 f: pried
 t: 
@@ -2186,6 +2258,9 @@ t: 
 f: pile
 t: 
 ---
+f: pig
+t: 
+---
 f: piece
 t: 
 ---
@@ -2251,6 +2326,9 @@ f: people
 t: 
 senior: 
 ---
+f: Penn State
+t: · 
+---
 f: penetrating
 t: 
 ---
@@ -2259,6 +2337,9 @@ t: 
 ---
 f: peeling
 t: 
+---
+f: peasants
+t: 
 ---
 f: peanut
 t: 
@@ -2319,6 +2400,9 @@ t: 
 ---
 f: paper
 t: 
+---
+f: panorama
+t: 
 ---
 f: panels
 t: 
@@ -2499,6 +2583,9 @@ f: of
 t: 
 junior: 
 ---
+f: odds
+t: 
+---
 f: ocean
 t: 
 ---
@@ -2560,6 +2647,9 @@ t: 
 ---
 f: non
 t: 
+---
+f: nomads
+t: 
 ---
 f: nodded
 t: 
@@ -2634,6 +2724,9 @@ t: 
 f: must
 t: 
 ---
+f: muskets
+t: 
+---
 f: music
 t: 
 ---
@@ -2645,6 +2738,9 @@ t: 
 ---
 f: multiple
 t: 
+---
+f: mud
+t: 
 ---
 f: much
 t: 
@@ -2661,6 +2757,9 @@ t: 
 ---
 f: mouth
 t: 
+---
+f: mounts
+t: 
 ---
 f: mountaineer’s
 t: 
@@ -2722,6 +2821,9 @@ t: 
 f: mine
 t: 
 ---
+f: millions
+t: 
+---
 f: million
 t: 
 ---
@@ -2757,6 +2859,9 @@ t: 
 ---
 f: mess
 t: 
+---
+f: merging
+t: 
 ---
 f: mentioned
 t: 
@@ -2893,6 +2998,9 @@ t: 
 f: made
 t: 
 senior: 
+---
+f: machines
+t: 
 ---
 f: machinery
 t: 
@@ -3089,6 +3197,9 @@ t: 
 f: legs
 t: 
 ---
+f: legged
+t: 
+---
 f: left
 t: 
 ---
@@ -3142,6 +3253,9 @@ t: 
 f: lately
 t: 
 ---
+f: late
+t: 
+---
 f: latch
 t: 
 ---
@@ -3156,6 +3270,9 @@ t: 
 ---
 f: language
 t: 
+---
+f: landscape
+t: 
 ---
 f: landed
 t: 
@@ -3475,8 +3592,14 @@ t: 
 f: hydrogen
 t: 
 ---
+f: hut
+t: 
+---
 f: hurt
 t: 
+---
+f: hunters
+t: 
 ---
 f: hundreds
 t: 
@@ -3510,6 +3633,9 @@ t: 
 ---
 f: horror
 t: 
+---
+f: hornless
+t: 
 ---
 f: horizontal
 t: 
@@ -3553,8 +3679,14 @@ t: 
 f: Hittitologists
 t: 
 ---
+f: Hittites
+t: ·
+---
 f: history
 t: 
+---
+f: historical
+t: 
 ---
 f: his
 t: 
@@ -3749,6 +3881,9 @@ t: 
 f: grown
 t: 
 ---
+f: group
+t: 
+---
 f: ground
 t: 
 ---
@@ -3782,6 +3917,9 @@ t: 
 ---
 f: grammatical
 t: 
+---
+f: gradually
+t: 
 ---
 f: graceful
 t: 
@@ -3887,6 +4025,9 @@ t: 
 f: gambling
 t: 
 ---
+f: galleys
+t: 
+---
 f: future
 t: 
 ---
@@ -3973,6 +4114,9 @@ junior: 
 f: footing
 t: 
 ---
+f: foot
+t: 
+---
 f: folder
 t: 
 ---
@@ -4048,6 +4192,9 @@ t: 
 f: fired
 t: 
 ---
+f: fire
+t: 
+---
 f: finishing
 t: 
 ---
@@ -4104,6 +4251,9 @@ t: 
 ---
 f: few
 t: 
+---
+f: fertile
+t: 
 ---
 f: felt
 t: 
@@ -4667,6 +4817,9 @@ t: 
 f: defensive
 t: 
 ---
+f: deer
+t: 
+---
 f: decipherment
 t: 
 ---
@@ -4798,6 +4951,9 @@ senior: 
 f: could
 t: 
 senior: 
+---
+f: costumes
+t: 
 ---
 f: copyrighted
 t: 
@@ -4964,6 +5120,9 @@ t: 
 f: close-cropped
 t: -
 ---
+f: clockwise
+t: 
+---
 f: climbing
 t: 
 ---
@@ -4999,6 +5158,9 @@ t: 
 ---
 f: class
 t: 
+---
+f: clad
+t: 
 ---
 f: civilizations
 t: 
@@ -5060,6 +5222,9 @@ t: 
 ---
 f: character
 t: 
+---
+f: changing
+t: 
 ---
 f: changed
 t: 
@@ -5136,6 +5301,9 @@ t: 
 f: care
 t: 
 ---
+f: carcass
+t: 
+---
 f: captions
 t: 
 ---
@@ -5161,11 +5329,17 @@ senior: 
 f: cannot
 t: 
 ---
+f: cannon
+t: 
+---
 f: cannibalism
 t: 
 ---
 f: candle
 t: 
+---
+f: canal
+t: 
 ---
 f: can
 t: 
@@ -5241,6 +5415,9 @@ t: 
 f: building
 t: 
 ---
+f: builders
+t: 
+---
 f: brusquely
 t: 
 ---
@@ -5304,6 +5481,9 @@ t: 
 ---
 f: boxes
 t: 
+---
+f: bows
+t: 
 ---
 f: bounced
 t: 
@@ -5476,6 +5656,9 @@ t: 
 junior: 
 note: erroneously un-happy-tensed?
 ---
+f: battles
+t: 
+---
 f: basketmen
 t: 
 ---
@@ -5619,6 +5802,9 @@ f: are
 t: 
 senior: 
 ---
+f: architecture
+t: 
+---
 f: archaeology
 t: 
 ---
@@ -5678,6 +5864,9 @@ t: 
 ---
 f: another
 t: 
+---
+f: animal
+t: 
 ---
 f: and
 t: 

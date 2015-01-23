@@ -12,9 +12,6 @@ f: Wilhelm II
 t: ·  
 case-sensitive: true
 ---
-f: who’s
-t: 
----
 f: whole subject
 t:  
 ---
@@ -488,6 +485,9 @@ case-sensitive: true
 ---
 f: Alpinists’
 t: 
+---
+f: allowing separate
+t:  
 ---
 f: aerodyne
 t: 
