@@ -495,3 +495,50 @@ t: 
 f: <i lang='la'>Homo sapiens</i>
 t: <i lang='la'>Homo sapiens</i>
 case-sensitive: true
+---
+f: Minturnae
+t: ·
+case-sensitive: true
+---
+f:  Mastharnorvod Tadavas Sornhulva
+t: ·  
+case-sensitive: true
+---
+f: masthar
+t: 
+---
+f: norvod
+t: 
+---
+f: vod
+t: 
+---
+f: davas
+t: 
+---
+f: ta
+t: 
+---
+f: sorn
+t: 
+---
+f: hulva
+t: 
+---
+f: doma
+t: 
+---
+f: Champollion
+t: ·
+case-sensitive: true
+---
+f: Muwatallis
+t: ·
+case-sensitive: true
+---
+f: Darfhulva
+t: 
+---
+f: a subject
+t:  
+
