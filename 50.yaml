@@ -217,6 +217,9 @@ t: 
 f: while
 t: 
 ---
+f: which subject
+t:  
+---
 f: which
 t: 
 senior: 
@@ -364,6 +367,9 @@ t: 
 f: walking
 t: 
 ---
+f: walked
+t: 
+---
 f: waking
 t: 
 ---
@@ -415,6 +421,9 @@ t: 
 f: videocast
 t: 
 ---
+f: vibration
+t: 
+---
 f: via
 t: 
 ---
@@ -434,8 +443,14 @@ t: 
 f: vegetation
 t: 
 ---
+f: vegetables
+t: 
+---
 f: vast
 t: 
+---
+f: vanished
+t: 
 ---
 f: values
 t: 
@@ -616,6 +631,9 @@ t: 
 f: tried
 t: 
 ---
+f: trestles
+t: 
+---
 f: transparent
 t: 
 ---
@@ -654,6 +672,9 @@ t: 
 ---
 f: torch
 t: 
+---
+f: tops
+t: 
 ---
 f: toppled
 t: 
@@ -942,6 +963,9 @@ t: 
 f: tablet
 t: 
 ---
+f: tables
+t: 
+---
 f: table
 t: 
 ---
@@ -971,6 +995,9 @@ t: 
 ---
 f: switch
 t: 
+---
+f: swinging
+t: 
 ---
 f: sweeping
 t: 
@@ -1187,6 +1214,9 @@ t: 
 ---
 f: stairways
 t: 
+---
+f: stacks
+t: 
 ---
 f: stacked
 t: 
@@ -1662,6 +1692,9 @@ t: 
 f: sea
 t: 
 ---
+f: sculptured
+t: 
+---
 f: script
 t: 
 ---
@@ -1871,6 +1904,9 @@ t: 
 f: replaced
 t: 
 ---
+f: repairs
+t: 
+---
 f: repair
 t: 
 ---
@@ -1906,6 +1942,9 @@ t: 
 ---
 f: rehearsed
 t: 
+---
+f: refrigeration
+t: 
 ---
 f: refills
 t: 
@@ -1966,6 +2005,9 @@ possibilities:
 f: reached
 t: 
 ---
+f: reach
+t: 
+---
 f: re-invention
 t: -
 ---
@@ -1986,6 +2028,9 @@ t: 
 ---
 f: raised
 t: 
+---
+f: rainbow
+t: 
 ---
 f: radioisotope
 t: 
@@ -2028,6 +2073,9 @@ t: 
 ---
 f: putting
 t: 
+---
+f: putrefaction
+t: 
 ---
 f: put
 t: 
@@ -2180,8 +2228,14 @@ t: 
 f: power
 t: 
 ---
+f: powdery
+t: 
+---
 f: poured
 t: 
+---
+f: pounded
+t: 
 ---
 f: pounced
 t: 
@@ -2293,6 +2347,9 @@ t: 
 ---
 f: pilot
 t: 
+---
+f: piles
+t: 
 ---
 f: pile
 t: 
@@ -2496,6 +2553,9 @@ t: 
 ---
 f: over
 t: 
+---
+f: outwardly
+t: 
 ---
 f: outward
 t: 
@@ -2812,6 +2872,9 @@ t: 
 f: mountaineer’s
 t: 
 ---
+f: motor
+t: 
+---
 f: motionless
 t: 
 ---
@@ -2842,6 +2905,9 @@ t: 
 f: moment
 t: 
 ---
+f: molecules
+t: 
+---
 f: molecule
 t: 
 ---
@@ -2862,6 +2928,9 @@ t: 
 ---
 f: missing
 t: 
+---
+f: miscellany
+t: 
 ---
 f: minutes
 t: 
@@ -3142,6 +3211,9 @@ possibilities:
 f: little
 t: 
 senior: 
+---
+f: littered
+t: 
 ---
 f: lithium’s
 t: 
@@ -3435,6 +3507,9 @@ t: 
 ---
 f: jacket
 t: 
+---
+f: jacked
+t: 
 ---
 f: jack
 t: 
@@ -3847,6 +3922,9 @@ t: 
 f: heard
 t: 
 ---
+f: heaps
+t: 
+---
 f: headband
 t: 
 ---
@@ -4036,6 +4114,9 @@ t: 
 ---
 f: glasses
 t: 
+---
+f: glass
+t: 
 ---
 f: glanced
 t: 
@@ -4479,6 +4560,9 @@ t: 
 f: even
 t: 
 ---
+f: evaporation
+t: 
+---
 f: evaporates
 t: 
 ---
@@ -4644,6 +4728,9 @@ t: 
 ---
 f: dry
 t: 
+---
+f: drums
+t: 
 ---
 f: drought
 t: 
@@ -4853,6 +4940,9 @@ t: 
 f: devices
 t: 
 ---
+f: device
+t: 
+---
 f: developed
 t: 
 ---
@@ -4873,6 +4963,9 @@ t: 
 ---
 f: destroy
 t: 
+---
+f: dessicated
+t: 
 ---
 f: desperately
 t: 
@@ -5016,6 +5109,9 @@ t: 
 f: crew
 t: 
 ---
+f: crates
+t: 
+---
 f: crampons
 t: 
 ---
@@ -5027,6 +5123,9 @@ t: 
 ---
 f: covering
 t: 
+---
+f: covered
+t: 
 ---
 f: coveralls
 t: 
@@ -5105,6 +5204,12 @@ t: 
 f: contemplated
 t: 
 ---
+f: containing
+t: 
+---
+f: containers
+t: 
+---
 f: contained
 t: 
 ---
@@ -5134,6 +5239,9 @@ t: 
 ---
 f: condition
 t: 
+---
+f: concrete
+t: 
 ---
 f: conceivable
 t: 
@@ -5209,6 +5317,9 @@ t: 
 ---
 f: coated
 t: 
+---
+f: clutter
+t: 
 ---
 f: cluster
 t: 
@@ -5343,6 +5454,9 @@ t: 
 f: chair
 t: 
 ---
+f: chain
+t: 
+---
 f: certainly
 t: 
 ---
@@ -5381,6 +5495,9 @@ t: 
 ---
 f: cautioned
 t: 
+---
+f: caused
+t: 
 ---
 f: catalogue
 t: 
@@ -5776,6 +5893,9 @@ t: 
 f: basketmen
 t: 
 ---
+f: basements
+t: 
+---
 f: basement
 t: 
 ---
@@ -5787,6 +5907,9 @@ t: 
 ---
 f: barren
 t: 
+---
+f: barrels
+t: 
 ---
 f: bare
 t: 
@@ -6178,126 +6301,3 @@ case-sensitive: true
 f: 1950s
 t: 1950
 case-sensitive: true
----
-f: which subject
-t:  
----
-f: rainbow
-t: 
----
-f: chain
-t: 
----
-f: molecules
-t: 
----
-f: sculptured
-t: 
----
-f: motor
-t: 
----
-f: jacked
-t: 
----
-f: trestles
-t: 
----
-f: repairs
-t: 
----
-f: tables
-t: 
----
-f: tops
-t: 
----
-f: littered
-t: 
----
-f: covered
-t: 
----
-f: miscellany
-t: 
----
-f: crates
-t: 
----
-f: containers
-t: 
----
-f: walked
-t: 
----
-f: clutter
-t: 
----
-f: basements
-t: 
----
-f: concrete
-t: 
----
-f: swinging
-t: 
----
-f: stacks
-t: 
----
-f: barrels
-t: 
----
-f: drums
-t: 
----
-f: heaps
-t: 
----
-f: powdery
-t: 
----
-f: glass
-t: 
----
-f: outwardly
-t: 
----
-f: containing
-t: 
----
-f: reach
-t: 
----
-f: evaporation
-t: 
----
-f: caused
-t: 
----
-f: putrefaction
-t: 
----
-f: vanished
-t: 
----
-f: refrigeration
-t: 
----
-f: vibration
-t: 
----
-f: device
-t: 
----
-f: pounded
-t: 
----
-f: dessicated
-t: 
----
-f: piles
-t: 
----
-f: vegetables
-t: 

@@ -80,6 +80,9 @@ f: to live
 t:  
 junior:  
 ---
+f: the minute life
+t:   
+---
 f: tear
 t: 
 ---
@@ -91,6 +94,9 @@ t: ·
 ---
 f: Spaceforce
 t: ·
+---
+f: Sornhulva
+t: 
 ---
 f: sorn
 t: 
@@ -447,6 +453,12 @@ t: 
 f: Darfhulva
 t: 
 ---
+f: darfhulva
+t: 
+---
+f: darf
+t: 
+---
 f: Cyrano
 t: ·
 case-sensitive: true
@@ -542,17 +554,5 @@ f: <i lang='la'>Homo sapiens</i>
 t: <i lang='la'>Homo sapiens</i>
 case-sensitive: true
 ---
-f: darfhulva
-t: 
----
-f: darf
-t: 
----
-f: Sornhulva
-t: 
----
 f: -ology
 t: -
----
-f: the minute life
-t:   
