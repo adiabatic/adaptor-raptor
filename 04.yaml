@@ -27,6 +27,9 @@ t:  
 f: von Ohlmhorst
 t:  ·
 ---
+f: vod
+t: 
+---
 f: viviparous
 t: 
 note: possibly mispronounced
@@ -80,11 +83,17 @@ junior:  
 f: tear
 t: 
 ---
+f: ta
+t: 
+---
 f: Syrtis
 t: ·
 ---
 f: Spaceforce
 t: ·
+---
+f: sorn
+t: 
 ---
 f: Signals
 t: ·
@@ -181,6 +190,13 @@ t: ·
 f: object after object
 t:   
 ---
+f: norvod
+t: 
+---
+f: Muwatallis
+t: ·
+case-sensitive: true
+---
 f: Mohenjo-Daro
 t: ·-
 case-sensitive: true
@@ -191,9 +207,20 @@ t: · 
 f: minute delicacy
 t:  
 ---
+f: Minturnae
+t: ·
+case-sensitive: true
+---
 f: Michael Ventris
 t: · 
 case-sensitive: true
+---
+f: Mastharnorvod Tadavas Sornhulva
+t: ·  
+case-sensitive: true
+---
+f: masthar
+t: 
 ---
 f: Martians
 t: 
@@ -282,6 +309,9 @@ t:  
 f: Indus
 t: ·
 case-sensitive: true
+---
+f: hulva
+t: 
 ---
 f: Hubert Penrose’s
 t: · 
@@ -405,8 +435,17 @@ case-sensitive: true
 f: don’t object
 t:  
 ---
+f: doma
+t: 
+---
 f: deference of the learned
 t:    
+---
+f: davas
+t: 
+---
+f: Darfhulva
+t: 
 ---
 f: Cyrano
 t: ·
@@ -432,6 +471,10 @@ case-sensitive: true
 ---
 f: Chandler
 t: ·
+case-sensitive: true
+---
+f: Champollion
+t: ·
 case-sensitive: true
 ---
 f: Chamberlain
@@ -492,53 +535,9 @@ t:  
 f: aerodyne
 t: 
 ---
+f: a subject
+t:  
+---
 f: <i lang='la'>Homo sapiens</i>
 t: <i lang='la'>Homo sapiens</i>
 case-sensitive: true
----
-f: Minturnae
-t: ·
-case-sensitive: true
----
-f:  Mastharnorvod Tadavas Sornhulva
-t: ·  
-case-sensitive: true
----
-f: masthar
-t: 
----
-f: norvod
-t: 
----
-f: vod
-t: 
----
-f: davas
-t: 
----
-f: ta
-t: 
----
-f: sorn
-t: 
----
-f: hulva
-t: 
----
-f: doma
-t: 
----
-f: Champollion
-t: ·
-case-sensitive: true
----
-f: Muwatallis
-t: ·
-case-sensitive: true
----
-f: Darfhulva
-t: 
----
-f: a subject
-t:  
-

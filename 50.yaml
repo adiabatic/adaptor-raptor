@@ -24,9 +24,6 @@ senior: 
 f: youngish
 t: 
 ---
-f: millenia
-t: 
----
 f: young
 t: 
 ---
@@ -152,6 +149,9 @@ t: 
 ---
 f: wire
 t: 
+---
+f: wipe
+t: 
 ---
 f: windows
 t: 
@@ -428,6 +428,9 @@ t: 
 f: verbalize
 t: 
 ---
+f: vehicle
+t: 
+---
 f: vegetation
 t: 
 ---
@@ -591,6 +594,9 @@ t: 
 ---
 f: try
 t: 
+---
+f: 'true'
+t: 
 ---
 f: trucks
 t: 
@@ -782,6 +788,9 @@ t: 
 ---
 f: thick
 t: 
+---
+f: they’re
+t: ’
 ---
 f: they’ll
 t: 
@@ -1012,6 +1021,9 @@ t: 
 f: supplemental
 t: 
 ---
+f: superior
+t: 
+---
 f: sun
 t: 
 ---
@@ -1032,6 +1044,9 @@ t: 
 ---
 f: succeed
 t: 
+---
+f: substance
+t: 
 ---
 f: subject
 possibilities:
@@ -1470,6 +1485,9 @@ t: 
 f: shrugged
 t: 
 ---
+f: shrinking
+t: 
+---
 f: shrilly
 t: 
 ---
@@ -1635,6 +1653,9 @@ t: 
 f: searching
 t: 
 ---
+f: seaports
+t: 
+---
 f: seaport
 t: 
 ---
@@ -1703,6 +1724,9 @@ t: 
 ---
 f: sawing
 t: 
+---
+f: saw
+t: 
 ---
 f: savages
 t: 
@@ -1904,6 +1928,9 @@ t: 
 f: reconstructing
 t: 
 ---
+f: recognizable
+t: 
+---
 f: recesses
 t: 
 ---
@@ -1986,6 +2013,9 @@ t: 
 ---
 f: quarterly
 t: 
+---
+f: quarrying
+t: 
 ---
 f: qualified
 t: 
@@ -2156,6 +2186,9 @@ t: 
 f: pounced
 t: 
 ---
+f: possibility
+t: 
+---
 f: positively
 t: 
 ---
@@ -2227,6 +2260,9 @@ t: 
 ---
 f: planet
 t: 
+---
+f: plains
+t: 
 ---
 f: plainly
 t: 
@@ -2314,6 +2350,9 @@ t: 
 ---
 f: perished
 t: 
+---
+f: periods
+t: 
 ---
 f: periodical
 t: 
@@ -2421,6 +2460,9 @@ t: 
 ---
 f: paintings
 t: 
+---
+f: painter
+t: 
 ---
 f: painstaking
 t: 
@@ -2588,6 +2630,9 @@ junior: 
 ---
 f: odds
 t: 
+---
+f: oceans
+t: 
 ---
 f: ocean
 t: 
@@ -2767,6 +2812,9 @@ t: 
 f: mountaineer’s
 t: 
 ---
+f: motionless
+t: 
+---
 f: motion
 t: 
 ---
@@ -2844,6 +2892,9 @@ t: 
 ---
 f: micro
 t: 
+---
+f: mezzanine
+t: 
 ---
 f: metric
 t: 
@@ -3152,6 +3203,9 @@ t: 
 f: lifting
 t: 
 ---
+f: lifeless
+t: 
+---
 f: life
 t: 
 ---
@@ -3217,6 +3271,9 @@ t: 
 ---
 f: leaving
 t: 
+---
+f: leave
+t: 
 ---
 f: least
 t: 
@@ -3613,8 +3670,14 @@ t: 
 f: humidity
 t: 
 ---
+f: humanoid
+t: 
+---
 f: human
 t: 
+---
+f: huge
+t: 
 ---
 f: however
 t: 
@@ -3892,6 +3955,9 @@ t: 
 ---
 f: gross
 t: 
+---
+f: grin
+t: 
 ---
 f: grimed
 t: 
@@ -4297,6 +4363,9 @@ t: 
 f: faded
 t: 
 ---
+f: faculty
+t: 
+---
 f: factual
 t: 
 ---
@@ -4335,6 +4404,9 @@ t: 
 ---
 f: explored
 t: 
+---
+f: explanatory
+t: 
 ---
 f: explain
 t: 
@@ -4422,6 +4494,9 @@ t: 
 f: escalator
 t: 
 ---
+f: eras
+t: 
+---
 f: equivalent
 t: 
 ---
@@ -4436,6 +4511,9 @@ t: 
 ---
 f: entrance
 t: 
+---
+f: entire
+t: 
 ---
 f: entered
 t: 
@@ -4549,6 +4627,12 @@ t: 
 f: dying
 t: 
 ---
+f: dwindling
+t: 
+---
+f: dwarfed
+t: 
+---
 f: dusty
 t: 
 ---
@@ -4561,11 +4645,17 @@ t: 
 f: dry
 t: 
 ---
+f: drought
+t: 
+---
 f: droplights
 t: 
 ---
 f: drop
 t: 
+---
+f: driving
+t: 
 ---
 f: drinks
 t: 
@@ -4799,11 +4889,20 @@ t: 
 f: deserts
 t: 
 ---
+f: deserted
+t: 
+---
+f: derricks
+t: 
+---
 f: derisively
 t: 
 ---
 f: depression
 t: 
+---
+f: depicted
+t: 
 ---
 f: department
 t: 
@@ -5090,6 +5189,9 @@ senior: 
 f: combined
 t: 
 ---
+f: combat
+t: 
+---
 f: colonel
 t: 
 ---
@@ -5307,6 +5409,9 @@ t: 
 f: carcass
 t: 
 ---
+f: car
+t: 
+---
 f: captions
 t: 
 ---
@@ -5384,6 +5489,9 @@ t: 
 ---
 f: busts
 t: 
+---
+f: bushlands
+t: 
 ---
 f: burying
 t: 
@@ -5654,6 +5762,9 @@ t: 
 f: beard
 t: 
 ---
+f: bear
+t: 
+---
 f: be
 t: 
 junior: 
@@ -5673,6 +5784,9 @@ t: 
 ---
 f: base
 t: 
+---
+f: barren
+t: 
 ---
 f: bare
 t: 
@@ -5713,6 +5827,12 @@ t: 
 f: authorized
 t: 
 ---
+f: authenticity
+t: 
+---
+f: authentic
+t: 
+---
 f: auspicious
 t: 
 ---
@@ -5745,6 +5865,9 @@ t: 
 ---
 f: assumption
 t: 
+---
+f: assume
+t: 
 ---
 f: assistants
 t: 
@@ -5822,6 +5945,12 @@ t: 
 ---
 f: arbitrary
 t: 
+---
+f: aqueducts
+t: 
+---
+f: appropriate
+t: 
 ---
 f: approaching
 t: 
@@ -6036,6 +6165,9 @@ t: 
 f: able
 t: 
 ---
+f: abandoned
+t: 
+---
 f: a
 t: 
 ---
@@ -6046,138 +6178,3 @@ case-sensitive: true
 f: 1950s
 t: 1950
 case-sensitive: true
----
-f: barren
-t: 
----
-f: bushlands
-t: 
----
-f: drought
-t: 
----
-f: recognizable
-t: 
----
-f: derricks
-t: 
----
-f: quarrying
-t: 
----
-f: driving
-t: 
----
-f: plains
-t: 
----
-f: aqueducts
-t: 
----
-f: seaports
-t: 
----
-f: shrinking
-t: 
----
-f: oceans
-t: 
----
-f: dwindling
-t: 
----
-f: deserted
-t: 
----
-f: abandoned
-t: 
----
-f: humanoid
-t: 
----
-f: combat
-t: 
----
-f: car
-t: 
----
-f: vehicle
-t: 
----
-f: dwarfed
-t: 
----
-f: huge
-t: 
----
-f: lifeless
-t: 
----
-f: entire
-t: 
----
-f: painter
-t: 
----
-f: depicted
-t: 
----
-f: appropriate
-t: 
----
-f: eras
-t: 
----
-f: periods
-t: 
----
-f: assume
-t: 
----
-f: they’re
-t: ’
----
-f: authentic
-t: 
----
-f: faculty
-t: 
----
-f: authenticity
-t: 
----
-f: substance
-t: 
----
-f: leave
-t: 
----
-f: explanatory
-t: 
----
-f: wipe
-t: 
----
-f: superior
-t: 
----
-f: grin
-t: 
----
-f: motionless
-t: 
----
-f: bear
-t: 
----
-f: possibility
-t: 
----
-f: saw
-t: 
----
-f: 'true'
-t: 
----
-f: mezzanine
-t: 
