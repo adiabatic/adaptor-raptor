@@ -162,6 +162,9 @@ f: Sachiko
 t: ·
 case-sensitive: true
 ---
+f: Sachi
+t: ·
+---
 f: Rosita
 t: ·
 ---
@@ -562,6 +565,3 @@ case-sensitive: true
 ---
 f: -ology
 t: -
----
-f: Sachi
-t: ·
