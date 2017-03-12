@@ -565,3 +565,7 @@ case-sensitive: true
 ---
 f: -ology
 t: -
+---
+f: a duplicate
+t:  
+
