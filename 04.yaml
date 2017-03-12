@@ -559,13 +559,12 @@ t:  
 f: a reliable estimate
 t:   
 ---
+f: a duplicate
+t:  
+---
 f: <i lang='la'>Homo sapiens</i>
 t: <i lang='la'>Homo sapiens</i>
 case-sensitive: true
 ---
 f: -ology
 t: -
----
-f: a duplicate
-t:  
-

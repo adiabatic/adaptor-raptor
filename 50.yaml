@@ -81,6 +81,9 @@ t: 
 f: world
 t: 
 ---
+f: workshop
+t: 
+---
 f: works
 t: 
 ---
@@ -328,6 +331,9 @@ t: 
 f: wasting
 t: 
 ---
+f: waste
+t: 
+---
 f: wasn’t
 t: 
 ---
@@ -394,6 +400,9 @@ t: 
 f: volunteered
 t: 
 ---
+f: voices
+t: 
+---
 f: voice
 t: 
 ---
@@ -451,6 +460,9 @@ t: 
 ---
 f: vegetables
 t: 
+---
+f: vats
+t: 
 ---
 f: vast
 t: 
@@ -670,6 +682,9 @@ t: 
 f: traces
 t: 
 ---
+f: tower
+t: 
+---
 f: toward
 t: 
 ---
@@ -782,6 +797,9 @@ t: 
 ---
 f: those
 t: 
+---
+f: thorough
+t: 
 ---
 f: this’ll
 t: 
@@ -941,6 +959,9 @@ t: 
 ---
 f: taste
 t: 
+---
+f: tantalizingly
+t: 
 ---
 f: tanks
 t: 
@@ -1148,6 +1169,9 @@ t: 
 ---
 f: straps
 t: 
+---
+f: stoves
+t: 
 ---
 f: story’s
 t: 
@@ -1934,6 +1958,9 @@ t: 
 f: reputation
 t: 
 ---
+f: reprocessing
+t: 
+---
 f: report
 t: 
 ---
@@ -1969,6 +1996,9 @@ t: 
 ---
 f: remains
 t: 
+---
+f: remained
+t: 
 ---
 f: remain
 t: 
@@ -2300,6 +2330,9 @@ t: 
 f: pounced
 t: 
 ---
+f: pots
+t: 
+---
 f: possibility
 t: 
 ---
@@ -2566,6 +2599,9 @@ t: 
 f: paper
 t: 
 ---
+f: pans
+t: 
+---
 f: panorama
 t: 
 ---
@@ -2738,6 +2774,9 @@ t: 
 f: official
 t: 
 ---
+f: offices
+t: 
+---
 f: officers
 t: 
 ---
@@ -2765,6 +2804,9 @@ t: 
 ---
 f: occupied
 t: 
+---
+f: occupants
+t: 
 ---
 f: object
 possibilities:
@@ -2794,6 +2836,9 @@ t: 
 ---
 f: nothing
 t: 
+---
+f: notes
+t: 
 ---
 f: notebooks
 t: 
@@ -2906,6 +2951,9 @@ t: 
 ---
 f: museums
 t: 
+---
+f: museum
+t: 
 ---
 f: murals
 t: 
@@ -3146,6 +3194,9 @@ t: 
 f: many
 t: 
 ---
+f: manufacturing
+t: 
+---
 f: managed
 t: 
 ---
@@ -3316,6 +3367,9 @@ t: 
 ---
 f: linguistic
 t: 
+---
+f: lines
+t: 
 ---
 f: line
 t: 
@@ -3523,11 +3577,17 @@ t: 
 f: know
 t: 
 ---
+f: knocked
+t: 
+---
 f: knife
 t: 
 ---
 f: knew
 t: 
+---
+f: kitchens
+t: 
 ---
 f: kings
 t: 
@@ -3719,6 +3779,9 @@ t: 
 ---
 f: ingredients
 t: 
+---
+f: industry
+t: 
 ---
 f: indiscriminate
 t: 
@@ -4100,6 +4163,9 @@ t: 
 f: gun
 t: 
 ---
+f: guide
+t: 
+---
 f: guess
 t: 
 ---
@@ -4305,6 +4371,12 @@ t: 
 f: framing
 t: 
 ---
+f: fragile
+t: 
+---
+f: fractionating
+t: 
+---
 f: fourth
 t: 
 ---
@@ -4347,6 +4419,9 @@ t: 
 f: foremen
 t: 
 ---
+f: forcing
+t: 
+---
 f: force
 t: 
 ---
@@ -4359,6 +4434,9 @@ t: 
 ---
 f: foot
 t: 
+---
+f: followed
+t: 
 ---
 f: folder
 t: 
@@ -4573,6 +4651,9 @@ t: 
 f: extension
 t: 
 ---
+f: extended
+t: 
+---
 f: explosive
 t: 
 ---
@@ -4600,6 +4681,9 @@ t: 
 f: expedition
 t: 
 ---
+f: expected
+t: 
+---
 f: exists
 t: 
 ---
@@ -4611,6 +4695,9 @@ t: 
 ---
 f: exile
 t: 
+---
+f: exhibits
+t: 
 ---
 f: exclaimed
 t: 
@@ -4632,6 +4719,12 @@ t: 
 ---
 f: examined
 t: 
+---
+f: examination
+t: 
+---
+f: everywhere
+t: 
 ---
 f: everything’s
 t: 
@@ -4968,6 +5061,9 @@ t: 
 f: distinction
 t: 
 ---
+f: distillation
+t: 
+---
 f: dissension
 t: 
 ---
@@ -5016,6 +5112,9 @@ t: 
 f: dinner
 t: 
 ---
+f: dining
+t: 
+---
 f: dingbat
 t: 
 ---
@@ -5050,6 +5149,9 @@ t: 
 ---
 f: diagnose
 t: 
+---
+f: devoted
+t: 
 ---
 f: devices
 t: 
@@ -5104,6 +5206,9 @@ t: 
 ---
 f: deserted
 t: 
+---
+f: descended
+t: 
 ---
 f: derricks
 t: 
@@ -5294,6 +5399,9 @@ t: 
 f: convey
 t: 
 ---
+f: converted
+t: 
+---
 f: conversation
 t: 
 ---
@@ -5336,6 +5444,9 @@ t: 
 f: contained
 t: 
 ---
+f: contain
+t: 
+---
 f: consuming
 t: 
 ---
@@ -5353,6 +5464,9 @@ t: 
 ---
 f: considerably
 t: 
+---
+f: considerable
+t: 
 ---
 f: conscious
 t: 
@@ -5546,6 +5660,9 @@ t: 
 ---
 f: chemistry
 t: 
+---
+f: chemical
+t: 
 ---
 f: checking
 t: 
@@ -6100,6 +6217,9 @@ t: 
 f: auspicious
 t: 
 ---
+f: auditorium
+t: 
+---
 f: audio
 t: 
 ---
@@ -6384,11 +6504,17 @@ t: 
 f: admiration
 t: 
 ---
+f: administrative
+t: 
+---
 f: adjusted
 t: 
 ---
 f: adjust
 t: 
+---
+f: adjoining
+t: 
 ---
 f: addition
 t: 
@@ -6451,132 +6577,3 @@ case-sensitive: true
 f: 1950s
 t: 1950
 case-sensitive: true
----
-f: voices
-t: 
----
-f: fragile
-t: 
----
-f: followed
-t: 
----
-f: contain
-t: 
----
-f: waste
-t: 
----
-f: forcing
-t: 
----
-f: descended
-t: 
----
-f: kitchens
-t: 
----
-f: stoves
-t: 
----
-f: pots
-t: 
----
-f: pans
-t: 
----
-f: dining
-t: 
----
-f: workshop
-t: 
----
-f: expected
-t: 
----
-f: converted
-t: 
----
-f: occupants
-t: 
----
-f: adjoining
-t: 
----
-f: auditorium
-t: 
----
-f: chemical
-t: 
----
-f: vats
-t: 
----
-f: distillation
-t: 
----
-f: fractionating
-t: 
----
-f: tower
-t: 
----
-f: extended
-t: 
----
-f: knocked
-t: 
----
-f: everywhere
-t: 
----
-f: reprocessing
-t: 
----
-f: devoted
-t: 
----
-f: manufacturing
-t: 
----
-f: considerable
-t: 
----
-f: industry
-t: 
----
-f: lines
-t: 
----
-f: museum
-t: 
----
-f: exhibits
-t: 
----
-f: remained
-t: 
----
-f: tantalizingly
-t: 
----
-f: administrative
-t: 
----
-f: offices
-t: 
----
-f: waste
-t: 
----
-f: notes
-t: 
----
-f: guide
-t: 
----
-f: thorough
-t: 
----
-f: examination
-t: 
