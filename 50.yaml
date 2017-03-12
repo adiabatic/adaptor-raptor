@@ -31,6 +31,9 @@ f: you
 t: 
 senior: 
 ---
+f: yielded
+t: 
+---
 f: yet
 t: 
 ---
@@ -529,6 +532,9 @@ t: 
 f: universally
 t: 
 ---
+f: unit
+t: 
+---
 f: unfamiliar
 t: 
 ---
@@ -993,6 +999,9 @@ t: 
 f: sword
 t: 
 ---
+f: switches
+t: 
+---
 f: switch
 t: 
 ---
@@ -1149,6 +1158,9 @@ t: 
 f: stores
 t: 
 ---
+f: storage
+t: 
+---
 f: stopped
 t: 
 ---
@@ -1226,6 +1238,9 @@ t: 
 ---
 f: squeezed
 t: 
+---
+f: squeeze
+t: 
 ---
 f: squawked
 t: 
@@ -1313,6 +1328,9 @@ t: 
 ---
 f: sowing
 t: 
+---
+f: source
+t: 
 ---
 f: sounds
 t: 
@@ -1644,6 +1662,9 @@ t: 
 f: sense
 t: 
 ---
+f: sending
+t: 
+---
 f: self
 t: 
 ---
@@ -1772,6 +1793,9 @@ t: 
 ---
 f: sandwich
 t: 
+---
+f: samples
+t: 
 ---
 f: same
 t: 
@@ -1931,6 +1955,9 @@ t: 
 f: remain
 t: 
 ---
+f: reliable
+t: 
+---
 f: relayed
 t: 
 ---
@@ -2034,6 +2061,12 @@ t: 
 ---
 f: radioisotope
 t: 
+---
+f: radiocarbon
+t: 
+---
+f: radically
+t: 
 ---
 f: races
 t: 
@@ -2160,6 +2193,9 @@ t: 
 f: professional
 t: 
 ---
+f: produced
+t: 
+---
 f: processions
 t: 
 ---
@@ -2224,6 +2260,9 @@ t: 
 ---
 f: practice
 t: 
+---
+f: powered
+t: 
 ---
 f: power
 t: 
@@ -2357,6 +2396,9 @@ t: 
 f: pig
 t: 
 ---
+f: pierced
+t: 
+---
 f: piece
 t: 
 ---
@@ -2478,6 +2520,9 @@ t: 
 ---
 f: parts
 t: 
+---
+f: partition
+t: 
 ---
 f: parties
 t: 
@@ -3347,6 +3392,9 @@ t: 
 f: leave
 t: 
 ---
+f: leathery
+t: 
+---
 f: least
 t: 
 ---
@@ -4034,6 +4082,9 @@ t: 
 f: gross
 t: 
 ---
+f: groan
+t: 
+---
 f: grin
 t: 
 ---
@@ -4187,6 +4238,9 @@ t: 
 f: furious
 t: 
 ---
+f: function
+t: 
+---
 f: fun
 t: 
 ---
@@ -4269,6 +4323,9 @@ t: 
 ---
 f: folder
 t: 
+---
+f: foghorn
+t: 
 ---
 f: fluid
 t: 
@@ -4441,6 +4498,9 @@ t: 
 f: faintly
 t: 
 ---
+f: failed
+t: 
+---
 f: faded
 t: 
 ---
@@ -4599,6 +4659,9 @@ t: 
 f: entire
 t: 
 ---
+f: entering
+t: 
+---
 f: entered
 t: 
 ---
@@ -4655,6 +4718,9 @@ t: 
 ---
 f: electronic
 t: 
+---
+f: electrically
+t: 
 ---
 f: electric
 t: 
@@ -4979,6 +5045,9 @@ t: 
 f: desire
 t: 
 ---
+f: desiccated
+t: 
+---
 f: deserts
 t: 
 ---
@@ -5050,6 +5119,9 @@ t: 
 ---
 f: daubing
 t: 
+---
+f: dating
+t: 
 ---
 f: date
 t: 
@@ -5397,6 +5469,9 @@ f: cities
 t: 
 note: erroneously happy-tensed?
 ---
+f: chunks
+t: 
+---
 f: chronicles
 t: 
 ---
@@ -5483,6 +5558,9 @@ t: 
 ---
 f: ceiling
 t: 
+---
+f: ceased
+t: 
 ---
 f: caved
 t: 
@@ -6108,6 +6186,9 @@ t: 
 f: any
 t: 
 ---
+f: anxiously
+t: 
+---
 f: antics
 t: 
 ---
@@ -6301,84 +6382,3 @@ case-sensitive: true
 f: 1950s
 t: 1950
 case-sensitive: true
----
-f: desiccated
-t: 
----
-f: leathery
-t: 
----
-f: chunks
-t: 
----
-f: samples
-t: 
----
-f: reliable
-t: 
----
-f: radiocarbon
-t: 
----
-f: dating
-t: 
----
-f: unit
-t: 
----
-f: radically
-t: 
----
-f: produced
-t: 
----
-f: electrically
-t: 
----
-f: powered
-t: 
----
-f: switches
-t: 
----
-f: ceased
-t: 
----
-f: function
-t: 
----
-f: source
-t: 
----
-f: failed
-t: 
----
-f: storage
-t: 
----
-f: partition
-t: 
----
-f: pierced
-t: 
----
-f: sending
-t: 
----
-f: yielded
-t: 
----
-f: squeeze
-t: 
----
-f: groan
-t: 
----
-f: foghorn
-t: 
----
-f: entering
-t: 
----
-f: anxiously
-t: 

@@ -316,6 +316,9 @@ f: Indus
 t: ·
 case-sensitive: true
 ---
+f: in the lead
+t:   
+---
 f: hulva
 t: 
 ---
@@ -550,15 +553,12 @@ t: 
 f: a subject
 t:  
 ---
+f: a reliable estimate
+t:   
+---
 f: <i lang='la'>Homo sapiens</i>
 t: <i lang='la'>Homo sapiens</i>
 case-sensitive: true
 ---
 f: -ology
 t: -
----
-f: a reliable estimate
-t:   
----
-f: in the lead
-t:   
