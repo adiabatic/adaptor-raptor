@@ -556,3 +556,9 @@ case-sensitive: true
 ---
 f: -ology
 t: -
+---
+f: a reliable estimate
+t:   
+---
+f: in the lead
+t:   
