@@ -1416,6 +1416,9 @@ t: 
 f: solenoid
 t: 
 ---
+f: soldiers
+t: 
+---
 f: so
 t: 
 senior: 
@@ -3775,6 +3778,9 @@ senior: 
 ---
 f: intersecting
 t: 
+---
+f: interruptions
+t: 
 ---
 f: interpretation
 t: 
@@ -6667,9 +6673,3 @@ case-sensitive: true
 f: 1950s
 t: 1950
 case-sensitive: true
----
-f: soldiers
-t: 
----
-f: interruptions
-t: 
