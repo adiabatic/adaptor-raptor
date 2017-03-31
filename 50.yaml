@@ -10,6 +10,9 @@ t: 
 f: you’re
 t: 
 ---
+f: you’d
+t: 
+---
 f: yourself
 t: 
 ---
@@ -80,6 +83,9 @@ t: 
 ---
 f: world
 t: 
+---
+f: workshops
+t: 
 ---
 f: workshop
 t: 
@@ -164,6 +170,9 @@ t: 
 ---
 f: window
 t: 
+---
+f: windmill
+t: 
 ---
 f: wind
 possibilities:
@@ -547,6 +556,9 @@ t: 
 f: universally
 t: 
 ---
+f: units
+t: 
+---
 f: unit
 t: 
 ---
@@ -661,6 +673,9 @@ t: 
 f: trestles
 t: 
 ---
+f: treasure
+t: 
+---
 f: trash
 t: 
 ---
@@ -693,6 +708,9 @@ t: 
 ---
 f: toward
 t: 
+---
+f: touched
+t: 
 ---
 f: touch
 t: 
@@ -940,6 +958,9 @@ t: 
 f: ten
 t: 
 ---
+f: temporary
+t: 
+---
 f: tells
 t: 
 ---
@@ -948,6 +969,9 @@ t: 
 ---
 f: technological
 t: 
+---
+f: technicians
+t: 
 ---
 f: technical
 t: 
@@ -1010,6 +1034,9 @@ t: 
 ---
 f: systematized
 t: 
+---
+f: systematically
+t: 
 ---
 f: system
 t: 
@@ -1114,6 +1141,9 @@ t: 
 f: succeed
 t: 
 ---
+f: subsurface
+t: 
+---
 f: substance
 t: 
 ---
@@ -1160,6 +1190,9 @@ t: 
 ---
 f: stripped
 t: 
+---
+f: strip
+t: 
 ---
 f: string
 t: 
@@ -1280,6 +1313,9 @@ t: 
 ---
 f: squeeze
 t: 
+---
+f: squawking
+t: 
 ---
 f: squawked
 t: 
@@ -1881,6 +1917,9 @@ t: 
 f: rough
 t: 
 ---
+f: rotor
+t: 
+---
 f: Rosetta Stone
 t:  
 ---
@@ -2039,11 +2078,17 @@ t: 
 f: rehearsed
 t: 
 ---
+f: refrigerators
+t: 
+---
 f: refrigeration
 t: 
 ---
 f: refills
 t: 
+---
+f: reference
+t: 
 ---
 f: redistributing
 t: 
@@ -2133,6 +2178,9 @@ t: 
 ---
 f: rainbow
 t: 
+---
+f: raids
+t: 
 ---
 f: radioisotope
 t: 
@@ -2276,6 +2324,9 @@ t: 
 ---
 f: process
 t: 
+---
+f: procedure
+t: 
 ---
 f: probably
 t: 
@@ -2620,6 +2671,12 @@ t: 
 f: particle
 t: 
 ---
+f: part
+t: 
+---
+f: parrot
+t: 
+---
 f: park
 t: 
 ---
@@ -2906,6 +2963,9 @@ t: 
 f: nomads
 t: 
 ---
+f: noise
+t: 
+---
 f: nodded
 t: 
 ---
@@ -3051,6 +3111,12 @@ t: 
 ---
 f: month
 t: 
+---
+f: monastery
+t: 
+---
+f: momentarily
+t: 
 ---
 f: moment
 t: 
@@ -3218,6 +3284,9 @@ t: 
 f: masked
 t: 
 ---
+f: mask
+t: 
+---
 f: marvelously
 t: 
 ---
@@ -3364,6 +3433,9 @@ t: 
 ---
 f: living
 t: 
+---
+f: lived
+t: 
 ---
 f: live
 possibilities:
@@ -3782,6 +3854,9 @@ t: 
 f: interruptions
 t: 
 ---
+f: interrupted
+t: 
+---
 f: interpretation
 t: 
 ---
@@ -3842,6 +3917,9 @@ t: 
 ---
 f: indicate
 t: 
+---
+f: incredulous
+t: 
 ---
 f: incomprehensibilities
 t: 
@@ -3958,6 +4036,9 @@ t: 
 f: houses
 t: 
 ---
+f: house
+t: 
+---
 f: hour
 t: 
 ---
@@ -4021,6 +4102,9 @@ t: 
 f: Hittites
 t: ·
 ---
+f: hit
+t: 
+---
 f: history
 t: 
 ---
@@ -4046,6 +4130,9 @@ senior: 
 ---
 f: hillocks
 t: 
+---
+f: highly
+t: 
 ---
 f: higher
 t: 
@@ -4120,6 +4207,9 @@ t: 
 f: heavy
 t: 
 ---
+f: heated
+t: 
+---
 f: heard
 t: 
 ---
@@ -4149,6 +4239,9 @@ senior: 
 f: have
 t: 
 senior: 
+---
+f: haul
+t: 
 ---
 f: hastily
 t: 
@@ -4208,6 +4301,9 @@ note: '[he@`] in Macmillan. e@ is , right?'
 f: hadn’t
 t: 
 ---
+f: had close to
+t:   
+---
 f: had
 t: 
 ---
@@ -4243,6 +4339,9 @@ t: 
 ---
 f: groan
 t: 
+---
+f: grinning
+t: 
 ---
 f: grin
 t: 
@@ -4370,6 +4469,9 @@ t: 
 f: generator
 t: 
 ---
+f: generated
+t: 
+---
 f: general
 t: 
 ---
@@ -4408,6 +4510,9 @@ t: 
 ---
 f: fun
 t: 
+---
+f: full
+t: 
 ---
 f: fuel
 t: 
@@ -4500,6 +4605,9 @@ t: 
 ---
 f: fools
 t: 
+---
+f: food
+t: 
 ---
 f: followed
 t: 
@@ -4621,6 +4729,9 @@ t: 
 f: figures
 t: 
 ---
+f: fight
+t: 
+---
 f: fifty
 t: 
 ---
@@ -4674,6 +4785,9 @@ t: 
 ---
 f: familiar
 t: 
+---
+f: fall
+t: 
 ---
 f: fairly
 t: 
@@ -4829,6 +4943,9 @@ t: 
 ---
 f: evaporates
 t: 
+---
+f: Europe
+t: ·
 ---
 f: estimating
 t: 
@@ -5291,6 +5408,9 @@ t: 
 f: depicted
 t: 
 ---
+f: departments
+t: 
+---
 f: department
 t: 
 ---
@@ -5350,6 +5470,9 @@ t: 
 ---
 f: date
 t: 
+---
+f: Dark Ages
+t: · 
 ---
 f: dancing
 t: 
@@ -5570,6 +5693,9 @@ t: 
 f: comparison
 t: 
 ---
+f: companions
+t: 
+---
 f: common
 t: 
 ---
@@ -5594,6 +5720,9 @@ t: 
 f: coming
 t: 
 senior: 
+---
+f: comfort
+t: 
 ---
 f: comes
 t: 
@@ -5911,6 +6040,9 @@ t: 
 f: canal
 t: 
 ---
+f: can use
+t:  
+---
 f: can
 t: 
 senior: 
@@ -6008,6 +6140,9 @@ t: 
 ---
 f: broke
 t: 
+---
+f: Brobdingnagian
+t: ·
 ---
 f: bring
 t: 
@@ -6111,6 +6246,9 @@ t: 
 ---
 f: blinked
 t: 
+---
+f: blew
+t: 
 ---
 f: blazed
 t: 
@@ -6253,6 +6391,9 @@ t: 
 f: base
 t: 
 ---
+f: barricaded
+t: 
+---
 f: barren
 t: 
 ---
@@ -6261,6 +6402,9 @@ t: 
 ---
 f: bare
 t: 
+---
+f: barbarism
+t: 
 ---
 f: barbarians
 t: 
@@ -6327,6 +6471,9 @@ t: 
 ---
 f: atomic
 t: 
+---
+f: atmosphered
+t: 
 ---
 f: atmosphere
 t: 
@@ -6502,6 +6649,9 @@ t: 
 f: among
 t: 
 ---
+f: amazement
+t: 
+---
 f: amateur
 t: 
 ---
@@ -6550,6 +6700,9 @@ t: 
 ---
 f: airsealing
 t: 
+---
+f: airsealed
+t: 
 ---
 f: aircraft
 t: 
@@ -6673,156 +6826,3 @@ case-sensitive: true
 f: 1950s
 t: 1950
 case-sensitive: true
----
-f: incredulous
-t: 
----
-f: amazement
-t: 
----
-f: lived
-t: 
----
-f: refrigerators
-t: 
----
-f: full
-t: 
----
-f: food
-t: 
----
-f: haul
-t: 
----
-f: workshops
-t: 
----
-f: monastery
-t: 
----
-f: Dark Ages
-t: · 
----
-f: Europe
-t: ·
----
-f: fall
-t: 
----
-f: highly
-t: 
----
-f: barricaded
-t: 
----
-f: barbarism
-t: 
----
-f: fight
-t: 
----
-f: raids
-t: 
----
-f: treasure
-t: 
----
-f: house
-t: 
----
-f: technicians
-t: 
----
-f: you’d
-t: 
----
-f: subsurface
-t: 
----
-f: part
-t: 
----
-f: airsealed
-t: 
----
-f: units
-t: 
----
-f: can use
-t:  
----
-f: temporary
-t: 
----
-f: atmosphered
-t: 
----
-f: heated
-t: 
----
-f: systematically
-t: 
----
-f: comfort
-t: 
----
-f: companions
-t: 
----
-f: procedure
-t: 
----
-f: strip
-t: 
----
-f: windmill
-t: 
----
-f: rotor
-t: 
----
-f: generated
-t: 
----
-f: blew
-t: 
----
-f: touched
-t: 
----
-f: momentarily
-t: 
----
-f: mask
-t: 
----
-f: grinning
-t: 
----
-f: reference
-t: 
----
-f: hit
-t: 
----
-f: departments
-t: 
----
-f: had close to
-t:   
----
-f: noise
-t: 
----
-f: interrupted
-t: 
----
-f: squawking
-t: 
----
-f: Brobdingnagian
-t: ·
----
-f: parrot
-t: 
